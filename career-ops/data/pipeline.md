@@ -38,5 +38,18 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 - [ ] https://himalayas.app/companies/starship-co/jobs/senior-data-analyst-germany-remote | Starship Technologies | Senior Data Analyst (Germany, Remote)
 - [ ] https://weworkremotely.com/remote-jobs/fingerprint-data-analyst | Fingerprint | Data Analyst - Remote
 - [ ] https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst | AHU Technologies | Data Analyst - Remote
+- [ ] https://careers.hellofresh.com/global/en/job/7601339?gh_jid=7601339 | HelloFresh | Data Analyst
+- [ ] https://n26.com/en-eu/careers/positions/7868515?gh_jid=7868515 | N26 | Product Manager - Data Governance & Analytics Engineering
+- [ ] https://getyourguide.careers/jobs/7846038?gh_jid=7846038 | GetYourGuide | Data Scientist, Growth Data Products
+- [ ] https://getyourguide.careers/jobs/7731706?gh_jid=7731706 | GetYourGuide | Staff Data Scientist, Growth Data Products
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7548713 | Contentful | Data Scientist
+- [ ] https://jobs.ashbyhq.com/almedia/ae9db321-5165-4e8f-9635-dd37358470a4 | Almedia | Analytics Engineer (Berlin)
+- [ ] https://jobs.ashbyhq.com/sosafe/a4582aa2-71a6-4861-ad4b-82e880ed00fc | SoSafe | Senior Data Analytics Engineer (Remote Europe)
+- [ ] https://weworkremotely.com/remote-jobs/abra-data-engineer | abra | Data Engineer (Remote)
+- [ ] https://weworkremotely.com/remote-jobs/toptal-data-engineer-fhir-expertise | Toptal | Data Engineer - FHIR (Remote)
+- [ ] https://www.linkedin.com/jobs/view/3995244142 | Hostaway | RevOps Data Analyst - EMEA Remote
+- [ ] https://www.linkedin.com/jobs/view/4357596833 | Michael Bailey Associates | Data Analyst / Data Engineer Power BI - Remote Europe
+- [ ] https://de.linkedin.com/jobs/view/data-analytics-engineer-w-m-d-at-freenet-ag-4405685541 | freenet AG | Data Analytics Engineer (Hamburg)
+- [ ] https://jobs.ashbyhq.com/finmid.com/72a36a5d-0973-4f0d-9f95-167c72639c43 | Finmid | Data Analyst (Berlin/Remote)
 
 ## Processed
