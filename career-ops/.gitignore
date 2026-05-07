@@ -6,7 +6,7 @@
 # portals.yml   ← tracked
 # modes/_profile.md  ← tracked
 
-reports/*.md
+# reports/*.md  ← tracked in this private repo
 !reports/.gitkeep
 output/*
 !output/.gitkeep
@@ -14,7 +14,7 @@ batch/logs/*
 !batch/logs/.gitkeep
 batch/batch-state.tsv
 batch/batch-input.tsv
-batch/tracker-additions/**/*.tsv
+# batch/tracker-additions/**/*.tsv  ← tracked in this private repo
 !batch/tracker-additions/.gitkeep
 jds/*
 !jds/.gitkeep
