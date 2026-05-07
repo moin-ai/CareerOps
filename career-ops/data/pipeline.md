@@ -1,9 +1,30 @@
-# Pipeline — Pending Job URLs
+﻿# Pipeline — Pending Job URLs
 
 Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [ ] https://job-boards.greenhouse.io/zenjob/jobs/5711315004 | ZENJOB | Senior Data Analyst (f/m/d) — Berlin
+- [ ] https://job-boards.eu.greenhouse.io/jetbrains/jobs/4696272101 | JetBrains | Data Analyst (Data Analytics Team) — Berlin/Munich
+- [ ] https://job-boards.eu.greenhouse.io/moia/jobs/4787250101 | MOIA | (Senior) Data Engineer — Berlin/Hamburg
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5973673004 | Grafana Labs | Senior Web Developer — Germany Remote
+- [ ] https://job-boards.greenhouse.io/caronsale/jobs/4631241101 | CarOnSale | Senior Fullstack Engineer — Berlin
+- [ ] https://jobs.ashbyhq.com/second-nature/f8c438dd-468a-4472-91f6-c8c9ca3ef768 | Second Nature | Business Intelligence Analyst
+- [ ] https://jobs.ashbyhq.com/the-global-talent-co/e5468abd-0605-47d3-bc6f-335597001a7e | The Global Talent Co. | Senior Data Analyst — Berlin
+- [ ] https://jobs.ashbyhq.com/MUBI/b80ac874-252a-4585-9108-bf3e0d2aa38b | MUBI | Data Engineer
+- [ ] https://jobs.ashbyhq.com/kestra/74c49954-a9a0-46d6-a9e8-bbb9e972fb40 | Kestra Technologies | Senior Full-Stack Software Engineer
+- [ ] https://jobs.ashbyhq.com/anyone-ai/cd8cfb77-f39d-4210-86bd-668c413ac60b | Anyone AI | Full-Stack Developer - AI Trainer — Germany
+- [ ] https://remotive.com/remote/jobs/data/data-business-analyst-4511610 | Techtorch | Data Business Analyst — Remote
+- [ ] https://remotive.com/remote/jobs/data/senior-bi-data-analyst-4344073 | Imagine Worldwide | Senior BI & Data Analyst — Remote
+- [ ] https://remotive.com/remote/jobs/data/data-analyst-4435127 | robusta | Data Analyst — Europe/DACH Remote
+- [ ] https://remotive.com/remote/jobs/data/data-analyst-4541915 | VendueTech | Data Analyst — Remote
+- [ ] https://himalayas.app/companies/jobgether/jobs/staff-data-analyst-m-f-d-remote-germany | Jobgether | Staff Data Analyst — Remote Germany
+- [ ] https://weworkremotely.com/remote-jobs/sophos-business-intelligence-strategy-senior-analyst | Sophos | Senior BI & Strategy Analyst — Remote
+- [ ] https://weworkremotely.com/remote-jobs/nest-step-remote-data-analyst | Nest Step | Data Analyst — Remote
+- [ ] https://weworkremotely.com/remote-jobs/htl-recruits-data-analyst | HTL Recruits | Data Analyst — Remote
+- [ ] https://weworkremotely.com/remote-jobs/linear-full-stack-engineer | Linear | Full Stack Engineer — Remote
+- [ ] https://weworkremotely.com/remote-jobs/cliniko-full-stack-developer-for-a-unique-company | Cliniko | Full Stack Developer — Remote (AU)
+- [ ] https://weworkremotely.com/remote-jobs/pronto-pilates-pty-ltd-full-stack-engineer-nestjs-next-js-postgresql-data-pipelines-reporting-1 | Pronto Pilates | Full Stack Engineer — Remote (AU)
 
 ## Processed
 
