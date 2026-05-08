@@ -25,6 +25,33 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 - [ ] https://weworkremotely.com/remote-jobs/linear-full-stack-engineer | Linear | Full Stack Engineer — Remote
 - [ ] https://weworkremotely.com/remote-jobs/cliniko-full-stack-developer-for-a-unique-company | Cliniko | Full Stack Developer — Remote (AU)
 - [ ] https://weworkremotely.com/remote-jobs/pronto-pilates-pty-ltd-full-stack-engineer-nestjs-next-js-postgresql-data-pipelines-reporting-1 | Pronto Pilates | Full Stack Engineer — Remote (AU)
+- [ ] https://job-boards.greenhouse.io/blacklane/jobs/8452185002 | BLACKLANE | Senior Data Analyst (Full Stack) — Berlin
+- [ ] https://job-boards.greenhouse.io/berlinbrands/jobs/5568132004 | Berlin Brands Group | Finance Business Analyst — Berlin
+- [ ] https://job-boards.eu.greenhouse.io/vay/jobs/4767962101 | Vay | Senior Data Engineer — Berlin
+- [ ] https://job-boards.greenhouse.io/dataiku/jobs/5836898004 | Dataiku | Data Engineer — Berlin
+- [ ] https://job-boards.greenhouse.io/jetbrains/jobs/4792246101 | JetBrains | Business Intelligence Analyst (m/w/d) — Berlin/Munich/Remote
+- [ ] https://job-boards.greenhouse.io/jetbrains/jobs/4753248101 | JetBrains | Business Intelligence Analyst — Berlin/Munich
+- [ ] https://job-boards.greenhouse.io/freenow/jobs/7597913 | FREENOW | Business Intelligence Analyst — Germany
+- [ ] https://jobs.ashbyhq.com/bioptimizers/133d2148-e8e0-41fc-b3e3-05fb0c272b9e | BIOptimizers | Strategic Business Intelligence Analyst — Remote
+- [ ] https://jobs.ashbyhq.com/swans/770ebec9-ade2-4b3f-bf69-09152646d40c | Swans | Business Intelligence Analyst — Remote
+- [ ] https://jobs.ashbyhq.com/loopio/827c61b0-c304-4171-b6d9-c4e3ef10f498 | Loopio | Sr. Business Intelligence Analyst — Remote
+- [ ] https://jobs.ashbyhq.com/trading212/61128c53-57c6-45ea-9368-c1a1bb16063c | Trading212 | Business Intelligence Analyst — Remote
+- [ ] https://jobs.ashbyhq.com/codesphere/ff1a1098-64eb-4cf8-aa17-780a667905df | Codesphere | Fullstack Software Engineer — Munich/Karlsruhe
+- [ ] https://jobs.ashbyhq.com/almedia/268bae95-1d69-4e73-9c0b-a6dad7c410e1 | Almedia | Data Engineer — Berlin/Remote
+- [ ] https://weworkremotely.com/remote-jobs/volders-gmbh-business-intelligence-analyst-m-f-d | Volders GmbH | Business Intelligence Analyst (m/f/d) — Remote
+- [ ] https://weworkremotely.com/remote-jobs/comparis-ch-data-engineer-80-100-f-m-x-remote | comparis.ch | Data Engineer (80-100%) — Remote
+- [ ] https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-3 | Lemon.io | Senior React Full-Stack Developer — Remote
+- [ ] https://weworkremotely.com/remote-jobs/master-works-full-stack-developer-react-node-js | Master-works | Full-Stack Developer (React & Node.js) — Remote
+- [ ] https://weworkremotely.com/remote-jobs/spidergap-full-stack-developer-with-work-life-balance-javascript-node-js-react | Spidergap | Full-Stack Developer — Remote
+- [ ] https://himalayas.app/companies/plain-concepts/jobs/data-engineer-power-bi | Plain Concepts | Data Engineer / Power BI — Remote
+- [ ] https://himalayas.app/companies/inetum/jobs/business-intelligence-consultant-specializing-in-microsoft-power-bi | Inetum | Business Intelligence Consultant (Power BI) — Remote
+- [ ] https://remotive.com/remote/jobs/data/bi-developer-data-analyst-1024545 | Autodoc | BI Developer / Data Analyst — Remote (Germany)
+- [ ] https://remotive.com/remote/jobs/data/business-analyst-1662598 | Mobile.de GmbH | Business Analyst — Remote Germany
+- [ ] https://euremotejobs.com/job/data-analyst-8/ | EURemoteJobs | Data Analyst — Remote Europe
+- [ ] https://euremotejobs.com/job/data-engineer-14/ | EURemoteJobs | Data Engineer — Remote Europe
+- [ ] https://euremotejobs.com/job/finance-systems-data-analyst/ | EURemoteJobs | Finance Systems Data Analyst — Remote Europe
+- [ ] https://euremotejobs.com/job/analytics-engineer-data-engineering-background/ | EURemoteJobs | Analytics Engineer — Remote Europe
+- [ ] https://euremotejobs.com/job/senior-data-analyst-marketing/ | EURemoteJobs | Senior Data Analyst, Marketing — Remote Europe
 
 ## Processed
 
