@@ -12,22 +12,22 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 - [x] #053 | https://jobs.ashbyhq.com/second-nature/f8c438dd-468a-4472-91f6-c8c9ca3ef768 | Second Nature | Business Intelligence Analyst | 3.8/5 | PDF ❌
 - [x] #054 | https://jobs.ashbyhq.com/the-global-talent-co/e5468abd-0605-47d3-bc6f-335597001a7e | The Global Talent Co. | Senior Data Analyst | 3.2/5 | PDF ❌
 - [x] #055 | https://jobs.ashbyhq.com/MUBI/b80ac874-252a-4585-9108-bf3e0d2aa38b | MUBI | Data Engineer | 3.5/5 | PDF ❌
-- [ ] https://jobs.ashbyhq.com/kestra/74c49954-a9a0-46d6-a9e8-bbb9e972fb40 | Kestra Technologies | Senior Full-Stack Software Engineer
-- [ ] https://jobs.ashbyhq.com/anyone-ai/cd8cfb77-f39d-4210-86bd-668c413ac60b | Anyone AI | Full-Stack Developer - AI Trainer — Germany
-- [ ] https://remotive.com/remote/jobs/data/data-business-analyst-4511610 | Techtorch | Data Business Analyst — Remote
-- [ ] https://remotive.com/remote/jobs/data/senior-bi-data-analyst-4344073 | Imagine Worldwide | Senior BI & Data Analyst — Remote
-- [ ] https://remotive.com/remote/jobs/data/data-analyst-4435127 | robusta | Data Analyst — Europe/DACH Remote
-- [ ] https://remotive.com/remote/jobs/data/data-analyst-4541915 | VendueTech | Data Analyst — Remote
-- [ ] https://himalayas.app/companies/jobgether/jobs/staff-data-analyst-m-f-d-remote-germany | Jobgether | Staff Data Analyst — Remote Germany
-- [ ] https://weworkremotely.com/remote-jobs/sophos-business-intelligence-strategy-senior-analyst | Sophos | Senior BI & Strategy Analyst — Remote
-- [ ] https://weworkremotely.com/remote-jobs/nest-step-remote-data-analyst | Nest Step | Data Analyst — Remote
-- [ ] https://weworkremotely.com/remote-jobs/htl-recruits-data-analyst | HTL Recruits | Data Analyst — Remote
-- [ ] https://weworkremotely.com/remote-jobs/linear-full-stack-engineer | Linear | Full Stack Engineer — Remote
-- [ ] https://weworkremotely.com/remote-jobs/cliniko-full-stack-developer-for-a-unique-company | Cliniko | Full Stack Developer — Remote (AU)
-- [ ] https://weworkremotely.com/remote-jobs/pronto-pilates-pty-ltd-full-stack-engineer-nestjs-next-js-postgresql-data-pipelines-reporting-1 | Pronto Pilates | Full Stack Engineer — Remote (AU)
-- [ ] https://job-boards.greenhouse.io/blacklane/jobs/8452185002 | BLACKLANE | Senior Data Analyst (Full Stack) — Berlin
-- [ ] https://job-boards.greenhouse.io/berlinbrands/jobs/5568132004 | Berlin Brands Group | Finance Business Analyst — Berlin
-- [ ] https://job-boards.eu.greenhouse.io/vay/jobs/4767962101 | Vay | Senior Data Engineer — Berlin
+- [x] #056 | https://jobs.ashbyhq.com/kestra/74c49954-a9a0-46d6-a9e8-bbb9e972fb40 | Kestra Technologies | Senior Full-Stack Software Engineer | 2.5/5 | PDF ❌
+- [x] #057 | https://jobs.ashbyhq.com/anyone-ai/cd8cfb77-f39d-4210-86bd-668c413ac60b | Anyone AI | Full-Stack Developer - AI Trainer | 2.2/5 | PDF ❌
+- [x] #058 | https://remotive.com/remote/jobs/data/data-business-analyst-4511610 | Techtorch | Data Business Analyst | 3.0/5 | PDF ❌
+- [x] #059 | https://remotive.com/remote/jobs/data/senior-bi-data-analyst-4344073 | Imagine Worldwide | Senior BI & Data Analyst | 2.8/5 | PDF ❌
+- [x] #060 | https://remotive.com/remote/jobs/data/data-analyst-4435127 | robusta | Data Analyst | 3.3/5 | PDF ❌
+- [x] #061 | https://remotive.com/remote/jobs/data/data-analyst-4541915 | VendueTech | Data Analyst | 1.8/5 | PDF ❌
+- [x] #062 | https://himalayas.app/companies/jobgether/jobs/staff-data-analyst-m-f-d-remote-germany | Jobgether | Staff Data Analyst | 3.1/5 | PDF ❌
+- [x] #063 | https://weworkremotely.com/remote-jobs/sophos-business-intelligence-strategy-senior-analyst | Sophos | Senior BI & Strategy Analyst | 3.0/5 | PDF ❌
+- [x] #064 | https://weworkremotely.com/remote-jobs/nest-step-remote-data-analyst | Nest Step | Data Analyst — Remote | 2.2/5 | PDF ❌
+- [x] #065 | https://weworkremotely.com/remote-jobs/htl-recruits-data-analyst | HTL Recruits | Data Analyst — Remote | 2.0/5 | PDF ❌
+- [x] #066 | https://weworkremotely.com/remote-jobs/linear-full-stack-engineer | Linear | Full Stack Engineer — Remote | 3.0/5 | PDF ❌
+- [x] #067 | https://weworkremotely.com/remote-jobs/cliniko-full-stack-developer-for-a-unique-company | Cliniko | Full Stack Developer — Remote (AU) | 3.0/5 | PDF ❌
+- [x] #068 | https://weworkremotely.com/remote-jobs/pronto-pilates-pty-ltd-full-stack-engineer-nestjs-next-js-postgresql-data-pipelines-reporting-1 | Pronto Pilates | Full Stack Engineer — Remote (AU) | 3.1/5 | PDF ❌
+- [x] #069 | https://job-boards.greenhouse.io/blacklane/jobs/8452185002 | BLACKLANE | Senior Data Analyst (Full Stack) — Berlin | 3.0/5 | PDF ❌
+- [x] #070 | https://job-boards.greenhouse.io/berlinbrands/jobs/5568132004 | Berlin Brands Group | Finance Business Analyst — Berlin | 3.2/5 | PDF ❌
+- [x] #071 | https://job-boards.eu.greenhouse.io/vay/jobs/4767962101 | Vay | Senior Data Engineer — Berlin | 2.9/5 | PDF ❌
 - [x] #072 | https://job-boards.greenhouse.io/dataiku/jobs/5836898004 | Dataiku | Data Engineer | 3.1/5 | PDF ❌
 - [x] #073 | https://job-boards.greenhouse.io/jetbrains/jobs/4792246101 | JetBrains | Business Intelligence Analyst (m/w/d) | 3.6/5 | PDF ❌
 - [x] #074 | https://job-boards.greenhouse.io/jetbrains/jobs/4753248101 | JetBrains | Business Intelligence Analyst | 3.5/5 | PDF ❌
@@ -36,14 +36,14 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 - [x] #077 | https://jobs.ashbyhq.com/swans/770ebec9-ade2-4b3f-bf69-09152646d40c | Swans | Business Intelligence Analyst | 2.8/5 | PDF ❌
 - [x] #078 | https://jobs.ashbyhq.com/loopio/827c61b0-c304-4171-b6d9-c4e3ef10f498 | Loopio | Sr. Business Intelligence Analyst | 3.0/5 | PDF ❌
 - [x] #079 | https://jobs.ashbyhq.com/trading212/61128c53-57c6-45ea-9368-c1a1bb16063c | Trading212 | Business Intelligence Analyst | 3.4/5 | PDF ❌
-- [ ] https://jobs.ashbyhq.com/codesphere/ff1a1098-64eb-4cf8-aa17-780a667905df | Codesphere | Fullstack Software Engineer — Munich/Karlsruhe
-- [ ] https://jobs.ashbyhq.com/almedia/268bae95-1d69-4e73-9c0b-a6dad7c410e1 | Almedia | Data Engineer — Berlin/Remote
-- [ ] https://weworkremotely.com/remote-jobs/volders-gmbh-business-intelligence-analyst-m-f-d | Volders GmbH | Business Intelligence Analyst (m/f/d) — Remote
-- [ ] https://weworkremotely.com/remote-jobs/comparis-ch-data-engineer-80-100-f-m-x-remote | comparis.ch | Data Engineer (80-100%) — Remote
-- [ ] https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-3 | Lemon.io | Senior React Full-Stack Developer — Remote
-- [ ] https://weworkremotely.com/remote-jobs/master-works-full-stack-developer-react-node-js | Master-works | Full-Stack Developer (React & Node.js) — Remote
-- [ ] https://weworkremotely.com/remote-jobs/spidergap-full-stack-developer-with-work-life-balance-javascript-node-js-react | Spidergap | Full-Stack Developer — Remote
-- [ ] https://himalayas.app/companies/plain-concepts/jobs/data-engineer-power-bi | Plain Concepts | Data Engineer / Power BI — Remote
+- [x] #080 | https://jobs.ashbyhq.com/codesphere/ff1a1098-64eb-4cf8-aa17-780a667905df | Codesphere | Fullstack Software Engineer | 2.8/5 | PDF ❌
+- [x] #081 | https://jobs.ashbyhq.com/almedia/268bae95-1d69-4e73-9c0b-a6dad7c410e1 | Almedia | Data Engineer | 2.5/5 | PDF ❌
+- [x] #082 | https://weworkremotely.com/remote-jobs/volders-gmbh-business-intelligence-analyst-m-f-d | Volders GmbH | Business Intelligence Analyst (m/f/d) | 3.2/5 | PDF ❌
+- [x] #083 | https://weworkremotely.com/remote-jobs/comparis-ch-data-engineer-80-100-f-m-x-remote | comparis.ch | Data Engineer (80-100%) | 3.0/5 | PDF ❌
+- [x] #084 | https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-3 | Lemon.io | Senior React Full-Stack Developer | 2.0/5 | PDF ❌
+- [x] #085 | https://weworkremotely.com/remote-jobs/master-works-full-stack-developer-react-node-js | Master-works | Full-Stack Developer (React & Node.js) | 2.5/5 | PDF ❌
+- [x] #086 | https://weworkremotely.com/remote-jobs/spidergap-full-stack-developer-with-work-life-balance-javascript-node-js-react | Spidergap | Full-Stack Developer | 3.2/5 | PDF ❌
+- [x] #087 | https://himalayas.app/companies/plain-concepts/jobs/data-engineer-power-bi | Plain Concepts | Data Engineer / Power BI | 4.0/5 | PDF ❌
 - [ ] https://himalayas.app/companies/inetum/jobs/business-intelligence-consultant-specializing-in-microsoft-power-bi | Inetum | Business Intelligence Consultant (Power BI) — Remote
 - [ ] https://remotive.com/remote/jobs/data/bi-developer-data-analyst-1024545 | Autodoc | BI Developer / Data Analyst — Remote (Germany)
 - [ ] https://remotive.com/remote/jobs/data/business-analyst-1662598 | Mobile.de GmbH | Business Analyst — Remote Germany
