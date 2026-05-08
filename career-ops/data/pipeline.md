@@ -4,14 +4,14 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
-- [ ] https://job-boards.greenhouse.io/zenjob/jobs/5711315004 | ZENJOB | Senior Data Analyst (f/m/d) — Berlin
-- [ ] https://job-boards.eu.greenhouse.io/jetbrains/jobs/4696272101 | JetBrains | Data Analyst (Data Analytics Team) — Berlin/Munich
-- [ ] https://job-boards.eu.greenhouse.io/moia/jobs/4787250101 | MOIA | (Senior) Data Engineer — Berlin/Hamburg
-- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5973673004 | Grafana Labs | Senior Web Developer — Germany Remote
-- [ ] https://job-boards.greenhouse.io/caronsale/jobs/4631241101 | CarOnSale | Senior Fullstack Engineer — Berlin
-- [ ] https://jobs.ashbyhq.com/second-nature/f8c438dd-468a-4472-91f6-c8c9ca3ef768 | Second Nature | Business Intelligence Analyst
-- [ ] https://jobs.ashbyhq.com/the-global-talent-co/e5468abd-0605-47d3-bc6f-335597001a7e | The Global Talent Co. | Senior Data Analyst — Berlin
-- [ ] https://jobs.ashbyhq.com/MUBI/b80ac874-252a-4585-9108-bf3e0d2aa38b | MUBI | Data Engineer
+- [x] #048 | https://job-boards.greenhouse.io/zenjob/jobs/5711315004 | Zenjob | Senior Data Analyst (f/m/d) | 3.7/5 | PDF ❌
+- [x] #049 | https://job-boards.eu.greenhouse.io/jetbrains/jobs/4696272101 | JetBrains | Data Analyst (Data Analytics Team) | 3.9/5 | PDF ❌
+- [x] #050 | https://job-boards.eu.greenhouse.io/moia/jobs/4787250101 | MOIA | (Senior) Data Engineer | 3.6/5 | PDF ❌
+- [x] #051 | https://job-boards.greenhouse.io/grafanalabs/jobs/5973673004 | Grafana Labs | Senior Web Developer | 2.8/5 | PDF ❌
+- [x] #052 | https://job-boards.greenhouse.io/caronsale/jobs/4631241101 | CarOnSale | Senior Fullstack Engineer | 2.5/5 | PDF ❌
+- [x] #053 | https://jobs.ashbyhq.com/second-nature/f8c438dd-468a-4472-91f6-c8c9ca3ef768 | Second Nature | Business Intelligence Analyst | 3.8/5 | PDF ❌
+- [x] #054 | https://jobs.ashbyhq.com/the-global-talent-co/e5468abd-0605-47d3-bc6f-335597001a7e | The Global Talent Co. | Senior Data Analyst | 3.2/5 | PDF ❌
+- [x] #055 | https://jobs.ashbyhq.com/MUBI/b80ac874-252a-4585-9108-bf3e0d2aa38b | MUBI | Data Engineer | 3.5/5 | PDF ❌
 - [ ] https://jobs.ashbyhq.com/kestra/74c49954-a9a0-46d6-a9e8-bbb9e972fb40 | Kestra Technologies | Senior Full-Stack Software Engineer
 - [ ] https://jobs.ashbyhq.com/anyone-ai/cd8cfb77-f39d-4210-86bd-668c413ac60b | Anyone AI | Full-Stack Developer - AI Trainer — Germany
 - [ ] https://remotive.com/remote/jobs/data/data-business-analyst-4511610 | Techtorch | Data Business Analyst — Remote
@@ -28,14 +28,14 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 - [ ] https://job-boards.greenhouse.io/blacklane/jobs/8452185002 | BLACKLANE | Senior Data Analyst (Full Stack) — Berlin
 - [ ] https://job-boards.greenhouse.io/berlinbrands/jobs/5568132004 | Berlin Brands Group | Finance Business Analyst — Berlin
 - [ ] https://job-boards.eu.greenhouse.io/vay/jobs/4767962101 | Vay | Senior Data Engineer — Berlin
-- [ ] https://job-boards.greenhouse.io/dataiku/jobs/5836898004 | Dataiku | Data Engineer — Berlin
-- [ ] https://job-boards.greenhouse.io/jetbrains/jobs/4792246101 | JetBrains | Business Intelligence Analyst (m/w/d) — Berlin/Munich/Remote
-- [ ] https://job-boards.greenhouse.io/jetbrains/jobs/4753248101 | JetBrains | Business Intelligence Analyst — Berlin/Munich
-- [ ] https://job-boards.greenhouse.io/freenow/jobs/7597913 | FREENOW | Business Intelligence Analyst — Germany
-- [ ] https://jobs.ashbyhq.com/bioptimizers/133d2148-e8e0-41fc-b3e3-05fb0c272b9e | BIOptimizers | Strategic Business Intelligence Analyst — Remote
-- [ ] https://jobs.ashbyhq.com/swans/770ebec9-ade2-4b3f-bf69-09152646d40c | Swans | Business Intelligence Analyst — Remote
-- [ ] https://jobs.ashbyhq.com/loopio/827c61b0-c304-4171-b6d9-c4e3ef10f498 | Loopio | Sr. Business Intelligence Analyst — Remote
-- [ ] https://jobs.ashbyhq.com/trading212/61128c53-57c6-45ea-9368-c1a1bb16063c | Trading212 | Business Intelligence Analyst — Remote
+- [x] #072 | https://job-boards.greenhouse.io/dataiku/jobs/5836898004 | Dataiku | Data Engineer | 3.1/5 | PDF ❌
+- [x] #073 | https://job-boards.greenhouse.io/jetbrains/jobs/4792246101 | JetBrains | Business Intelligence Analyst (m/w/d) | 3.6/5 | PDF ❌
+- [x] #074 | https://job-boards.greenhouse.io/jetbrains/jobs/4753248101 | JetBrains | Business Intelligence Analyst | 3.5/5 | PDF ❌
+- [x] #075 | https://job-boards.greenhouse.io/freenow/jobs/7597913 | FREENOW | Business Intelligence Analyst | 3.8/5 | PDF ❌
+- [x] #076 | https://jobs.ashbyhq.com/bioptimizers/133d2148-e8e0-41fc-b3e3-05fb0c272b9e | BIOptimizers | Strategic Business Intelligence Analyst | 3.3/5 | PDF ❌
+- [x] #077 | https://jobs.ashbyhq.com/swans/770ebec9-ade2-4b3f-bf69-09152646d40c | Swans | Business Intelligence Analyst | 2.8/5 | PDF ❌
+- [x] #078 | https://jobs.ashbyhq.com/loopio/827c61b0-c304-4171-b6d9-c4e3ef10f498 | Loopio | Sr. Business Intelligence Analyst | 3.0/5 | PDF ❌
+- [x] #079 | https://jobs.ashbyhq.com/trading212/61128c53-57c6-45ea-9368-c1a1bb16063c | Trading212 | Business Intelligence Analyst | 3.4/5 | PDF ❌
 - [ ] https://jobs.ashbyhq.com/codesphere/ff1a1098-64eb-4cf8-aa17-780a667905df | Codesphere | Fullstack Software Engineer — Munich/Karlsruhe
 - [ ] https://jobs.ashbyhq.com/almedia/268bae95-1d69-4e73-9c0b-a6dad7c410e1 | Almedia | Data Engineer — Berlin/Remote
 - [ ] https://weworkremotely.com/remote-jobs/volders-gmbh-business-intelligence-analyst-m-f-d | Volders GmbH | Business Intelligence Analyst (m/f/d) — Remote
