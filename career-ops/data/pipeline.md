@@ -1,4 +1,4 @@
-﻿# Pipeline — Pending Job URLs
+# Pipeline — Pending Job URLs
 
 Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
@@ -44,14 +44,38 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 - [x] #085 | https://weworkremotely.com/remote-jobs/master-works-full-stack-developer-react-node-js | Master-works | Full-Stack Developer (React & Node.js) | 2.5/5 | PDF ❌
 - [x] #086 | https://weworkremotely.com/remote-jobs/spidergap-full-stack-developer-with-work-life-balance-javascript-node-js-react | Spidergap | Full-Stack Developer | 3.2/5 | PDF ❌
 - [x] #087 | https://himalayas.app/companies/plain-concepts/jobs/data-engineer-power-bi | Plain Concepts | Data Engineer / Power BI | 4.0/5 | PDF ❌
-- [ ] https://himalayas.app/companies/inetum/jobs/business-intelligence-consultant-specializing-in-microsoft-power-bi | Inetum | Business Intelligence Consultant (Power BI) — Remote
-- [ ] https://remotive.com/remote/jobs/data/bi-developer-data-analyst-1024545 | Autodoc | BI Developer / Data Analyst — Remote (Germany)
-- [ ] https://remotive.com/remote/jobs/data/business-analyst-1662598 | Mobile.de GmbH | Business Analyst — Remote Germany
-- [ ] https://euremotejobs.com/job/data-analyst-8/ | EURemoteJobs | Data Analyst — Remote Europe
-- [ ] https://euremotejobs.com/job/data-engineer-14/ | EURemoteJobs | Data Engineer — Remote Europe
-- [ ] https://euremotejobs.com/job/finance-systems-data-analyst/ | EURemoteJobs | Finance Systems Data Analyst — Remote Europe
-- [ ] https://euremotejobs.com/job/analytics-engineer-data-engineering-background/ | EURemoteJobs | Analytics Engineer — Remote Europe
-- [ ] https://euremotejobs.com/job/senior-data-analyst-marketing/ | EURemoteJobs | Senior Data Analyst, Marketing — Remote Europe
+- [x] #088 | https://himalayas.app/companies/inetum/jobs/business-intelligence-consultant-specializing-in-microsoft-power-bi | Inetum | Business Intelligence Consultant (Power BI) | 2.2/5 | PDF ❌
+- [x] #089 | https://remotive.com/remote/jobs/data/bi-developer-data-analyst-1024545 | Autodoc | BI Developer / Data Analyst | 3.6/5 | PDF ❌
+- [x] #090 | https://remotive.com/remote/jobs/data/business-analyst-1662598 | Mobile.de GmbH | Business Analyst | 3.5/5 | PDF ❌
+- [x] #091 | https://euremotejobs.com/job/data-analyst-8/ | lemlist (EURemoteJobs) | Data Analyst | 3.4/5 | PDF ❌
+- [x] #092 | https://euremotejobs.com/job/data-engineer-14/ | EURemoteJobs | Data Engineer | 3.0/5 | PDF ❌
+- [x] #093 | https://euremotejobs.com/job/finance-systems-data-analyst/ | EURemoteJobs | Finance Systems Data Analyst | 3.3/5 | PDF ❌
+- [x] #094 | https://euremotejobs.com/job/analytics-engineer-data-engineering-background/ | EURemoteJobs | Analytics Engineer | 3.1/5 | PDF ❌
+- [x] #095 | https://euremotejobs.com/job/senior-data-analyst-marketing/ | EURemoteJobs | Senior Data Analyst, Marketing | 3.0/5 | PDF ❌
+- [x] #096 | https://job-boards.greenhouse.io/dkbcodefactory/jobs/7623922003 | DKB Code Factory | Business Analyst — Germany | 3.8/5 | PDF ❌
+- [x] #101 | https://job-boards.eu.greenhouse.io/neoris/jobs/4722464101 | NEORIS | Senior Business Analyst – Payments & Digital Transformation | 2.8/5 | PDF ❌
+- [x] #097 | https://jobs.ashbyhq.com/sosafe/58fc59dd-1454-4751-9607-2fd50500cf4f | SoSafe | Senior Data Engineer — Remote Europe | 3.0/5 | PDF ❌
+- [x] #102 | https://jobs.ashbyhq.com/wetravel/be03f365-ed21-4aa2-ad48-6f383474cbf7 | WeTravel | Senior BI Analyst | 3.2/5 | PDF ❌
+- [x] #098 | https://www.linkedin.com/jobs/view/3819578609 | Savings United GmbH | Business Intelligence Data Analyst — Remote Europe | 3.5/5 | PDF ❌
+- [x] #099 | https://www.linkedin.com/jobs/view/3822864567 | Savings United GmbH | Business Intelligence Data Engineer — Remote Europe | 3.0/5 | PDF ❌
+- [x] #105 | https://www.linkedin.com/jobs/view/4393001069 | Myticas Consulting | Data Analyst Developer — Power BI, Microsoft Fabric | 2.5/5 | PDF ❌
+- [x] #106 | https://www.linkedin.com/jobs/view/4399299985 | Global Partners Training | Microsoft 365 & Power BI Consultant | 3.3/5 | PDF ❌
+- [x] #107 | https://remotive.com/remote-jobs/data/bi-developer-data-analyst-1969312 | Autodoc | BI Developer / Data Analyst — Germany (new listing) | 3.6/5 | PDF ❌
+- [x] #111 | https://euremotejobs.com/job/data-engineer-nda/ | NDA Company | Data Engineer — Remote Europe | 2.8/5 | PDF ❌
+- [x] #110 | https://euremotejobs.com/job/senior-data-engineer-3/ | Tide | Senior Data Engineer — Remote Europe | 2.8/5 | PDF ❌
+- [x] #112 | https://euremotejobs.com/job/staff-data-engineer/ | Cloudbeds | Staff Data Engineer | 2.0/5 | PDF ❌
+- [x] #113 | https://euremotejobs.com/job/data-engineer-dwh/ | FairMoney | Data Engineer DWH — Remote Europe | 2.5/5 | PDF ❌
+- [x] #114 | https://euremotejobs.com/job/data-analyst-i/ | Acorns | Data Analyst I | 1.8/5 | PDF ❌
+- [x] #103 | https://jobs.ashbyhq.com/nerdwallet/7fc51fd1-3417-45f3-8703-b6ca0ab8ff30 | NerdWallet | Lead Data Analyst | 2.0/5 | PDF ❌
+- [x] #115 | https://jobs.ashbyhq.com/M-KOPA/9b5afc09-8dba-4004-bcfd-ef2be7e4db8c | M-KOPA | Business Intelligence Analyst | 2.5/5 | PDF ❌
+- [x] #116 | https://jobs.ashbyhq.com/gecko-robotics/9817115d-d300-4c82-b9af-75dce32c30d1 | Gecko Robotics | Data Analytics Engineer | 2.0/5 | PDF ❌
+- [x] #100 | https://weworkremotely.com/remote-jobs/toggl-data-analyst | Toggl | Data Analyst | 3.0/5 | PDF ❌
+- [x] #104 | https://job-boards.greenhouse.io/doximity/jobs/7787454 | Doximity | Data Analyst, Business Intelligence | 2.0/5 | PDF ❌
+- [x] #108 | https://job-boards.greenhouse.io/eucalyptus/jobs/4571643005 | Eucalyptus | Business Intelligence Analyst — Remote (AU) | 3.3/5 | PDF ❌
+- [x] #109 | https://job-boards.greenhouse.io/synerg/jobs/5848395004 | Syner-G | Business Analyst | 3.0/5 | PDF ❌
+- [x] #117 | https://job-boards.greenhouse.io/feinternational/jobs/8507961002 | FE International | Full Stack Developer | 2.8/5 | PDF ❌
+- [x] #118 | https://weworkremotely.com/remote-jobs/scarlet-creative-software-full-stack-developer | Scarlet Creative Software | Full Stack Developer | 3.0/5 | PDF ❌
+- [x] #119 | https://weworkremotely.com/remote-jobs/trustworthy-full-stack-software-engineer-react-python | Trustworthy | Full Stack Software Engineer | 2.0/5 | PDF ❌
 
 ## Processed
 
