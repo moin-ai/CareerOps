@@ -4,6 +4,19 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [x] #120 | https://jobs.euremotejobs.com/jobs/power-bi-developer-arhs-group | ARHS Group | Power BI Developer | 4.0/5 | PDF ❌
+- [x] #121 | https://job-boards.greenhouse.io/dataiku/jobs/5973409004 | Dataiku | Data Engineer I (Germany/NL/ES/UK) | 3.8/5 | PDF ❌
+- [x] #122 | https://job-boards.greenhouse.io/gitlab/jobs/8455464002 | GitLab | Data Analyst, Product | 2.8/5 | PDF ❌
+- [x] #123 | https://job-boards.greenhouse.io/anthropic/jobs/4956672008 | Anthropic | Analytics Data Engineer | 1.5/5 | PDF ❌
+- [x] #124 | https://jobs.ashbyhq.com/risklabs/analytics-engineer | Risk Labs | Analytics Engineer | 2.5/5 | PDF ❌
+- [x] #125 | https://www.euremotejobs.com/jobs/deel-full-stack-engineer-forward-deployed | Deel | Full Stack Engineer — Forward Deployed | 2.5/5 | PDF ❌
+- [x] #126 | https://job-boards.greenhouse.io/recharge/jobs/8490399002 | Recharge | Senior Data Analyst, GTM Analytics | 2.0/5 | PDF ❌
+- [x] #127 | https://himalayas.app/companies/techtorch/jobs/full-stack-data-engineer | Techtorch | Full Stack Data Engineer | 2.8/5 | PDF ❌
+- [x] #128 | https://job-boards.greenhouse.io/builderio/jobs/5755085004 | Builder.io | Senior Analytics Engineer | 2.0/5 | PDF ❌
+- [x] #129 | https://jobs.ashbyhq.com/base-power/5a0c2397-aa62-4b25-998d-e06de50f8387 | Base Power Company | Analytics Engineer | 1.5/5 | PDF ❌
+- [x] #130 | https://job-boards.greenhouse.io/jetbrains/jobs/4726522101 | JetBrains | Software Developer (IntelliJ Platform) | 2.0/5 | PDF ❌
+- [x] #131 | https://job-boards.greenhouse.io/jetbrains/jobs/4704053101 | JetBrains | Senior Software Developer (Rider) | 1.5/5 | PDF ❌
+- [x] #132 | https://weworkremotely.com/remote-jobs/remotely-full-stack-developer | Remotely | Full Stack Developer | 1.5/5 | PDF ❌
 - [x] #048 | https://job-boards.greenhouse.io/zenjob/jobs/5711315004 | Zenjob | Senior Data Analyst (f/m/d) | 3.7/5 | PDF ❌
 - [x] #049 | https://job-boards.eu.greenhouse.io/jetbrains/jobs/4696272101 | JetBrains | Data Analyst (Data Analytics Team) | 3.9/5 | PDF ❌
 - [x] #050 | https://job-boards.eu.greenhouse.io/moia/jobs/4787250101 | MOIA | (Senior) Data Engineer | 3.6/5 | PDF ❌
