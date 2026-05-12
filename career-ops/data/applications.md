@@ -2,6 +2,18 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 120 | 2026-05-12 | ARHS | Power BI Developer | 4.0/5 | Evaluated | ❌ | [120](reports/120-arhs-power-bi-2026-05-12.md) | STRONG MATCH: PL-300+DAX+Mercedes-Benz dashboards direct fit; Accenture-linked European company; Germany remote; 3yr exp gap manageable — APPLY |
+| 121 | 2026-05-12 | Dataiku | Data Engineer I | 3.8/5 | Evaluated | ❌ | [121](reports/121-dataiku-de-i-2026-05-12.md) | Strong DE match: Germany remote, Databricks cert + Python/SQL/ETL; Snowflake gap addressable; verify visa sponsorship — APPLY |
+| 123 | 2026-05-12 | Anthropic | Analytics Data Engineer | 1.5/5 | Evaluated | ❌ | [123](reports/123-anthropic-analytics-de-2026-05-12.md) | Hard skip: SF hybrid, US-only, $265K-315K USD, no EU path |
+| 124 | 2026-05-12 | Risk Labs | Analytics Engineer | 2.5/5 | Evaluated | ❌ | [124](reports/124-risklabs-analytics-eng-2026-05-12.md) | Crypto/DeFi domain mismatch; stablecoin comp raises EU Blue Card compliance concern — skip |
+| 125 | 2026-05-12 | Deel | Full Stack Engineer — Forward Deployed | 2.5/5 | Evaluated | ❌ | [125](reports/125-deel-fullstack-fde-2026-05-12.md) | 5+ years seniority gap; revisit in 2-3 years; Deel is a great remote company |
+| 126 | 2026-05-12 | Recharge | Senior Data Analyst, GTM Analytics | 2.0/5 | Evaluated | ❌ | [126](reports/126-recharge-senior-da-gtm-2026-05-12.md) | US remote only; dbt+Looker+Snowflake mismatch; $152-190K USD — hard skip |
+| 127 | 2026-05-12 | Techtorch | Full Stack Data Engineer | 2.8/5 | Evaluated | ❌ | [127](reports/127-techtorch-fullstack-de-2026-05-12.md) | JD inaccessible; limited data; lower priority pending full JD review |
+| 128 | 2026-05-12 | Builder.io | Senior Analytics Engineer | 2.0/5 | Evaluated | ❌ | [128](reports/128-builder-io-senior-ae-2026-05-12.md) | NA only; 5+ years exp gap; dbt+GCP mismatch; $170-190K USD — hard skip |
+| 129 | 2026-05-12 | Base Power Company | Analytics Engineer | 1.5/5 | Evaluated | ❌ | [129](reports/129-base-power-analytics-eng-2026-05-12.md) | US energy company; Austin TX; no EU path — hard skip |
+| 130 | 2026-05-12 | JetBrains | Software Developer (IntelliJ Platform) | 2.0/5 | Evaluated | ❌ | [130](reports/130-jetbrains-swdev-intellij-2026-05-12.md) | Germany OK but Kotlin/Java IDE internals — fundamental stack mismatch; skip |
+| 131 | 2026-05-12 | JetBrains | Senior Software Developer (Rider) | 1.5/5 | Evaluated | ❌ | [131](reports/131-jetbrains-swdev-rider-2026-05-12.md) | Senior level; .NET/C# IDE domain; Germany but wrong stack — hard skip |
+| 132 | 2026-05-12 | Remotely | Full Stack Developer | 1.5/5 | Evaluated | ❌ | [132](reports/132-remotely-fullstack-dev-2026-05-12.md) | Philippines offshore staffing; AUD 1,500/month far below Blue Card threshold — hard skip |
 | 96 | 2026-05-09 | DKB Code Factory | Business Analyst | 3.8/5 | Evaluated | ❌ | [96](reports/096-dkb-code-factory-2026-05-09.md) | Strong BA archetype match; Berlin Germany target; Mercedes-Benz BA skills directly applicable; verify German language req and salary vs Blue Card threshold — APPLY |
 | 98 | 2026-05-09 | Savings United GmbH | Business Intelligence Data Analyst | 3.5/5 | Evaluated | ❌ | [98](reports/098-savings-united-bi-da-2026-05-09.md) | Strong BI archetype match; Remote Germany; PL-300+DAX direct fit; verify posting active + salary vs Blue Card threshold + visa sponsorship |
 | 99 | 2026-05-09 | Savings United GmbH | Business Intelligence Data Engineer | 3.0/5 | Evaluated | ❌ | [99](reports/099-savings-united-bi-de-2026-05-09.md) | GCP vs Azure mismatch; Terraform gap; lower priority than #098 BI DA role — pursue DA role first |
