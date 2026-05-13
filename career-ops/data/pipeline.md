@@ -4,6 +4,29 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4712583101 | Bitpanda | Business Intelligence Analyst
+- [ ] https://job-boards.greenhouse.io/braze/jobs/7315870 | Braze | Senior Data Analyst
+- [ ] https://jobs.ashbyhq.com/Infinite%20Lambda/a028ae5f-07ae-486e-9080-e1af05ca6e7a | Infinite Lambda | T-shaped Senior Data Engineer
+- [ ] https://remotive.com/remote-jobs/data/senior-analytics-engineer-2021240 | Meister | Senior Analytics Engineer
+- [ ] https://euremotejobs.com/job/middle-data-engineer/ | euremotejobs | Middle Data Engineer
+- [ ] https://euremotejobs.com/job/senior-data-engineer-data-lake-remote/ | euremotejobs | Senior Data Engineer — Data Lake
+- [ ] https://euremotejobs.com/job/remote-senior-data-engineer-m-f-d/ | euremotejobs | Remote Senior Data Engineer (m/f/d)
+- [ ] https://euremotejobs.com/job/data-engineer-data-platform/ | Kraken | Data Engineer — Data Platform
+- [ ] https://euremotejobs.com/job/data-analyst-10/ | folk | Data Analyst
+- [ ] https://euremotejobs.com/job/data-analyst-revenue/ | Deel | Data Analyst — Revenue
+- [ ] https://euremotejobs.com/job/lead-data-engineer-2/ | euremotejobs | Lead Data Engineer
+- [ ] https://himalayas.app/companies/neoris/jobs/data-storytelling-power-bi-developer | NEORIS | Data Storytelling — Power BI Developer
+- [ ] https://job-boards.greenhouse.io/go1au/jobs/4638093005 | Go1 Australia | Data Analyst
+- [ ] https://job-boards.greenhouse.io/interworks/jobs/4667474006 | InterWorks | Data Engineer (Sydney)
+- [ ] https://job-boards.greenhouse.io/roller/jobs/5057343007 | ROLLER | Data Analyst — Venue Operations
+- [ ] https://job-boards.greenhouse.io/easygo/jobs/5097649007 | Easygo | Senior Data Analyst — Kick
+- [ ] https://job-boards.greenhouse.io/easygo/jobs/5103303007 | Easygo | Lead Data Analyst — Marketing
+- [ ] https://job-boards.greenhouse.io/sportygroup/jobs/4726334101 | Sporty Group | Data Analyst
+- [ ] https://weworkremotely.com/remote-jobs/mailerlite-data-analyst-1 | MailerLite | Data Analyst
+- [ ] https://weworkremotely.com/remote-jobs/31-green-ltd-full-stack-developer-backend-focus | 31 Green Ltd | Full Stack Developer — Backend Focus
+- [ ] https://weworkremotely.com/remote-jobs/prodevelop-full-stack-developer | Prodevelop | Full Stack Developer
+- [ ] https://weworkremotely.com/remote-jobs/kodify-media-group-senior-full-stack-developer-6 | Kodify Media Group | Senior Full-Stack Developer
+
 - [x] #120 | https://jobs.euremotejobs.com/jobs/power-bi-developer-arhs-group | ARHS Group | Power BI Developer | 4.0/5 | PDF ❌
 - [x] #121 | https://job-boards.greenhouse.io/dataiku/jobs/5973409004 | Dataiku | Data Engineer I (Germany/NL/ES/UK) | 3.8/5 | PDF ❌
 - [x] #122 | https://job-boards.greenhouse.io/gitlab/jobs/8455464002 | GitLab | Data Analyst, Product | 2.8/5 | PDF ❌
