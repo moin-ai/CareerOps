@@ -26,6 +26,19 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 - [ ] https://weworkremotely.com/remote-jobs/31-green-ltd-full-stack-developer-backend-focus | 31 Green Ltd | Full Stack Developer — Backend Focus
 - [ ] https://weworkremotely.com/remote-jobs/prodevelop-full-stack-developer | Prodevelop | Full Stack Developer
 - [ ] https://weworkremotely.com/remote-jobs/kodify-media-group-senior-full-stack-developer-6 | Kodify Media Group | Senior Full-Stack Developer
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7366032 | Contentful | Senior Data Analyst (f/m/d)
+- [ ] https://job-boards.greenhouse.io/titelmedia/jobs/7999286002 | Highsnobiety | Data Engineer (all genders)
+- [ ] https://job-boards.greenhouse.io/future/jobs/4683274005 | Future | Senior/Staff Data Analyst
+- [ ] https://jobs.ashbyhq.com/the-global-talent-co/c2b0cde9-be4f-47c3-9260-ecb7bc053f67 | The Global Talent Co. | Data Analyst
+- [ ] https://jobs.ashbyhq.com/roompricegenie/3ab30b29-b24e-419c-aa75-405e96a872d8 | RoomPriceGenie | (Sr.) Python Data Engineer (m/f/d)
+- [ ] https://jobs.ashbyhq.com/roompricegenie/5deab1aa-f950-4424-b247-65a4a067f221 | RoomPriceGenie | Mid Data Engineer (m/f/d)
+- [ ] https://weworkremotely.com/remote-jobs/42-technologies-data-engineer-full-time-remote | 42 Technologies | Data Engineer
+- [ ] https://weworkremotely.com/remote-jobs/capchase-software-engineer-fullstack-backend-data | Capchase | Software Engineer [fullstack]
+- [ ] https://weworkremotely.com/remote-jobs/breezy-hr-full-stack-software-engineer | Breezy HR | Full-Stack Software Engineer
+- [ ] https://weworkremotely.com/remote-jobs/count-full-stack-engineer | Count | Full-stack Engineer
+- [ ] https://euremotejobs.com/job/analytics-engineer-product-analytics/ | Deel | Analytics Engineer (Product Analytics)
+- [ ] https://job-boards.greenhouse.io/goodwaygroup/jobs/5819360004 | Goodway Group | Global Data Analyst
+- [ ] https://job-boards.greenhouse.io/easygo/jobs/4846456007 | Easygo Gaming | Data Analyst
 
 - [x] #120 | https://jobs.euremotejobs.com/jobs/power-bi-developer-arhs-group | ARHS Group | Power BI Developer | 4.0/5 | PDF ❌
 - [x] #121 | https://job-boards.greenhouse.io/dataiku/jobs/5973409004 | Dataiku | Data Engineer I (Germany/NL/ES/UK) | 3.8/5 | PDF ❌
