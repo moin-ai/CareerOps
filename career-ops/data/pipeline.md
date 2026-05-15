@@ -4,41 +4,41 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
-- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4712583101 | Bitpanda | Business Intelligence Analyst
-- [ ] https://job-boards.greenhouse.io/braze/jobs/7315870 | Braze | Senior Data Analyst
-- [ ] https://jobs.ashbyhq.com/Infinite%20Lambda/a028ae5f-07ae-486e-9080-e1af05ca6e7a | Infinite Lambda | T-shaped Senior Data Engineer
-- [ ] https://remotive.com/remote-jobs/data/senior-analytics-engineer-2021240 | Meister | Senior Analytics Engineer
-- [ ] https://euremotejobs.com/job/middle-data-engineer/ | euremotejobs | Middle Data Engineer
-- [ ] https://euremotejobs.com/job/senior-data-engineer-data-lake-remote/ | euremotejobs | Senior Data Engineer — Data Lake
-- [ ] https://euremotejobs.com/job/remote-senior-data-engineer-m-f-d/ | euremotejobs | Remote Senior Data Engineer (m/f/d)
-- [ ] https://euremotejobs.com/job/data-engineer-data-platform/ | Kraken | Data Engineer — Data Platform
-- [ ] https://euremotejobs.com/job/data-analyst-10/ | folk | Data Analyst
-- [ ] https://euremotejobs.com/job/data-analyst-revenue/ | Deel | Data Analyst — Revenue
-- [ ] https://euremotejobs.com/job/lead-data-engineer-2/ | euremotejobs | Lead Data Engineer
-- [ ] https://himalayas.app/companies/neoris/jobs/data-storytelling-power-bi-developer | NEORIS | Data Storytelling — Power BI Developer
-- [ ] https://job-boards.greenhouse.io/go1au/jobs/4638093005 | Go1 Australia | Data Analyst
-- [ ] https://job-boards.greenhouse.io/interworks/jobs/4667474006 | InterWorks | Data Engineer (Sydney)
-- [ ] https://job-boards.greenhouse.io/roller/jobs/5057343007 | ROLLER | Data Analyst — Venue Operations
-- [ ] https://job-boards.greenhouse.io/easygo/jobs/5097649007 | Easygo | Senior Data Analyst — Kick
-- [ ] https://job-boards.greenhouse.io/easygo/jobs/5103303007 | Easygo | Lead Data Analyst — Marketing
-- [ ] https://job-boards.greenhouse.io/sportygroup/jobs/4726334101 | Sporty Group | Data Analyst
-- [ ] https://weworkremotely.com/remote-jobs/mailerlite-data-analyst-1 | MailerLite | Data Analyst
-- [ ] https://weworkremotely.com/remote-jobs/31-green-ltd-full-stack-developer-backend-focus | 31 Green Ltd | Full Stack Developer — Backend Focus
-- [ ] https://weworkremotely.com/remote-jobs/prodevelop-full-stack-developer | Prodevelop | Full Stack Developer
-- [ ] https://weworkremotely.com/remote-jobs/kodify-media-group-senior-full-stack-developer-6 | Kodify Media Group | Senior Full-Stack Developer
-- [ ] https://job-boards.greenhouse.io/contentful/jobs/7366032 | Contentful | Senior Data Analyst (f/m/d)
-- [ ] https://job-boards.greenhouse.io/titelmedia/jobs/7999286002 | Highsnobiety | Data Engineer (all genders)
-- [ ] https://job-boards.greenhouse.io/future/jobs/4683274005 | Future | Senior/Staff Data Analyst
-- [ ] https://jobs.ashbyhq.com/the-global-talent-co/c2b0cde9-be4f-47c3-9260-ecb7bc053f67 | The Global Talent Co. | Data Analyst
-- [ ] https://jobs.ashbyhq.com/roompricegenie/3ab30b29-b24e-419c-aa75-405e96a872d8 | RoomPriceGenie | (Sr.) Python Data Engineer (m/f/d)
-- [ ] https://jobs.ashbyhq.com/roompricegenie/5deab1aa-f950-4424-b247-65a4a067f221 | RoomPriceGenie | Mid Data Engineer (m/f/d)
-- [ ] https://weworkremotely.com/remote-jobs/42-technologies-data-engineer-full-time-remote | 42 Technologies | Data Engineer
-- [ ] https://weworkremotely.com/remote-jobs/capchase-software-engineer-fullstack-backend-data | Capchase | Software Engineer [fullstack]
-- [ ] https://weworkremotely.com/remote-jobs/breezy-hr-full-stack-software-engineer | Breezy HR | Full-Stack Software Engineer
-- [ ] https://weworkremotely.com/remote-jobs/count-full-stack-engineer | Count | Full-stack Engineer
-- [ ] https://euremotejobs.com/job/analytics-engineer-product-analytics/ | Deel | Analytics Engineer (Product Analytics)
-- [ ] https://job-boards.greenhouse.io/goodwaygroup/jobs/5819360004 | Goodway Group | Global Data Analyst
-- [ ] https://job-boards.greenhouse.io/easygo/jobs/4846456007 | Easygo Gaming | Data Analyst
+- [x] #133 | https://job-boards.eu.greenhouse.io/bitpanda/jobs/4712583101 | Bitpanda | Business Intelligence Analyst | 4.0/5 | PDF ❌
+- [x] #134 | https://job-boards.greenhouse.io/braze/jobs/7315870 | Braze | Senior Data Analyst | 3.5/5 | PDF ❌
+- [x] #135 | https://jobs.ashbyhq.com/Infinite%20Lambda/a028ae5f-07ae-486e-9080-e1af05ca6e7a | Infinite Lambda | T-shaped Senior Data Engineer | 3.8/5 | PDF ❌
+- [x] #136 | https://remotive.com/remote-jobs/data/senior-analytics-engineer-2021240 | Meister | Senior Analytics Engineer | 3.6/5 | PDF ❌
+- [x] #137 | https://euremotejobs.com/job/middle-data-engineer/ | GR8 Tech | Middle Data Engineer | 3.7/5 | PDF ❌
+- [x] #138 | https://euremotejobs.com/job/senior-data-engineer-data-lake-remote/ | Constructor | Senior Data Engineer — Data Lake | 3.6/5 | PDF ❌
+- [x] #139 | https://euremotejobs.com/job/remote-senior-data-engineer-m-f-d/ | RoomPriceGenie | Remote Senior Data Engineer (m/f/d) | 4.0/5 | PDF ❌
+- [x] #140 | https://euremotejobs.com/job/data-engineer-data-platform/ | Kraken | Data Engineer — Data Platform | 3.6/5 | PDF ❌
+- [x] #141 | https://euremotejobs.com/job/data-analyst-10/ | folk | Data Analyst | 4.1/5 | PDF ❌
+- [x] #142 | https://euremotejobs.com/job/data-analyst-revenue/ | Deel | Data Analyst — Revenue | 4.0/5 | PDF ❌
+- [x] #143 | https://euremotejobs.com/job/lead-data-engineer-2/ | euremotejobs | Lead Data Engineer | 3.4/5 | PDF ❌
+- [x] #144 | https://himalayas.app/companies/neoris/jobs/data-storytelling-power-bi-developer | NEORIS | Data Storytelling — Power BI Developer | 4.3/5 | PDF ❌
+- [x] #145 | https://job-boards.greenhouse.io/go1au/jobs/4638093005 | Go1 Australia | Data Analyst | 4.0/5 | PDF ❌
+- [x] #146 | https://job-boards.greenhouse.io/interworks/jobs/4667474006 | InterWorks | Data Engineer (Sydney) | 3.8/5 | PDF ❌
+- [x] #147 | https://job-boards.greenhouse.io/roller/jobs/5057343007 | ROLLER | Data Analyst — Venue Operations | 4.0/5 | PDF ❌
+- [x] #148 | https://job-boards.greenhouse.io/easygo/jobs/5097649007 | Easygo | Senior Data Analyst — Kick | 3.8/5 | PDF ❌
+- [x] #149 | https://job-boards.greenhouse.io/easygo/jobs/5103303007 | Easygo | Lead Data Analyst — Marketing | 3.5/5 | PDF ❌
+- [x] #150 | https://job-boards.greenhouse.io/sportygroup/jobs/4726334101 | Sporty Group | Data Analyst | 4.1/5 | PDF ❌
+- [x] #151 | https://weworkremotely.com/remote-jobs/mailerlite-data-analyst-1 | MailerLite | Data Analyst | 4.2/5 | PDF ❌
+- [x] #152 | https://weworkremotely.com/remote-jobs/31-green-ltd-full-stack-developer-backend-focus | 31 Green Ltd | Full Stack Developer — Backend Focus | 2.8/5 | PDF ❌
+- [x] #153 | https://weworkremotely.com/remote-jobs/prodevelop-full-stack-developer | Prodevelop | Full Stack Developer | 3.3/5 | PDF ❌
+- [x] #154 | https://weworkremotely.com/remote-jobs/kodify-media-group-senior-full-stack-developer-6 | Kodify Media Group | Senior Full-Stack Developer | 3.8/5 | PDF ❌
+- [x] #155 | https://job-boards.greenhouse.io/contentful/jobs/7366032 | Contentful | Senior Data Analyst (f/m/d) | 3.3/5 | PDF ❌
+- [x] #156 | https://job-boards.greenhouse.io/titelmedia/jobs/7999286002 | Highsnobiety | Data Engineer (all genders) | 3.6/5 | PDF ❌
+- [x] #157 | https://job-boards.greenhouse.io/future/jobs/4683274005 | Future | Senior/Staff Data Analyst | 2.5/5 | PDF ❌
+- [x] #158 | https://jobs.ashbyhq.com/the-global-talent-co/c2b0cde9-be4f-47c3-9260-ecb7bc053f67 | The Global Talent Co. | Data Analyst | 4.0/5 | PDF ❌
+- [x] #159 | https://jobs.ashbyhq.com/roompricegenie/3ab30b29-b24e-419c-aa75-405e96a872d8 | RoomPriceGenie | (Sr.) Python Data Engineer (m/f/d) | 3.9/5 | PDF ❌
+- [x] #160 | https://jobs.ashbyhq.com/roompricegenie/5deab1aa-f950-4424-b247-65a4a067f221 | RoomPriceGenie | Mid Data Engineer (m/f/d) | 4.2/5 | PDF ❌
+- [x] #161 | https://weworkremotely.com/remote-jobs/42-technologies-data-engineer-full-time-remote | 42 Technologies | Data Engineer | 4.1/5 | PDF ❌
+- [x] #162 | https://weworkremotely.com/remote-jobs/capchase-software-engineer-fullstack-backend-data | Capchase | Software Engineer [fullstack] | 3.4/5 | PDF ❌
+- [x] #163 | https://weworkremotely.com/remote-jobs/breezy-hr-full-stack-software-engineer | Breezy HR | Full-Stack Software Engineer | 3.6/5 | PDF ❌
+- [x] #164 | https://weworkremotely.com/remote-jobs/count-full-stack-engineer | Count | Full-stack Engineer | 3.8/5 | PDF ❌
+- [x] #165 | https://euremotejobs.com/job/analytics-engineer-product-analytics/ | Deel | Analytics Engineer (Product Analytics) | 4.3/5 | PDF ❌
+- [x] #166 | https://job-boards.greenhouse.io/goodwaygroup/jobs/5819360004 | Goodway Group | Global Data Analyst | 3.5/5 | PDF ❌
+- [x] #167 | https://job-boards.greenhouse.io/easygo/jobs/4846456007 | Easygo Gaming | Data Analyst | 3.2/5 | PDF ❌
 
 - [x] #120 | https://jobs.euremotejobs.com/jobs/power-bi-developer-arhs-group | ARHS Group | Power BI Developer | 4.0/5 | PDF ❌
 - [x] #121 | https://job-boards.greenhouse.io/dataiku/jobs/5973409004 | Dataiku | Data Engineer I (Germany/NL/ES/UK) | 3.8/5 | PDF ❌
