@@ -4,6 +4,26 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [ ] https://job-boards.greenhouse.io/autoscout24/jobs/7578284003 | AutoScout24 | Data Scientist (m/f/d)
+- [ ] https://job-boards.greenhouse.io/topsteptrader/jobs/6667798003 | Topstep | Senior Data Engineer - Data Platforms
+- [ ] https://job-boards.greenhouse.io/prisma6/jobs/4390154002 | PRISMA | Software Engineer (m/f/d) - Germany
+- [ ] https://job-boards.greenhouse.io/clarityai/jobs/4847799101 | Clarity AI | Junior Software Engineer - Berlin
+- [ ] https://job-boards.greenhouse.io/equalexperts/jobs/6807229002 | Equal Experts | Senior Data Engineer - Australia
+- [ ] https://job-boards.greenhouse.io/easygo/jobs/5082743007 | Easygo | Senior Data Engineer - Australia
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5174743008 | Anthropic | Senior Software Engineer, Full-stack
+- [ ] https://jobs.ashbyhq.com/TalentDisruptors/a3266bc9-7421-4035-b581-71e151ef6d73 | Talent Disruptors | Data Analyst
+- [ ] https://jobs.ashbyhq.com/techtorch/6cb88ecf-73b6-4707-8c86-9d5022db514d | Techtorch | Full Stack Data Engineer
+- [ ] https://jobs.ashbyhq.com/risklabs/7b690238-3435-4092-9ad6-a5d7ad23801e | Risk Labs | Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/sosafe/86d983aa-252a-41c6-8ef1-58b40cd6f23a | SoSafe | Senior Analytics Engineer - Remote Europe
+- [ ] https://weworkremotely.com/remote-jobs/siemens-healthineers-data-infrastructure-engineer | Siemens Healthineers | Data Infrastructure Engineer
+- [ ] https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-react-python-developer | Lemon.io | Senior Full-Stack React & Python Developer
+- [ ] https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-developer-4 | Lemon.io | Senior Full-Stack Developer
+- [ ] https://remotive.com/remote/jobs/data/business-analyst-1169017 | 21x | Business Analyst - Germany
+- [ ] https://remotive.com/remote/jobs/data/business-analyst-2281594 | SimCorp A/S | Business Analyst
+- [ ] https://ie.linkedin.com/jobs/view/foundational-data-engineer-worldwide-remote-at-helpgrid-4353554233 | HelpGrid | Foundational Data Engineer - Worldwide Remote
+- [ ] https://au.linkedin.com/jobs/view/microsoft-azure-fabric-or-power-bi-expert-at-bi-dw-australia-4394772311 | BI-DW Australia | Microsoft Azure Fabric or Power BI Expert
+- [ ] https://my.linkedin.com/jobs/view/data-analyst-sg-business-intelligence-at-shopee-4179450787 | Shopee | Data Analyst - SG Business Intelligence - KL
+
 - [x] #133 | https://job-boards.eu.greenhouse.io/bitpanda/jobs/4712583101 | Bitpanda | Business Intelligence Analyst | 4.0/5 | PDF ❌
 - [x] #134 | https://job-boards.greenhouse.io/braze/jobs/7315870 | Braze | Senior Data Analyst | 3.5/5 | PDF ❌
 - [x] #135 | https://jobs.ashbyhq.com/Infinite%20Lambda/a028ae5f-07ae-486e-9080-e1af05ca6e7a | Infinite Lambda | T-shaped Senior Data Engineer | 3.8/5 | PDF ❌
