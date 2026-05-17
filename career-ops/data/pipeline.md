@@ -4,35 +4,35 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
-- [ ] https://jobs.zalando.com/en/jobs/2720849-AI-Data-Analyst-(all-genders) | Zalando | AI Data Analyst (all genders)
-- [ ] https://jobs.zalando.com/en/jobs/2723045-Data-Engineer---Partner-Tech | Zalando | Data Engineer - Partner Tech
-- [ ] https://jobs.zalando.com/en/jobs/2719174-Software-Engineer---Customer-Data-platform-(All-Ge | Zalando | Software Engineer - Customer Data Platform (All Genders)
-- [ ] https://jobs.zalando.com/en/jobs/2722692 | Zalando | Data Engineer (All Genders)
-- [ ] https://jobs.zalando.com/en/jobs/2720379 | Zalando | Senior Data Analyst - Size & Fit (all genders)
-- [ ] https://jobs.zalando.com/en/jobs/2721815 | Zalando | Senior Data Analyst, Customer Segmentation (all genders)
-- [ ] https://jobs.zalando.com/en/jobs/2723400 | Zalando | Senior Data Engineer (all genders)
-- [ ] https://jobs.zalando.com/en/jobs/2722519 | Zalando | Senior Business Analyst - People & Org (all genders)
-- [ ] https://careers.deliveryhero.com/job/data-analyst-data-visualisation-squad-in-berlin-germany-jid-4005 | Delivery Hero | Data Analyst - Data Visualisation Squad
-- [ ] https://careers.deliveryhero.com/job/senior-business-analyst-subscription-and-loyalty-f-m-d-in-berlin-germany-jid-7039 | Delivery Hero | Senior Business Analyst - Subscription & Loyalty (f/m/d)
-- [ ] https://careers.deliveryhero.com/job/mid-level-data-analyst-bi-and-marketing-analytics-all-genders-in-berlin-germany-jid-3076 | Delivery Hero | Mid-Level Data Analyst - BI and Marketing Analytics (all genders)
-- [ ] https://careers.deliveryhero.com/job/associate-data-scientist-global-ranking-in-berlin-germany-jid-4889 | Delivery Hero | Associate Data Scientist - Global Ranking
-- [ ] https://careers.deliveryhero.com/job/senior-data-scientist-logistics-workforce-in-berlin-germany-jid-7713 | Delivery Hero | Senior Data Scientist - Logistics & Workforce (all genders)
-- [ ] https://jobs.ashbyhq.com/statista/f32f8ac1-2ab8-4905-be6b-72020e54ed6f | Statista | Analytics Engineer - Healthcare (m/f/d)
-- [ ] https://jobs.ashbyhq.com/statista/4d1440af-3b49-4cdf-8775-4c5d9bcbf568 | Statista | (Junior) Data Engineer (m/f/d)
-- [ ] https://jobs.ashbyhq.com/statista/122066d5-3375-4036-ae3f-cafb68f0e318 | Statista | (Senior) Data Engineer - Data Architecture (m/f/d)
-- [ ] https://jobs.ashbyhq.com/statista/54015d80-f11a-45a9-b2c4-72fb509d57ce | Statista | Data Engineer - Survey Tools (m/f/d)
-- [ ] https://jobs.ashbyhq.com/statista/e78b8c98-d13e-4dbe-8bc0-bc268865cf4e | Statista | Data Engineering Lead - Data & AI Tools (m/f/d)
-- [ ] https://jobs.ashbyhq.com/statista/daa5811c-c67e-4fdc-abf9-e96b68a5269d | Statista | Analytics Engineer - Reporting Platform (m/f/d)
-- [ ] https://jobs.ashbyhq.com/statista/aa95405d-172e-45a8-84ed-83b161d41674 | Statista | (Junior) Healthcare Data Analyst (m/f/d)
-- [ ] https://jobs.ashbyhq.com/statista/8704eff4-48db-4bea-b2da-c07a3aae085f | Statista | Data Ops Engineer - Insights Automation (m/f/d)
-- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8220407002 | GitLab | Data Analyst, Customer Intelligence
-- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8032914002 | GitLab | Senior Data Analyst
-- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8302127002 | GitLab | Senior Marketing Data Analyst
-- [ ] https://job-boards.greenhouse.io/crossmediainc/jobs/5132700007 | Crossmedia Inc | Business Intelligence Analyst
-- [ ] https://job-boards.greenhouse.io/modulrfinance/jobs/7949758002 | Modulr | Data Analyst
-- [ ] https://weworkremotely.com/remote-jobs/guidehouse-full-stack-analytics-devops-engineer | Guidehouse | Full Stack Analytics DevOps Engineer
-- [ ] https://jobs.ashbyhq.com/techtorch/f8019a7a-eae1-46a4-98a8-7a2d45b157fb | Techtorch | Business Analyst, Data (US)
-- [ ] https://jobs.ashbyhq.com/permitflow/7948310d-15a4-4034-ae09-30d69990cf32 | PermitFlow | Analytics Engineer
+- [x] #187 | https://jobs.zalando.com/en/jobs/2720849-AI-Data-Analyst-(all-genders) | Zalando | AI Data Analyst (all genders) | 3.0/5 | PDF ❌
+- [x] #188 | https://jobs.zalando.com/en/jobs/2723045-Data-Engineer---Partner-Tech | Zalando | Data Engineer - Partner Tech | 3.2/5 | PDF ❌
+- [x] #189 | https://jobs.zalando.com/en/jobs/2719174-Software-Engineer---Customer-Data-platform-(All-Ge | Zalando | Software Engineer - Customer Data Platform | 2.5/5 | PDF ❌
+- [x] #190 | https://jobs.zalando.com/en/jobs/2722692 | Zalando | Data Engineer (All Genders) | 3.3/5 | PDF ❌
+- [x] #191 | https://jobs.zalando.com/en/jobs/2720379 | Zalando | Senior Data Analyst - Size & Fit | 2.5/5 | PDF ❌
+- [x] #192 | https://jobs.zalando.com/en/jobs/2721815 | Zalando | Senior Data Analyst, Customer Segmentation | 2.8/5 | PDF ❌
+- [x] #193 | https://jobs.zalando.com/en/jobs/2723400 | Zalando | Senior Data Engineer (all genders) | 2.3/5 | PDF ❌
+- [x] #194 | https://jobs.zalando.com/en/jobs/2722519 | Zalando | Senior Business Analyst - People & Org | 3.0/5 | PDF ❌
+- [x] #195 | https://careers.deliveryhero.com/job/data-analyst-data-visualisation-squad-in-berlin-germany-jid-4005 | Delivery Hero | Data Analyst - Data Visualisation Squad | 4.0/5 | PDF ❌
+- [x] #196 | https://careers.deliveryhero.com/job/senior-business-analyst-subscription-and-loyalty-f-m-d-in-berlin-germany-jid-7039 | Delivery Hero | Senior Business Analyst - Subscription & Loyalty | 3.3/5 | PDF ❌
+- [x] #197 | https://careers.deliveryhero.com/job/mid-level-data-analyst-bi-and-marketing-analytics-all-genders-in-berlin-germany-jid-3076 | Delivery Hero | Mid-Level Data Analyst - BI and Marketing Analytics | 4.2/5 | PDF ❌
+- [x] #198 | https://careers.deliveryhero.com/job/associate-data-scientist-global-ranking-in-berlin-germany-jid-4889 | Delivery Hero | Associate Data Scientist - Global Ranking | 2.8/5 | PDF ❌
+- [x] #199 | https://careers.deliveryhero.com/job/senior-data-scientist-logistics-workforce-in-berlin-germany-jid-7713 | Delivery Hero | Senior Data Scientist - Logistics & Workforce | 2.0/5 | PDF ❌
+- [x] #203 | https://jobs.ashbyhq.com/statista/f32f8ac1-2ab8-4905-be6b-72020e54ed6f | Statista | Analytics Engineer - Healthcare (m/f/d) | 2.8/5 | PDF ❌
+- [x] #204 | https://jobs.ashbyhq.com/statista/4d1440af-3b49-4cdf-8775-4c5d9bcbf568 | Statista | (Junior) Data Engineer (m/f/d) | 3.7/5 | PDF ❌
+- [x] #205 | https://jobs.ashbyhq.com/statista/122066d5-3375-4036-ae3f-cafb68f0e318 | Statista | (Senior) Data Engineer - Data Architecture (m/f/d) | 2.5/5 | PDF ❌
+- [x] #206 | https://jobs.ashbyhq.com/statista/54015d80-f11a-45a9-b2c4-72fb509d57ce | Statista | Data Engineer - Survey Tools (m/f/d) | 3.2/5 | PDF ❌
+- [x] #207 | https://jobs.ashbyhq.com/statista/e78b8c98-d13e-4dbe-8bc0-bc268865cf4e | Statista | Data Engineering Lead - Data & AI Tools (m/f/d) | 2.0/5 | PDF ❌
+- [x] #208 | https://jobs.ashbyhq.com/statista/daa5811c-c67e-4fdc-abf9-e96b68a5269d | Statista | Analytics Engineer - Reporting Platform (m/f/d) | 3.5/5 | PDF ❌
+- [x] #209 | https://jobs.ashbyhq.com/statista/aa95405d-172e-45a8-84ed-83b161d41674 | Statista | (Junior) Healthcare Data Analyst (m/f/d) | 3.0/5 | PDF ❌
+- [x] #210 | https://jobs.ashbyhq.com/statista/8704eff4-48db-4bea-b2da-c07a3aae085f | Statista | Data Ops Engineer - Insights Automation (m/f/d) | 3.3/5 | PDF ❌
+- [x] #200 | https://job-boards.greenhouse.io/gitlab/jobs/8220407002 | GitLab | Data Analyst, Customer Intelligence | 4.0/5 | PDF ❌
+- [x] #201 | https://job-boards.greenhouse.io/gitlab/jobs/8032914002 | GitLab | Senior Data Analyst | 3.2/5 | PDF ❌
+- [x] #202 | https://job-boards.greenhouse.io/gitlab/jobs/8302127002 | GitLab | Senior Marketing Data Analyst | 3.0/5 | PDF ❌
+- [x] #211 | https://job-boards.greenhouse.io/crossmediainc/jobs/5132700007 | Crossmedia Inc | Business Intelligence Analyst | 2.8/5 | PDF ❌
+- [x] #212 | https://job-boards.greenhouse.io/modulrfinance/jobs/7949758002 | Modulr | Data Analyst | 2.5/5 | PDF ❌
+- [x] #213 | https://weworkremotely.com/remote-jobs/guidehouse-full-stack-analytics-devops-engineer | Guidehouse | Full Stack Analytics DevOps Engineer | 1.2/5 | PDF ❌
+- [x] #214 | https://jobs.ashbyhq.com/techtorch/f8019a7a-eae1-46a4-98a8-7a2d45b157fb | Techtorch | Business Analyst, Data (US) | 1.8/5 | PDF ❌
+- [x] #215 | https://jobs.ashbyhq.com/permitflow/7948310d-15a4-4034-ae09-30d69990cf32 | PermitFlow | Analytics Engineer | 2.2/5 | PDF ❌
 
 - [x] #168 | https://job-boards.greenhouse.io/autoscout24/jobs/7578284003 | AutoScout24 | Data Scientist (m/f/d) | 2.8/5 | PDF ❌
 - [x] #169 | https://job-boards.greenhouse.io/topsteptrader/jobs/6667798003 | Topstep | Senior Data Engineer - Data Platforms | 2.5/5 | PDF ❌
