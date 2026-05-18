@@ -2,6 +2,17 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 218 | 2026-05-18 | ONE Campaign | Data Engineer | 3.2/5 | Evaluated | ❌ | [218](reports/218-onecampaign-data-engineer-2026-05-18.md) | NGO/non-profit, 5+ yrs gap, knowledge graph domain missing, hybrid London/DC |
+| 219 | 2026-05-18 | FREENOW | Junior Data Scientist, Marketplace | 2.8/5 | Evaluated | ❌ | [219](reports/219-freenow-junior-data-scientist-2026-05-18.md) | ML/data science gap vs Moin's BI profile; €45-65k Berlin; BMW/Merc parent |
+| 220 | 2026-05-18 | Relay Technologies | Senior Data Analyst - End Customer | 3.0/5 | Evaluated | ❌ | [220](reports/220-relay-senior-data-analyst-2026-05-18.md) | London hybrid, 5+ yrs required, UK visa not confirmed, logistics domain gap |
+| 221 | 2026-05-18 | Infinite Lambda | Senior Analytics Engineer (Contractor) | 3.0/5 | Evaluated | ❌ | [221](reports/221-infinite-lambda-analytics-engineer-contractor-2026-05-18.md) | B2B contractor, dbt expert required (gap), remote EU; Moinfinity could invoice |
+| 222 | 2026-05-18 | lemlist | Data Analyst | 3.2/5 | Evaluated | ❌ | [222](reports/222-lemlist-data-analyst-2026-05-18.md) | French language hard requirement; remote; good DA fit otherwise |
+| 223 | 2026-05-18 | Kraken | Data Analyst, Regulatory Analytics and Reporting | 2.8/5 | Evaluated | ❌ | [223](reports/223-kraken-data-analyst-regulatory-2026-05-18.md) | AML/KYC domain gap, 5+ yrs, dbt required, USD remote US-focused |
+| 224 | 2026-05-18 | Soda Data | Senior Data Engineer (Python + Remote) | 3.5/5 | Evaluated | ❌ | [224](reports/224-soda-data-senior-data-engineer-2026-05-18.md) | Remote EU, €110k + equity, Python/data quality product, seniority gap |
+| 225 | 2026-05-18 | CI&T | Data Product Analyst | 3.5/5 | Evaluated | ❌ | [225](reports/225-cit-data-product-analyst-2026-05-18.md) | Remote global, good Power BI/SQL fit, IT services model, dbt gap |
+| 226 | 2026-05-18 | Weflow | Senior Full Stack Engineer (Node.js, React) | 3.2/5 | Evaluated | ❌ | [226](reports/226-weflow-senior-fullstack-engineer-2026-05-18.md) | Remote-first Berlin startup, posting may be stale 2022-23, seed stage risk |
+| 227 | 2026-05-18 | Trio | Full Stack Developer (Python & JavaScript) | 2.5/5 | Evaluated | ❌ | [227](reports/227-trio-full-stack-developer-2026-05-18.md) | Latam staffing platform, stale posting (2020?), outsourcing model, below market |
+| 228 | 2026-05-18 | Personio | Data Analyst - Revenue & AI (d/f/m) | 3.8/5 | Evaluated | ❌ | [228](reports/228-personio-data-analyst-revenue-ai-2026-05-18.md) | Munich/Berlin hybrid, unicorn, Revenue Analytics + AI framing, strong fit |
 | 188 | 2026-05-17 | Zalando | Data Engineer - Partner Tech | 3.2/5 | Evaluated | ❌ | [188](reports/188-zalando-data-engineer-partner-tech-2026-05-17.md) | Databricks cert differentiator; AWS vs Azure gap; mid-level bar achievable; visa unconfirmed |
 | 189 | 2026-05-17 | Zalando | Software Engineer - Customer Data Platform | 2.5/5 | Evaluated | ❌ | [189](reports/189-zalando-software-engineer-customer-data-2026-05-17.md) | Java/microservices gaps; SWE-first role not primary archetype; visa unconfirmed |
 | 190 | 2026-05-17 | Zalando | Data Engineer (All Genders) | 3.3/5 | Evaluated | ❌ | [190](reports/190-zalando-data-engineer-2026-05-17.md) | Best DE fit in batch; 3yr bar closest to Moin's experience; Databricks cert differentiates; visa unconfirmed |
