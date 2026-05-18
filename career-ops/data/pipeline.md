@@ -4,6 +4,20 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [ ] https://job-boards.eu.greenhouse.io/jetbrains/jobs/4698787101 | JetBrains | Data Analyst (JetBrains AI)
+- [ ] https://job-boards.greenhouse.io/interworks/jobs/4444207006 | InterWorks | Data Engineer (Berlin)
+- [ ] https://job-boards.greenhouse.io/onecampaign/jobs/5670140004 | ONE Campaign | Data Engineer
+- [ ] https://job-boards.greenhouse.io/freenow/jobs/7735234 | FREENOW | Junior Data Scientist, Marketplace
+- [ ] https://jobs.ashbyhq.com/relay/854a883a-598c-4c73-b7d1-66a48685655a | Relay Technologies | Senior Data Analyst - End Customer
+- [ ] https://jobs.ashbyhq.com/Infinite%20Lambda/da64fe08-9eca-4aab-8aea-09a4ec689cb6 | Infinite Lambda | Senior Analytics Engineer (Contractor)
+- [ ] https://jobs.ashbyhq.com/lemlist/186b90b1-68a8-4e72-b062-2d573b4e33d7 | lemlist | Data Analyst
+- [ ] https://jobs.ashbyhq.com/kraken.com/eb75f7a1-dda4-4d64-8822-babe371116e7 | Kraken | Data Analyst, Regulatory Analytics and Reporting
+- [ ] https://weworkremotely.com/remote-jobs/soda-data-senior-data-engineer-python-remote | Soda Data | Senior Data Engineer
+- [ ] https://weworkremotely.com/remote-jobs/ci-t-27408-data-product-analyst | CI&T | Data Product Analyst
+- [ ] https://weworkremotely.com/remote-jobs/weflow-senior-full-stack-engineer-node-js-react | Weflow | Senior Full Stack Engineer
+- [ ] https://weworkremotely.com/remote-jobs/trio-full-stack-developer-python-javascript | Trio | Full Stack Developer
+- [ ] https://de.linkedin.com/jobs/view/data-analyst-revenue-ai-d-f-m-at-personio-4385473245 | Personio | Data Analyst - Revenue & AI (d/f/m)
+
 - [x] #187 | https://jobs.zalando.com/en/jobs/2720849-AI-Data-Analyst-(all-genders) | Zalando | AI Data Analyst (all genders) | 3.0/5 | PDF ❌
 - [x] #188 | https://jobs.zalando.com/en/jobs/2723045-Data-Engineer---Partner-Tech | Zalando | Data Engineer - Partner Tech | 3.2/5 | PDF ❌
 - [x] #189 | https://jobs.zalando.com/en/jobs/2719174-Software-Engineer---Customer-Data-platform-(All-Ge | Zalando | Software Engineer - Customer Data Platform | 2.5/5 | PDF ❌
