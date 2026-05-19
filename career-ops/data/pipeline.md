@@ -4,6 +4,18 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [ ] https://job-boards.greenhouse.io/alphasense/jobs/8495604002 | AlphaSense | Data Analyst, Product Strategy & AI
+- [ ] https://job-boards.greenhouse.io/tailscale/jobs/4562146005 | Tailscale | Analytics Engineer, Data
+- [ ] https://jobs.ashbyhq.com/statista/0dfba353-cc4f-4615-91a7-6e12e7b4718b | Statista | Data Engineer (m/f/d)
+- [ ] https://jobs.ashbyhq.com/ndeavour/fcb9e3d9-f031-4a2c-bc65-2e2ba399fbca | NDEAVOUR Consulting | Senior Business Intelligence Analyst
+- [ ] https://jobs.ashbyhq.com/elliptic/903aa7f3-54b6-479f-b192-9f829820596b | Elliptic | Data Engineer
+- [ ] https://jobs.ashbyhq.com/techtorch/57deea5d-6374-49dc-ae60-947cb0859dc5 | Techtorch | AI Data Engineer - Cortex AI
+- [ ] https://jobs.ashbyhq.com/hive.co/17d4e01b-61e1-4233-a467-bb0294eb80f1 | hive.co | Data Analyst
+- [ ] https://jobs.ashbyhq.com/dosespot/700a2a3f-2026-46b1-8312-a7a70724cf5b | DoseSpot | Data & Business Intelligence Analyst
+- [ ] https://jobs.ashbyhq.com/webai/54033c95-3065-4534-82be-6600343341eb | webAI | Business Analyst
+- [ ] https://www.linkedin.com/jobs/view/data-analyst-at-tot-de-kern-ai-4397793252 | Tot de Kern.AI | Data Analyst (Berlin)
+- [ ] https://www.linkedin.com/jobs/view/4366112064/ | HashKey Group | Business Data Analyst (KL)
+
 - [x] #216 | https://job-boards.eu.greenhouse.io/jetbrains/jobs/4698787101 | JetBrains | Data Analyst (JetBrains AI) | 3.8/5 | PDF ❌
 - [x] #217 | https://job-boards.greenhouse.io/interworks/jobs/4444207006 | InterWorks | Data Engineer (Berlin) | 2.0/5 | PDF ❌
 - [x] #218 | https://job-boards.greenhouse.io/onecampaign/jobs/5670140004 | ONE Campaign | Data Engineer | 3.2/5 | PDF ❌
