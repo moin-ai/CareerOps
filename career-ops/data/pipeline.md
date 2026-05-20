@@ -4,26 +4,26 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
-- [ ] https://job-boards.greenhouse.io/zenjob/jobs/5633817004 | Zenjob | Senior Product Data Analyst (f/m/d)
-- [ ] https://job-boards.greenhouse.io/simplesurance-referrals/jobs/6780857 | simplesurance | Business Analyst (all genders) - Berlin
-- [ ] https://jobs.ashbyhq.com/neotaste/b4125c21-d043-405d-b8e8-a867adbaae5b | NeoTaste | Full Stack Engineer (Remote Germany)
-- [ ] https://jobs.ashbyhq.com/pragmatike/5ab6774c-d907-4535-9b31-fae4f70235cb | Pragmatike | Founding Full Stack AI Engineer
-- [ ] https://jobs.ashbyhq.com/elliptic/b2c788ac-b1e1-403c-8e3a-4d95a3471b9f | Elliptic | Full Stack Software Engineer
-- [ ] https://job-boards.greenhouse.io/bellroy/jobs/7733782 | Bellroy | Business Insights Analyst
-- [ ] https://job-boards.greenhouse.io/elitetechnology/jobs/5193607008 | Elite Technology | Senior Business Analyst
-- [ ] https://weworkremotely.com/remote-jobs/estenda-solutions-data-quality-analyst-for-real-world-evidence | Estenda Solutions | Data Quality Analyst
-- [ ] https://jobs.ashbyhq.com/sweedpos.com/dd252dc4-947a-41c1-b92b-a76c03028965 | Sweed | Analytics Engineer
-- [ ] https://jobs.ashbyhq.com/Moxie/cbfbd32b-cbb8-46cb-9417-ae9bee42f747 | Moxie | Senior Analytics Engineer
-- [ ] https://jobs.ashbyhq.com/optro/36117f50-ce81-481b-b9ce-9306c1472a7b | Optro | Senior Data Analytics Engineer
-- [ ] https://job-boards.greenhouse.io/thenewyorktimes/jobs/4687022005 | The New York Times | Business Data Analyst
-- [ ] https://job-boards.greenhouse.io/youcom/jobs/5174616008 | You.com | Data Engineer
-- [ ] https://job-boards.greenhouse.io/boulevard/jobs/4671883006 | Boulevard | Staff Data Analyst
-- [ ] https://job-boards.greenhouse.io/betterhelpcom/jobs/5137853008 | BetterHelp | Data Analyst
-- [ ] https://job-boards.greenhouse.io/gallup/jobs/4217886009 | Gallup | Data Analyst
-- [ ] https://jobs.ashbyhq.com/alchemy/75e6dd36-4916-4e72-a596-037945fd741f | Alchemy | Data Analytics Engineer
-- [ ] https://jobs.ashbyhq.com/gamechanger/0cece456-ff2a-4629-b715-17de0f9fe58d | GameChanger | Senior Analytics Engineer
-- [ ] https://jobs.ashbyhq.com/The%20Zebra/bdb61355-db92-4205-8da2-9c46745145cf | The Zebra | Senior Data Analytics Engineer
-- [ ] https://jobs.ashbyhq.com/ramp/9c8eb907-e0f3-4241-8e00-793b8a0acbf6 | Ramp | Senior Analytics Engineer
+- [x] #240 | https://job-boards.greenhouse.io/zenjob/jobs/5633817004 | Zenjob | Senior Product Data Analyst (f/m/d) | 3.8/5 | PDF ❌
+- [x] #27 | https://job-boards.greenhouse.io/simplesurance-referrals/jobs/6780857 | simplesurance | Business Analyst (all genders) - Berlin | 4.1/5 | PDF ❌
+- [x] #242 | https://jobs.ashbyhq.com/neotaste/b4125c21-d043-405d-b8e8-a867adbaae5b | NeoTaste | Full Stack Engineer (Remote Germany) | 3.4/5 | PDF ❌
+- [x] #258 | https://jobs.ashbyhq.com/pragmatike/5ab6774c-d907-4535-9b31-fae4f70235cb | Pragmatike | Founding Full Stack AI Engineer | 3.2/5 | PDF ❌
+- [x] #261 | https://jobs.ashbyhq.com/elliptic/b2c788ac-b1e1-403c-8e3a-4d95a3471b9f | Elliptic | Full Stack Software Engineer | 3.0/5 | PDF ❌
+- [x] #245 | https://job-boards.greenhouse.io/bellroy/jobs/7733782 | Bellroy | Business Insights Analyst | 4.0/5 | PDF ❌
+- [x] #246 | https://job-boards.greenhouse.io/elitetechnology/jobs/5193607008 | Elite Technology | Senior Business Analyst | 2.0/5 | PDF ❌
+- [x] #247 | https://weworkremotely.com/remote-jobs/estenda-solutions-data-quality-analyst-for-real-world-evidence | Estenda Solutions | Data Quality Analyst | 1.5/5 | PDF ❌
+- [x] #248 | https://jobs.ashbyhq.com/sweedpos.com/dd252dc4-947a-41c1-b92b-a76c03028965 | Sweed | Analytics Engineer | 3.3/5 | PDF ❌
+- [x] #249 | https://jobs.ashbyhq.com/Moxie/cbfbd32b-cbb8-46cb-9417-ae9bee42f747 | Moxie | Senior Analytics Engineer | 3.0/5 | PDF ❌
+- [x] #250 | https://jobs.ashbyhq.com/optro/36117f50-ce81-481b-b9ce-9306c1472a7b | Optro | Senior Data Analytics Engineer | 2.0/5 | PDF ❌
+- [x] #251 | https://job-boards.greenhouse.io/thenewyorktimes/jobs/4687022005 | The New York Times | Business Data Analyst | 2.0/5 | PDF ❌
+- [x] #252 | https://job-boards.greenhouse.io/youcom/jobs/5174616008 | You.com | Data Engineer | 2.0/5 | PDF ❌
+- [x] #253 | https://job-boards.greenhouse.io/boulevard/jobs/4671883006 | Boulevard | Staff Data Analyst | 1.5/5 | PDF ❌
+- [x] #254 | https://job-boards.greenhouse.io/betterhelpcom/jobs/5137853008 | BetterHelp | Data Analyst | 2.0/5 | PDF ❌
+- [x] #255 | https://job-boards.greenhouse.io/gallup/jobs/4217886009 | Gallup | Data Analyst | 2.5/5 | PDF ❌
+- [x] #256 | https://jobs.ashbyhq.com/alchemy/75e6dd36-4916-4e72-a596-037945fd741f | Alchemy | Data Analytics Engineer | 2.0/5 | PDF ❌
+- [x] #257 | https://jobs.ashbyhq.com/gamechanger/0cece456-ff2a-4629-b715-17de0f9fe58d | GameChanger | Senior Analytics Engineer | 2.5/5 | PDF ❌
+- [x] #259 | https://jobs.ashbyhq.com/The%20Zebra/bdb61355-db92-4205-8da2-9c46745145cf | The Zebra | Senior Data Analytics Engineer | 2.0/5 | PDF ❌
+- [x] #260 | https://jobs.ashbyhq.com/ramp/9c8eb907-e0f3-4241-8e00-793b8a0acbf6 | Ramp | Senior Analytics Engineer | 2.5/5 | PDF ❌
 
 - [x] #229 | https://job-boards.greenhouse.io/alphasense/jobs/8495604002 | AlphaSense | Data Analyst, Product Strategy & AI | 2.8/5 | PDF ❌
 - [x] #230 | https://job-boards.greenhouse.io/tailscale/jobs/4562146005 | Tailscale | Analytics Engineer, Data | 2.8/5 | PDF ❌
