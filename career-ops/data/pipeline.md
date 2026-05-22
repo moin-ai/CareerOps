@@ -4,6 +4,34 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [x] #260 | https://jobs.ashbyhq.com/neko-health/eda32e65-d0a1-41b4-bc4a-2a6010ccd59c | Neko Health | Senior Data Analyst | 3.8/5 | PDF ❌
+- [x] #261 | https://jobs.ashbyhq.com/SKELAR/3b946698-136f-4b58-a700-f390973f4cc3 | SKELAR | BI Developer/Data Analyst (Power BI) | 3.5/5 | PDF ❌
+- [x] #264 | https://au.linkedin.com/jobs/view/reporting-data-analyst-sql-power-bi-at-tal-australia-4084957241 | TAL Australia | Reporting & Data Analyst (SQL, Power BI) | 3.8/5 | PDF ❌
+- [x] #265 | https://www.linkedin.com/jobs/view/4392829576/ | VDart Malaysia | Business Analyst (Kuala Lumpur) | 2.8/5 | PDF ❌
+- [x] #266 | https://www.linkedin.com/jobs/view/4400520250/ | HTC Global Services | Business Analyst (Kuala Lumpur) | 3.2/5 | PDF ❌
+- [x] #267 | https://www.linkedin.com/jobs/view/business-analyst-report-management-power-bi-at-wolters-kluwer-4393819012 | Wolters Kluwer | Business Analyst - Report Management, Power BI (KL) | 4.0/5 | PDF ❌
+- [x] #268 | https://www.linkedin.com/jobs/view/4399205952/ | CXS Analytics | Business Analyst (Kuala Lumpur) | 3.3/5 | PDF ❌
+- [x] #269 | https://jobs.ashbyhq.com/sunnydata/e49d1a74-fb75-4459-9984-9ec403df27b1 | SunnyData | Data Analyst - Power BI Expertise | 4.3/5 | PDF ❌
+- [x] #270 | https://jobs.ashbyhq.com/sunnydata/b951b8dd-302c-4999-bc5c-fe7386dc76a1 | SunnyData | Senior Business Analyst (Financial Services) | 3.8/5 | PDF ❌
+- [x] #271 | https://jobs.ashbyhq.com/reflow/3329b275-3512-4a56-a280-3bd7df1b5a9d | Reflow | Forward Deployed Data Analyst | 3.2/5 | PDF ❌
+- [x] #272 | https://jobs.ashbyhq.com/gratia/c4d49c8f-f19e-4527-a963-f5bd46fe2f0b | Gratia | Business Analyst | 4.0/5 | PDF ❌
+- [x] #273 | https://jobs.ashbyhq.com/eyt/ec5809c1-dae3-497a-9be5-a0fef35da9df | Extend Your Team | Business Analyst | 2.0/5 | PDF ❌
+- [x] #274 | https://jobs.ashbyhq.com/techtorch/6b0aa014-9697-45d6-a217-4eb9440cbc68 | Techtorch | Data Business Analyst | 4.2/5 | PDF ❌
+- [x] #263 | https://job-boards.greenhouse.io/stripe/jobs/7794729 | Stripe | Data Analyst | 2.8/5 | PDF ❌
+- [x] #262 | https://www.linkedin.com/jobs/view/4394270424/ | Learn it | Junior Data Analyst (Berlin) | 3.6/5 | PDF ❌
+- [x] #275 | https://weworkremotely.com/listings/honestguru-remote-data-analyst | HonestGuru | Remote Data Analyst | 3.8/5 | PDF ❌
+- [x] #276 | https://weworkremotely.com/remote-jobs/lumenalta-javascript-fullstack-engineer-senior | Lumenalta | Javascript Fullstack Engineer - Senior | 2.5/5 | PDF ❌
+- [x] #277 | https://weworkremotely.com/remote-jobs/comparis-ch-experienced-full-stack-software-engineer-net-react-80-100-f-m-x-fully-remote | comparis.ch | Full-Stack Software Engineer (.NET/React) - 80-100% | 2.5/5 | PDF ❌
+- [x] #278 | https://weworkremotely.com/remote-jobs/just-technologies-as-senior-full-stack-developer-nodejs | Just Technologies AS | Senior Full-Stack Developer (NodeJS) | 2.5/5 | PDF ❌
+- [x] #279 | https://weworkremotely.com/remote-jobs/tyb-try-your-best-senior-full-stack-engineer-react | TYB | Senior Full Stack Engineer (React) | 2.5/5 | PDF ❌
+- [x] #280 | https://weworkremotely.com/remote-jobs/nova-full-stack-developer | Nova | Full Stack Developer | 3.0/5 | PDF ❌
+- [x] #281 | https://weworkremotely.com/remote-jobs/dbl-full-stack-javascript-engineer | DBL | Full-stack Javascript Engineer | 2.5/5 | PDF ❌
+- [x] #282 | https://weworkremotely.com/remote-jobs/yooli-software-engineer-position-react-and-rest | Yooli | Software Engineer (React and REST) | 3.0/5 | PDF ❌
+- [x] #283 | https://job-boards.greenhouse.io/xai/jobs/5112514007 | xAI | Data Analyst - Physical Infrastructure | 2.0/5 | PDF ❌
+- [x] #284 | https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5967411004 | Precision Medicine Group | Senior Data Analyst (Power BI Developer) | 3.5/5 | PDF ❌
+- [x] #285 | https://job-boards.greenhouse.io/everdriven/jobs/5207619008 | EverDriven | Business Intelligence Analyst | 2.5/5 | PDF ❌
+- [x] #286 | https://job-boards.greenhouse.io/growtherapy/jobs/4653764005 | Grow Therapy | Business Data Analyst | 2.5/5 | PDF ❌
+
 - [x] #240 | https://job-boards.greenhouse.io/zenjob/jobs/5633817004 | Zenjob | Senior Product Data Analyst (f/m/d) | 3.8/5 | PDF ❌
 - [x] #27 | https://job-boards.greenhouse.io/simplesurance-referrals/jobs/6780857 | simplesurance | Business Analyst (all genders) - Berlin | 4.1/5 | PDF ❌
 - [x] #242 | https://jobs.ashbyhq.com/neotaste/b4125c21-d043-405d-b8e8-a867adbaae5b | NeoTaste | Full Stack Engineer (Remote Germany) | 3.4/5 | PDF ❌
