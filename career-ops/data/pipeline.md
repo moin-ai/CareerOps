@@ -4,6 +4,27 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [ ] https://careers.deliveryhero.com/job/data-analyst-lending-fintech-all-genders-in-berlin-germany-jid-2456 | Delivery Hero | Data Analyst Lending - FinTech (all genders)
+- [ ] https://careers.deliveryhero.com/job/business-analyst-all-genders-in-berlin-germany-jid-576 | Delivery Hero | Business Analyst (all genders)
+- [ ] https://careers.deliveryhero.com/job/data-engineer-search-and-recommendations-in-berlin-germany-jid-3061 | Delivery Hero | Data Engineer - Search and Recommendations
+- [ ] https://careers.deliveryhero.com/job/mid-level-data-engineer-logistics-rider-data-all-genders-in-berlin-germany-jid-1825 | Delivery Hero | (Mid Level) Data Engineer - Logistics, Rider Data
+- [ ] https://careers.deliveryhero.com/job/senior-data-analyst-q-commerce-store-operations-science-in-berlin-germany-jid-938 | Delivery Hero | Senior Data Analyst - Q-Commerce, Store Operations Science
+- [ ] https://careers.deliveryhero.com/job/junior-data-engineer-quick-commerce-in-berlin-germany-jid-3247 | Delivery Hero | Junior Data Engineer - Quick Commerce
+- [ ] https://careers.deliveryhero.com/job/junior-data-scientist-consumer-all-genders-in-berlin-germany-jid-1929 | Delivery Hero | Junior Data Scientist - Consumer (all genders)
+- [ ] https://jobs.zalando.com/de/jobs/2722267 | Zalando | Business Analyst (all genders)
+- [ ] https://jobs.ashbyhq.com/trainline/0e699880-ac27-4824-af8e-7d275b53b0c8 | Trainline | Data Analyst - Product
+- [ ] https://jobs.ashbyhq.com/roadsurfer.com/45f4e2c4-734f-4b50-8bf6-6d4d1b81ea97 | Roadsurfer | Senior Data Engineer - Remote Spain
+- [ ] https://jobs.ashbyhq.com/legora/8f345c52-092e-495f-80fe-7413cb408180 | Legora AB | Senior Analytics Engineer - Finance
+- [ ] https://jobs.ashbyhq.com/docplanner/4e1fa42d-2ed4-4f56-ab19-1c0e760eb015 | Docplanner | Senior Marketing Data Analyst
+- [ ] https://jobs.ashbyhq.com/SunnyData/6a9d9e1b-79c7-44b9-b272-2785657acb8b | SunnyData | Senior Business Data Analyst
+- [ ] https://job-boards.greenhouse.io/vgw-australia/jobs/8476602002 | VGW Australia | Business Intelligence Analyst
+- [ ] https://job-boards.greenhouse.io/ambiententerprises/jobs/5167503008 | Ambient Enterprises | Business Analyst - Accounting & Finance
+- [ ] https://job-boards.greenhouse.io/doordashaustralia/jobs/7931025 | DoorDash Australia | Data Scientist
+- [ ] https://weworkremotely.com/remote-jobs/thinkgrid-labs-fabric-data-engineer-remote | Thinkgrid Labs | Fabric Data Engineer (Remote)
+- [ ] https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer | Reveleer | Full Stack AI Engineer
+- [ ] https://weworkremotely.com/remote-jobs/lemon-io-senior-php-full-stack-developer | Lemon.io | Senior PHP Full-stack Developer
+- [ ] https://es.linkedin.com/jobs/view/data-analyst-data-ai-team-europe-remote-at-webpros-4198330144 | WebPros | Data Analyst - Data & AI Team (Europe, Remote)
+
 - [x] #260 | https://jobs.ashbyhq.com/neko-health/eda32e65-d0a1-41b4-bc4a-2a6010ccd59c | Neko Health | Senior Data Analyst | 3.8/5 | PDF ❌
 - [x] #261 | https://jobs.ashbyhq.com/SKELAR/3b946698-136f-4b58-a700-f390973f4cc3 | SKELAR | BI Developer/Data Analyst (Power BI) | 3.5/5 | PDF ❌
 - [x] #264 | https://au.linkedin.com/jobs/view/reporting-data-analyst-sql-power-bi-at-tal-australia-4084957241 | TAL Australia | Reporting & Data Analyst (SQL, Power BI) | 3.8/5 | PDF ❌
