@@ -4,11 +4,11 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
-- [ ] https://careers.deliveryhero.com/job/data-analyst-lending-fintech-all-genders-in-berlin-germany-jid-2456 | Delivery Hero | Data Analyst Lending - FinTech (all genders)
-- [ ] https://careers.deliveryhero.com/job/business-analyst-all-genders-in-berlin-germany-jid-576 | Delivery Hero | Business Analyst (all genders)
+- [x] #287 | https://careers.deliveryhero.com/job/data-analyst-lending-fintech-all-genders-in-berlin-germany-jid-2456 | Delivery Hero | Data Analyst Lending - FinTech | 3.6/5 | PDF ❌
+- [x] #288 | https://careers.deliveryhero.com/job/business-analyst-all-genders-in-berlin-germany-jid-576 | Delivery Hero | Business Analyst (all genders) | 4.0/5 | PDF ❌
+- [x] #289 | https://careers.deliveryhero.com/job/senior-data-analyst-q-commerce-store-operations-science-in-berlin-germany-jid-938 | Delivery Hero | Senior Data Analyst - Q-Commerce | 3.0/5 | PDF ❌
 - [ ] https://careers.deliveryhero.com/job/data-engineer-search-and-recommendations-in-berlin-germany-jid-3061 | Delivery Hero | Data Engineer - Search and Recommendations
 - [ ] https://careers.deliveryhero.com/job/mid-level-data-engineer-logistics-rider-data-all-genders-in-berlin-germany-jid-1825 | Delivery Hero | (Mid Level) Data Engineer - Logistics, Rider Data
-- [ ] https://careers.deliveryhero.com/job/senior-data-analyst-q-commerce-store-operations-science-in-berlin-germany-jid-938 | Delivery Hero | Senior Data Analyst - Q-Commerce, Store Operations Science
 - [ ] https://careers.deliveryhero.com/job/junior-data-engineer-quick-commerce-in-berlin-germany-jid-3247 | Delivery Hero | Junior Data Engineer - Quick Commerce
 - [ ] https://careers.deliveryhero.com/job/junior-data-scientist-consumer-all-genders-in-berlin-germany-jid-1929 | Delivery Hero | Junior Data Scientist - Consumer (all genders)
 - [ ] https://jobs.zalando.com/de/jobs/2722267 | Zalando | Business Analyst (all genders)
