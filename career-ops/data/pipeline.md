@@ -4,20 +4,20 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
-- [ ] https://jobs.ashbyhq.com/aim4hire/de551c11-e074-4d09-b9b3-a48f7f3aebb6 | Aim4Hire | Data Engineer
-- [ ] https://weworkremotely.com/remote-jobs/ivy-tech-business-analyst | Ivy Tech | Business Analyst
-- [ ] https://weworkremotely.com/remote-jobs/public-partnerships-data-engineer | Public Partnerships | Data Engineer
-- [ ] https://weworkremotely.com/remote-jobs/capital-one-senior-data-engineer-capital-one-software-remote | Capital One | Senior Data Engineer (Remote)
-- [ ] https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-developer-8 | Lemon.io | Senior Full-stack Developer
-- [ ] https://weworkremotely.com/remote-jobs/voltex-electrical-full-stack-developer | Voltex Electrical | Full Stack Developer
-- [ ] https://weworkremotely.com/remote-jobs/ivpn-full-stack-web-developer | IVPN | Full-stack Web Developer
-- [ ] https://www.linkedin.com/jobs/view/data-engineer-remote-from-anywhere-at-workling-4079672868 | Workling | Data Engineer
-- [ ] https://remotive.com/remote-jobs/data/senior-data-analyst-2072931 | team.blue Global | Senior Data Analyst
-- [ ] https://ca.linkedin.com/jobs/view/lead-data-engineer-databricks-remote-at-lumenalta-4407167454 | Lumenalta | Lead Data Engineer - Databricks (Remote)
-- [ ] https://www.linkedin.com/jobs/view/data-engineer-databricks-remote-at-lumenalta-4382909432 | Lumenalta | Data Engineer - Databricks (Remote)
-- [ ] https://www.linkedin.com/jobs/view/4373642681/ | AIA Digital+ | Lead Analyst - Power Platform (KL)
-- [ ] https://www.linkedin.com/jobs/view/business-intelligence-developer-with-power-bi-remote-at-optum-4380110182 | Optum | Business Intelligence Developer - Power BI (Remote)
-- [ ] https://remoteok.com/remote-jobs/remote-data-analyst-everbridge-1131851 | Everbridge | Remote Data Analyst
+- [x] #307 | https://jobs.ashbyhq.com/aim4hire/de551c11-e074-4d09-b9b3-a48f7f3aebb6 | Aim4Hire | Data Engineer | 3.3/5 | PDF ❌
+- [x] #308 | https://weworkremotely.com/remote-jobs/ivy-tech-business-analyst | Ivy Tech | Business Analyst | 2.5/5 | PDF ❌
+- [x] #309 | https://weworkremotely.com/remote-jobs/public-partnerships-data-engineer | Public Partnerships | Data Engineer | 2.0/5 | PDF ❌
+- [x] #310 | https://weworkremotely.com/remote-jobs/capital-one-senior-data-engineer-capital-one-software-remote | Capital One | Senior Data Engineer (Remote) | 1.5/5 | PDF ❌
+- [x] #311 | https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-developer-8 | Lemon.io | Senior Full-stack Developer | 2.5/5 | PDF ❌
+- [x] #312 | https://weworkremotely.com/remote-jobs/voltex-electrical-full-stack-developer | Voltex Electrical | Full Stack Developer | 2.8/5 | PDF ❌
+- [x] #313 | https://weworkremotely.com/remote-jobs/ivpn-full-stack-web-developer | IVPN | Full-stack Web Developer | 3.0/5 | PDF ❌
+- [x] #314 | https://remotive.com/remote-jobs/data/senior-data-analyst-2072931 | team.blue Global | Senior Data Analyst | 3.0/5 | PDF ❌
+- [x] #315 | https://ca.linkedin.com/jobs/view/lead-data-engineer-databricks-remote-at-lumenalta-4407167454 | Lumenalta | Lead Data Engineer - Databricks (Remote) | 2.0/5 | PDF ❌
+- [x] #316 | https://www.linkedin.com/jobs/view/data-engineer-databricks-remote-at-lumenalta-4382909432 | Lumenalta | Data Engineer - Databricks (Remote) | 3.5/5 | PDF ❌
+- [x] #317 | https://www.linkedin.com/jobs/view/4373642681/ | AIA Digital+ | Lead Analyst - Power Platform (KL) | 4.0/5 | PDF ❌
+- [x] #318 | https://www.linkedin.com/jobs/view/business-intelligence-developer-with-power-bi-remote-at-optum-4380110182 | Optum | Business Intelligence Developer - Power BI (Remote) | 2.0/5 | PDF ❌
+- [x] #319 | https://remoteok.com/remote-jobs/remote-data-analyst-everbridge-1131851 | Everbridge | Remote Data Analyst | 2.5/5 | PDF ❌
+- [x] #320 | https://www.linkedin.com/jobs/view/data-engineer-remote-from-anywhere-at-workling-4079672868 | Workling | Data Engineer (Remote from Anywhere) | 2.5/5 | PDF ❌
 
 - [x] #287 | https://careers.deliveryhero.com/job/data-analyst-lending-fintech-all-genders-in-berlin-germany-jid-2456 | Delivery Hero | Data Analyst Lending - FinTech | 3.6/5 | PDF ❌
 - [x] #288 | https://careers.deliveryhero.com/job/business-analyst-all-genders-in-berlin-germany-jid-576 | Delivery Hero | Business Analyst (all genders) | 4.0/5 | PDF ❌
