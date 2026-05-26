@@ -4,6 +4,18 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [x] #321 | https://job-boards.greenhouse.io/sumup/jobs/8559467002 | SumUp | Data Analyst – Consumer Bank | 3.7/5 | PDF ❌
+- [x] #322 | https://job-boards.greenhouse.io/yipitdata/jobs/7353070 | YipitData | Data Analyst | 2.5/5 | PDF ❌
+- [x] #333 | https://remotive.com/remote-jobs/data/microsoft-power-bi-data-analyst-developer-2079762 | M365Connect | Microsoft Power BI Data Analyst/Developer | 4.0/5 | PDF ❌
+- [x] #324 | https://remotive.com/remote/jobs/data/business-intelligence-analyst-4214290 | Telestream | Business Intelligence Analyst | 2.5/5 | PDF ❌
+- [x] #325 | https://remotive.com/remote/jobs/data/power-bi-developer-4173333 | Atlas Technica | Power BI Developer | 3.8/5 | PDF ❌
+- [x] #326 | https://remotive.com/remote/jobs/data/power-bi-engineer-4646401 | The Providencia Group | Power BI Engineer | 2.0/5 | PDF ❌
+- [x] #332 | https://remotive.com/remote/jobs/data/business-intelligence-analytics-consultant-4495376 | 24-Seven | Business Intelligence & Analytics Consultant | 3.0/5 | PDF ❌
+- [x] #328 | https://remotive.com/remote/jobs/data/senior-lead-bi-data-analyst-4060796 | Exadel | Senior/Lead BI Data Analyst | 2.0/5 | PDF ❌
+- [x] #329 | https://remotive.com/remote/jobs/data/engineer-big-data-power-bi-databricks-sql-data-modeling-3745705 | Molina Healthcare | Engineer, Big Data (Power BI/Databricks/SQL) | 2.5/5 | PDF ❌
+- [x] #330 | https://au.linkedin.com/jobs/view/power-bi-at-itbility-4384218230 | ITbility | Power BI Analyst (Melbourne) | 3.5/5 | PDF ❌
+- [x] #331 | https://jobsearch.baesystems.com/job/power-platform-developer-121543 | BAE Systems | Power Platform Developer (Kuala Lumpur) | 3.8/5 | PDF ❌
+
 - [x] #307 | https://jobs.ashbyhq.com/aim4hire/de551c11-e074-4d09-b9b3-a48f7f3aebb6 | Aim4Hire | Data Engineer | 3.3/5 | PDF ❌
 - [x] #308 | https://weworkremotely.com/remote-jobs/ivy-tech-business-analyst | Ivy Tech | Business Analyst | 2.5/5 | PDF ❌
 - [x] #309 | https://weworkremotely.com/remote-jobs/public-partnerships-data-engineer | Public Partnerships | Data Engineer | 2.0/5 | PDF ❌
