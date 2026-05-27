@@ -4,6 +4,26 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [x] #345 | https://job-boards.greenhouse.io/practicebetter/jobs/5172180008 | Practice Better | Data & Analytics Engineer | 2.8/5 | PDF ❌
+- [x] #344 | https://job-boards.greenhouse.io/pelago/jobs/4820781007 | Pelago | Data Engineer | 3.0/5 | PDF ❌
+- [x] #336 | https://job-boards.greenhouse.io/commercetools/jobs/7617548003 | commercetools | Senior Full-Stack Developer (Berlin) | 2.8/5 | PDF ❌
+- [x] #346 | https://weworkremotely.com/remote-jobs/praia-health-inc-staff-software-engineer-data-infrastructure | Praia Health | Staff Software Engineer - Data Infrastructure | 1.8/5 | PDF ❌
+- [x] #347 | https://weworkremotely.com/remote-jobs/jobs-for-lebanon-full-stack-web-developer-php-react | Jobs for Lebanon | Full Stack Web Developer (PHP/React) | 2.5/5 | PDF ❌
+- [x] #334 | https://www.linkedin.com/jobs/view/power-bi-developer-at-vhr-consultancy-4273708763 | VHR Consultancy | Power BI Developer (Selangor, Malaysia) | 3.8/5 | PDF ❌
+- [x] #335 | https://www.linkedin.com/jobs/view/power-bi-financial-analysis-fp-a-coe-at-msp-hitect-4280078840 | MSP Hitect | Power BI - Financial Analysis (Petaling Jaya, Malaysia) | 3.5/5 | PDF ❌
+- [x] #343 | https://remotive.com/remote/jobs/data/business-analyst-4226258 | Viant | Business Analyst | 2.8/5 | PDF ❌
+- [x] #341 | https://remotive.com/remote/jobs/data/business-intelligence-data-analyst-developer-3804700 | Orange | Business Intelligence / Data Analyst Developer | 2.8/5 | PDF ❌
+- [x] #337 | https://remotive.com/remote/jobs/data/business-intelligence-analyst-4635664 | 24-MAG | Business Intelligence Analyst | 3.2/5 | PDF ❌
+- [x] #338 | https://remotive.com/remote/jobs/software-development/data-engineer-4310463 | Fasken | Data Engineer | 3.0/5 | PDF ❌
+- [x] #340 | https://remotive.com/remote/jobs/data/senior-bi-analyst-4224524 | Ciklum | Senior BI Analyst | 2.5/5 | PDF ❌
+- [x] #342 | https://remotive.com/remote/jobs/software-development/sql-senior-data-engineer-power-bi-l2-4385796 | Trinetix | SQL Senior / Data Engineer + Power BI (L2) | 2.8/5 | PDF ❌
+- [x] #339 | https://remotive.com/remote/jobs/data/senior-business-data-analyst-1489727 | LastPass | Senior Business Data Analyst | 3.3/5 | PDF ❌
+- [x] #348 | https://remotive.com/remote/jobs/data/power-bi-developer-3866032 | CACI | Power BI Developer | 1.5/5 | PDF ❌
+- [x] #349 | https://remotive.com/remote/jobs/software-development/senior-power-bi-developer-4406790 | Cooper Equipment Rentals | Senior Power BI Developer | 2.8/5 | PDF ❌
+- [x] #350 | https://remotive.com/remote/jobs/data/power-bi-developer-3939535 | Contact Government Services | Power BI Developer | 1.5/5 | PDF ❌
+- [x] #351 | https://remotive.com/remote/jobs/data/power-bi-developer-4194465 | Immiland Canada | Power BI Developer | 2.5/5 | PDF ❌
+- [x] #352 | https://remotive.com/remote/jobs/data/power-bi-developer-4259556 | Xpress Wellness Urgent Care | Power BI Developer | 2.2/5 | PDF ❌
+
 - [x] #321 | https://job-boards.greenhouse.io/sumup/jobs/8559467002 | SumUp | Data Analyst – Consumer Bank | 3.7/5 | PDF ❌
 - [x] #322 | https://job-boards.greenhouse.io/yipitdata/jobs/7353070 | YipitData | Data Analyst | 2.5/5 | PDF ❌
 - [x] #333 | https://remotive.com/remote-jobs/data/microsoft-power-bi-data-analyst-developer-2079762 | M365Connect | Microsoft Power BI Data Analyst/Developer | 4.0/5 | PDF ❌
