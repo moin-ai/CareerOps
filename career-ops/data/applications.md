@@ -2,6 +2,17 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 354 | 2026-05-28 | saas.group | Data Engineer (German-speaking 9 months) | 2.3/5 | SKIP | ❌ | [354](reports/354-saasgroup-data-engineer-german-2026-05-28.md) | B2 German required; fixed-term; do not apply |
+| 355 | 2026-05-28 | Eurowings Digital | Senior Data Engineer | 3.4/5 | Evaluated | ❌ | [355](reports/355-eurowings-digital-senior-data-engineer-2026-05-28.md) | Lufthansa subsidiary Cologne remote; apply with visa note |
+| 358 | 2026-05-28 | Evolute CX GmbH | Full-Stack Developer (React/Node.js/TypeScript) | 2.9/5 | SKIP | ❌ | [358](reports/358-evolute-cx-gmbh-full-stack-developer-2026-05-28.md) | Germany HQ but React Native + Node.js gap |
+| 359 | 2026-05-28 | Input Logic | Full Stack Developer (React/Python) | 2.9/5 | SKIP | ❌ | [359](reports/359-input-logic-full-stack-react-python-2026-05-28.md) | React gap; archetype mismatch; no EU Blue Card path |
+| 360 | 2026-05-28 | Blueprint | Business Intelligence Analyst | 2.1/5 | SKIP | ❌ | [360](reports/360-blueprint-bi-analyst-2026-05-28.md) | USA remote; Sigma Computing tool; no work auth |
+| 361 | 2026-05-28 | Binance | Business Intelligence/Data Analyst | 2.0/5 | SKIP | ❌ | [361](reports/361-binance-bi-data-analyst-2026-05-28.md) | Crypto; MENA/Asia; 4-6yr req; regulatory risk |
+| 362 | 2026-05-28 | DaCodes | Business Intelligence Analyst | 1.8/5 | SKIP | ❌ | [362](reports/362-dacodes-bi-analyst-2026-05-28.md) | LATAM employer; wrong geography; low comp |
+| 363 | 2026-05-28 | Alvys | Senior Data Engineer | 2.2/5 | SKIP | ❌ | [363](reports/363-alvys-senior-data-engineer-2026-05-28.md) | USA remote; Snowflake gap; senior req; no work auth |
+| 364 | 2026-05-28 | Archie Labs | Power BI Developer | 1.5/5 | SKIP | ❌ | [364](reports/364-archie-labs-power-bi-developer-2026-05-28.md) | LATAM only; $40/day BYOD; ineligible geography |
+| 365 | 2026-05-28 | DecisionPoint | Data Engineer | 1.5/5 | SKIP | ❌ | [365](reports/365-decisionpoint-data-engineer-2026-05-28.md) | US federal; clearance likely req; 5+ years |
+| 367 | 2026-05-28 | Fluence International | Full-Stack Developer (6 months extendable) | 3.0/5 | Evaluated | ❌ | [367](reports/367-fluence-international-full-stack-developer-2026-05-28.md) | Worldwide remote; $3.5-5k/month; React gap; bridge only |
 | 334 | 2026-05-27 | VHR Consultancy | Power BI Developer | 3.8/5 | Evaluated | ❌ | [334](reports/334-vhr-consultancy-power-bi-developer-2026-05-27.md) | Malaysia market, strong Power BI match, recruiter posting — confirm end employer |
 | 335 | 2026-05-27 | MSP Hitect | Power BI – Financial Analysis / FP&A/COE | 3.5/5 | Evaluated | ❌ | [335](reports/335-msp-hitect-power-bi-fpa-2026-05-27.md) | Malaysia market, Power BI match, FP&A domain gap — apply with framing |
 | 336 | 2026-05-27 | commercetools | Senior Full-Stack Developer | 2.8/5 | Evaluated | ❌ | [336](reports/336-commercetools-senior-fullstack-developer-2026-05-27.md) | Berlin Germany hybrid, TypeScript backend focus — seniority/tech gap |
@@ -20,7 +31,7 @@
 | 350 | 2026-05-27 | Contact Government Services | Power BI Developer | 1.5/5 | Evaluated | ❌ | [350](reports/350-contact-government-services-power-bi-developer-2026-05-27.md) | US federal contractor Power BI; clearance required, Bangladeshi national cannot obtain US clearance |
 | 351 | 2026-05-27 | Immiland Canada | Power BI Developer | 2.5/5 | Evaluated | ❌ | [351](reports/351-immiland-canada-power-bi-developer-2026-05-27.md) | Canada immigration firm Power BI; tech match solid but niche domain, Canada market not primary, likely Canada-only remote |
 | 352 | 2026-05-27 | Xpress Wellness Urgent Care | Power BI Developer | 2.2/5 | Evaluated | ❌ | [352](reports/352-xpress-wellness-power-bi-developer-2026-05-27.md) | US healthcare Power BI; strong tech match but US-only, no sponsorship, HIPAA domain gap |
-| 353 | 2026-05-27 | 24-MAG | Business Intelligence Analyst | 3.2/5 | Evaluated | ❌ | [337](reports/337-24mag-business-intelligence-analyst-2026-05-27.md) | Part-time contractor $75-110/hr, strong BI skills match — supplemental income only |
+| 353 | 2026-05-28 | Ada Health | Senior Data Engineer | 3.6/5 | Evaluated | ❌ | [353](reports/353-ada-health-senior-data-engineer-2026-05-28.md) | Re-eval 2026-05-28 (3.2→3.6). Berlin remote; strong skills match; seniority gap; apply |
 | 322 | 2026-05-26 | YipitData | Data Analyst | 2.5 | Evaluated | ❌ | reports/322-yipitdata-data-analyst-2026-05-26.md | US-centric hiring; no work auth path; financial research domain gap; skip |
 | 324 | 2026-05-26 | Telestream | Business Intelligence Analyst | 2.5 | Evaluated | ❌ | reports/324-telestream-business-intelligence-analyst-2026-05-26.md | US-only remote; Glassdoor 2.9/5; quarterly layoffs; leadership instability; skip |
 | 325 | 2026-05-26 | Atlas Technica | Power BI Developer | 3.8 | Evaluated | ❌ | reports/325-atlas-technica-power-bi-developer-2026-05-26.md | Remote worldwide; PL-300+DAX match; 4yr req is stretch but cert compensates; apply |
@@ -55,7 +66,7 @@
 | 298 | 2026-05-23 | Legora AB | Senior Analytics Engineer - Finance | 2.8/5 | Evaluated | ❌ | [298](reports/298-legora-ab-senior-analytics-engineer-finance-2026-05-23.md) | dbt/Snowflake stack gap + SaaS finance domain gap; unicorn company but not the right fit at senior level |
 | 300 | 2026-05-23 | Roadsurfer | Senior Data Engineer - Remote Spain | 2.6/5 | Evaluated | ❌ | [300](reports/300-roadsurfer-senior-data-engineer-remote-spain-2026-05-23.md) | Spain geo restriction + CDP/GDPR stack gap; outside target market and archetype |
 | 301 | 2026-05-23 | Thinkgrid Labs | Fabric Data Engineer (Remote) | 3.2/5 | Evaluated | ❌ | [301](reports/301-thinkgrid-labs-fabric-data-engineer-2026-05-23.md) | Microsoft Fabric/Power BI ecosystem overlap but 6-10yr requirement and India-rate comp likely below target |
-| 302 | 2026-05-23 | VGW Australia | Business Intelligence Analyst | 3.4/5 | Evaluated | ❌ | [302](reports/302-vgw-australia-bi-analyst-2026-05-23.md) | Australia gaming company, BI Analyst; decent AU match |
+| 302 | 2026-05-28 | VGW Australia | Business Intelligence Analyst | 3.5/5 | Evaluated | ❌ | [356](reports/356-vgw-australia-bi-analyst-2026-05-28.md) | Re-eval 2026-05-28 (3.4→3.5). Sydney BI Analyst; Snowflake LLM tool; apply |
 | 303 | 2026-05-23 | DoorDash Australia | Data Scientist | 2.2/5 | Evaluated | ❌ | [303](reports/303-doordash-australia-data-scientist-2026-05-23.md) | AU, DS not primary archetype, ML gap |
 | 304 | 2026-05-23 | Ambient Enterprises | Business Analyst - Accounting & Finance | 2.8/5 | Evaluated | ❌ | [304](reports/304-ambient-enterprises-business-analyst-2026-05-23.md) | US-based, accounting domain, legitimacy caution |
 | 305 | 2026-05-23 | Reveleer | Full Stack AI Engineer | 2.0/5 | Evaluated | ❌ | [305](reports/305-reveleer-full-stack-ai-engineer-2026-05-23.md) | US health-tech, AI eng not primary target, limited remote signals |

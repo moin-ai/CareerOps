@@ -4,6 +4,22 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [x] #353 | https://job-boards.greenhouse.io/adahealth/jobs/8086622002 | Ada Health | Senior Data Engineer | 3.6/5 | PDF ❌
+- [x] #354 | https://job-boards.eu.greenhouse.io/saasgroup/jobs/4653079101 | saas.group | Data Engineer (German-speaking, 9 months) | 2.3/5 | PDF ❌
+- [x] #355 | https://job-boards.greenhouse.io/eurowingsdigital/jobs/6597406003 | Eurowings Digital | Senior Data Engineer | 3.4/5 | PDF ❌
+- [x] #356 | https://job-boards.greenhouse.io/vgw-australia/jobs/8556085002 | VGW Australia | Business Intelligence Analyst | 3.5/5 | PDF ❌
+- [x] #357 | https://weworkremotely.com/remote-jobs/lemon-io-full-stack-developer-python-react | Lemon.io | Full-Stack Developer (Python/React) | 2.8/5 | PDF ❌
+- [x] #358 | https://weworkremotely.com/remote-jobs/evolute-cx-gmbh-full-stack-developer-react-native-node-js-typescript-upper-mid | Evolute CX GmbH | Full-Stack Developer (React/Node.js/TypeScript) | 2.9/5 | PDF ❌
+- [x] #359 | https://weworkremotely.com/remote-jobs/input-logic-full-stack-react-python-developer | Input Logic | Full Stack Developer (React/Python) | 2.9/5 | PDF ❌
+- [x] #360 | https://remotive.com/remote/jobs/data/business-intelligence-analyst-4461933 | Blueprint | Business Intelligence Analyst | 2.1/5 | PDF ❌
+- [x] #361 | https://remotive.com/remote/jobs/data/business-intelligence-data-analyst-3728442 | Binance | Business Intelligence/Data Analyst | 2.0/5 | PDF ❌
+- [x] #362 | https://remotive.com/remote/jobs/data/business-intelligence-analyst-4484544 | DaCodes | Business Intelligence Analyst | 1.8/5 | PDF ❌
+- [x] #363 | https://remotive.com/remote/jobs/software-development/senior-data-engineer-3304458 | Alvys | Senior Data Engineer | 2.2/5 | PDF ❌
+- [x] #364 | https://remotive.com/remote-jobs/data/power-bi-developer-2077629 | Archie Labs | Power BI Developer | 1.5/5 | PDF ❌
+- [x] #365 | https://remotive.com/remote/jobs/data/data-engineer-4758702 | DecisionPoint | Data Engineer | 1.5/5 | PDF ❌
+- [x] #366 | https://remotive.com/remote-jobs/software-development/senior-full-stack-react-developer-2088644 | Lemon.io | Senior Full-Stack React Developer | 2.5/5 | PDF ❌
+- [x] #367 | https://remotive.com/remote-jobs/software-development/full-stack-developer-6-months-extendable-2088631 | Fluence International | Full-Stack Developer (6 months) | 3.0/5 | PDF ❌
+
 - [x] #345 | https://job-boards.greenhouse.io/practicebetter/jobs/5172180008 | Practice Better | Data & Analytics Engineer | 2.8/5 | PDF ❌
 - [x] #344 | https://job-boards.greenhouse.io/pelago/jobs/4820781007 | Pelago | Data Engineer | 3.0/5 | PDF ❌
 - [x] #336 | https://job-boards.greenhouse.io/commercetools/jobs/7617548003 | commercetools | Senior Full-Stack Developer (Berlin) | 2.8/5 | PDF ❌
