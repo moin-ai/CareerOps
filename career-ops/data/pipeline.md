@@ -4,6 +4,20 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [x] #368 | https://jobs.ashbyhq.com/everfield/82a1e29d-ae5d-464e-9251-2946548f618a | Everfield | Financial Data Analyst | 3.3/5 | PDF ❌
+- [x] #369 | https://jobs.ashbyhq.com/meridianlink/34f98d8a-5130-45bb-bd3b-ee58c05f2829 | MeridianLink | Sr. Data Engineer | 1.5/5 | PDF ❌
+- [x] #370 | https://weworkremotely.com/remote-jobs/toptal-full-stack-engineer-python-react-genai | Toptal | Full Stack Engineer (Python/React/GenAI) | 1.8/5 | PDF ❌
+- [x] #371 | https://weworkremotely.com/remote-jobs/rhino-partners-full-stack-developer-python-django-next-js-kubernetes-remote | Rhino Partners | Full Stack Developer (Python/Django/Next.js) | 2.8/5 | PDF ❌
+- [x] #372 | https://weworkremotely.com/remote-jobs/summedd-full-stack-engineer-with-ai-coding-expertise-for-saas-platform | Summedd | Full Stack Engineer (AI/SaaS) | 3.2/5 | PDF ❌
+- [x] #373 | https://remotive.com/remote/jobs/data/sr-business-intelligence-analyst-1304974 | Deleteme | Sr. Business Intelligence Analyst | 1.8/5 | PDF ❌
+- [x] #374 | https://remotive.com/remote/jobs/data/business-analyst-2567737 | Toptal | Business Analyst | 1.5/5 | PDF ❌
+- [x] #375 | https://remotive.com/remote-jobs/software-dev/junior-consultant-business-intelligence-schwerpunkt-power-bi-all-genders-2011208 | drjve AG | Junior Consultant Business Intelligence (Power BI) | 4.0/5 | PDF ❌
+- [x] #376 | https://remotive.com/remote/jobs/data/business-intelligence-analyst-3798649 | Duelbits | Business Intelligence Analyst | 1.5/5 | PDF ❌
+- [x] #377 | https://remotive.com/remote/jobs/data/data-analyst-4-power-bi-4336147 | TOMORROW HIRE | Data Analyst - Power BI | 1.0/5 | PDF ❌
+- [x] #378 | https://remotive.com/remote-jobs/data/power-bi-architect-2079764 | Tiger Analytics | Power BI Architect | 1.5/5 | PDF ❌
+- [x] #379 | https://remotive.com/remote/jobs/data/power-bi-analytics-engineer-4061806 | GreenCode | Power BI Analytics Engineer | 3.2/5 | PDF ❌
+- [x] #380 | https://remotive.com/remote/jobs/data/power-bi-engineer-4199990 | Kentro | Power BI Engineer | 1.0/5 | PDF ❌
+
 - [x] #353 | https://job-boards.greenhouse.io/adahealth/jobs/8086622002 | Ada Health | Senior Data Engineer | 3.6/5 | PDF ❌
 - [x] #354 | https://job-boards.eu.greenhouse.io/saasgroup/jobs/4653079101 | saas.group | Data Engineer (German-speaking, 9 months) | 2.3/5 | PDF ❌
 - [x] #355 | https://job-boards.greenhouse.io/eurowingsdigital/jobs/6597406003 | Eurowings Digital | Senior Data Engineer | 3.4/5 | PDF ❌
