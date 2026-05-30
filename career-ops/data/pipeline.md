@@ -4,6 +4,18 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [x] #381 | https://careers.deliveryhero.com/job/data-analyst-fintech-all-genders-in-berlin-germany-jid-3083 | Delivery Hero | Data Analyst - Fintech (all genders) | 3.7/5 | PDF ❌
+- [x] #382 | https://jobs.zalando.com/en/jobs/2723446-Senior-Data-&-Product-Analyst---12-months-contract | Zalando | Senior Data & Product Analyst - 12 months contract | 3.2/5 | PDF ❌
+- [x] #383 | https://weworkremotely.com/remote-jobs/baqend-gmbh-senior-data-product-visualization-analyst-remote-or-hamburg | Baqend GmbH | (Senior) Data Product & Visualization Analyst | 3.8/5 | PDF ❌
+- [x] #384 | https://weworkremotely.com/remote-jobs/the-timberline-group-marketing-data-and-bi-analyst | The Timberline Group | Marketing Data and BI Analyst | 2.0/5 | PDF ❌
+- [x] #385 | https://jobs.ashbyhq.com/forus/5a8640ce-8a3e-40bf-afd1-f0b63a0a2ef3 | Forus | Data & Analytics Engineer | 2.5/5 | PDF ❌
+- [x] #386 | https://jobs.ashbyhq.com/kraken.com/91bd357d-b135-4eef-a773-e23c0ea4219f | Kraken | Data Analyst, Product | 2.3/5 | PDF ❌
+- [x] #387 | https://jobs.ashbyhq.com/traba/ded6e7e2-6898-4383-800d-c8db52c631d8 | Traba | Senior Data Analyst - Founding Team | 2.0/5 | PDF ❌
+- [x] #388 | https://jobs.ashbyhq.com/pylon-labs/5e408085-d4e0-4f05-8a93-010751a43dbf | Pylon | Analytics Engineer | 2.0/5 | PDF ❌
+- [x] #389 | https://job-boards.greenhouse.io/monzo/jobs/7743422 | Monzo | Senior Data Analyst, Financial Health | 2.5/5 | PDF ❌
+- [x] #390 | https://job-boards.greenhouse.io/cribl/jobs/5739562004 | Cribl | Data Engineer | 2.0/5 | PDF ❌
+- [x] #391 | https://jobs.ashbyhq.com/pearlhealth/4832509b-c607-4801-af71-5d361ed365fd | Pearl Health | Senior Data Analyst, Analytics Engineering | 2.0/5 | PDF ❌
+
 - [x] #368 | https://jobs.ashbyhq.com/everfield/82a1e29d-ae5d-464e-9251-2946548f618a | Everfield | Financial Data Analyst | 3.3/5 | PDF ❌
 - [x] #369 | https://jobs.ashbyhq.com/meridianlink/34f98d8a-5130-45bb-bd3b-ee58c05f2829 | MeridianLink | Sr. Data Engineer | 1.5/5 | PDF ❌
 - [x] #370 | https://weworkremotely.com/remote-jobs/toptal-full-stack-engineer-python-react-genai | Toptal | Full Stack Engineer (Python/React/GenAI) | 1.8/5 | PDF ❌
