@@ -4,22 +4,34 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
-- [ ] https://jobs.zalando.com/en/jobs/2720381-Senior-Data-Analyst---Size-%26-Fit-(all-genders)-AS | Zalando | Senior Data Analyst - Size & Fit (all genders)
-- [ ] https://careers.deliveryhero.com/job/senior-data-scientist-choice-logistics-all-genders-in-berlin-germany-jid-2780 | Delivery Hero | Senior Data Scientist - Choice, Logistics (all genders)
-- [ ] https://careers.hellofresh.com/global/en/job/7423984?gh_jid=7423984 | HelloFresh | Senior Data Analyst, Marketing Analytics (f/m/x)
-- [ ] https://careers.hellofresh.com/global/en/job/7434207?gh_jid=7434207 | HelloFresh | Senior Marketing Data Analyst
-- [ ] https://jobs.ashbyhq.com/sunnydata/651e0c69-2af5-49b9-8880-210f872e4924 | SunnyData | Senior Business Analyst (Healthcare)
-- [ ] https://jobs.ashbyhq.com/statista/d61c6c4d-d97e-44a2-9b30-f758055c1198 | Statista | Data Engineer - Data Platform (m/f/d)
-- [ ] https://jobs.ashbyhq.com/roompricegenie/c72eaef9-f3e6-4a95-9856-a5b989446309 | RoomPriceGenie | Remote Data Engineering Manager (m/f/d)
-- [ ] https://jobs.ashbyhq.com/publiccloudgroup/45294359-8406-4475-9e09-a833fb77c7b5 | Public Cloud Group | Data Engineer (w/m/d) remote DE
-- [ ] https://jobs.ashbyhq.com/newtonx/7142b950-55c4-444d-ae24-678b2ddd727c | NewtonX | Senior Data Engineer / Analyst
-- [ ] https://jobs.ashbyhq.com/kraken.com/782eea12-4114-4123-bae7-e897a057d196 | Kraken | Data Analyst, Growth
-- [ ] https://remotive.com/remote/jobs/data/lead-business-intelligence-analyst-4057802 | Jobgether | Lead Business Intelligence Analyst
-- [ ] https://remotive.com/remote/jobs/data/business-intelligence-analyst-3903766 | Hire Overseas | Business Intelligence Analyst
-- [ ] https://remotive.com/remote/jobs/data/power-bi-analytics-developer-4429276 | Arbitration Forums Inc. | Power BI Analytics Developer
-- [ ] https://remotive.com/remote/jobs/data/business-analyst-3765435 | Version 1 | Business Analyst
-- [ ] https://au.linkedin.com/jobs/view/solution-engineer-power-platform-sydney-melbourne-at-microsoft-4331108673 | Microsoft | Solution Engineer - Power Platform (Sydney/Melbourne)
-- [ ] https://www.linkedin.com/jobs/view/4350743510/ | POWER IT SERVICES | Full Stack Engineer (Kuala Lumpur)
+- [ ] https://weworkremotely.com/remote-jobs/proxify-ab-senior-microsoft-power-bi-developer-4 | Proxify AB | Senior Microsoft Power BI Developer
+- [ ] https://weworkremotely.com/remote-jobs/proxify-ab-senior-data-engineer-azure | Proxify AB | Senior Data Engineer (Azure)
+- [ ] https://weworkremotely.com/remote-jobs/proxify-ab-senior-ms-power-platform-developer | Proxify AB | Senior MS Power Platform Developer
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4673224005 | dbt Labs | Senior Data Engineer
+- [ ] https://weworkremotely.com/remote-jobs/elite-software-automation-business-analyst-1 | Elite Software Automation | Business Analyst
+- [ ] https://weworkremotely.com/remote-jobs/sanctuary-computer-llm-data-engineer | Sanctuary Computer | LLM Data Engineer
+- [ ] https://remotive.com/remote/jobs/data/data-migration-engineer-data-analyst-2455815 | EUROPEAN DYNAMICS | Data Migration Engineer / Data Analyst
+- [ ] https://remotive.com/remote/jobs/data/data-analyst-4435408 | Globaldev Group | Data Analyst
+- [ ] https://www.linkedin.com/jobs/view/senior-data-engineer-at-epam-systems-4413686268 | EPAM Systems | Senior Data Engineer
+- [ ] https://remotive.com/remote/jobs/data/bi-business-analyst-4327791 | PCC Talent Acquisition | BI Business Analyst
+- [ ] https://remotive.com/remote/jobs/data/business-intelligence-analyst-4214748 | RadNet | Business Intelligence Analyst
+
+- [x] #392 | https://jobs.zalando.com/en/jobs/2720381-Senior-Data-Analyst---Size-%26-Fit-(all-genders)-AS | Zalando | Senior Data Analyst - Size & Fit (all genders) | 2.8/5 | PDF ❌
+- [x] #393 | https://careers.deliveryhero.com/job/senior-data-scientist-choice-logistics-all-genders-in-berlin-germany-jid-2780 | Delivery Hero | Senior Data Scientist - Choice, Logistics (all genders) | 1.9/5 | PDF ❌
+- [x] #394 | https://careers.hellofresh.com/global/en/job/7423984?gh_jid=7423984 | HelloFresh | Senior Data Analyst, Marketing Analytics (f/m/x) | 2.9/5 | PDF ❌
+- [x] #395 | https://careers.hellofresh.com/global/en/job/7434207?gh_jid=7434207 | HelloFresh | Senior Marketing Data Analyst | 3.0/5 | PDF ❌
+- [x] #396 | https://jobs.ashbyhq.com/sunnydata/651e0c69-2af5-49b9-8880-210f872e4924 | SunnyData | Senior Business Analyst (Healthcare) | 3.0/5 | PDF ❌
+- [x] #397 | https://jobs.ashbyhq.com/statista/d61c6c4d-d97e-44a2-9b30-f758055c1198 | Statista | Data Engineer - Data Platform (m/f/d) | 3.4/5 | PDF ❌
+- [x] #398 | https://jobs.ashbyhq.com/roompricegenie/c72eaef9-f3e6-4a95-9856-a5b989446309 | RoomPriceGenie | Remote Data Engineering Manager (m/f/d) | 2.4/5 | PDF ❌
+- [x] #399 | https://jobs.ashbyhq.com/publiccloudgroup/45294359-8406-4475-9e09-a833fb77c7b5 | Public Cloud Group | Data Engineer (w/m/d) remote DE | 3.2/5 | PDF ❌
+- [x] #400 | https://jobs.ashbyhq.com/newtonx/7142b950-55c4-444d-ae24-678b2ddd727c | NewtonX | Senior Data Engineer / Analyst | 2.0/5 | PDF ❌
+- [x] #401 | https://jobs.ashbyhq.com/kraken.com/782eea12-4114-4123-bae7-e897a057d196 | Kraken | Data Analyst, Growth | 2.2/5 | PDF ❌
+- [x] #402 | https://remotive.com/remote/jobs/data/lead-business-intelligence-analyst-4057802 | Bounteous (via Jobgether) | Lead Business Intelligence Analyst | 2.3/5 | PDF ❌
+- [x] #403 | https://remotive.com/remote/jobs/data/business-intelligence-analyst-3903766 | Hire Overseas | Business Intelligence Analyst | 3.4/5 | PDF ❌
+- [x] #404 | https://remotive.com/remote/jobs/data/power-bi-analytics-developer-4429276 | Arbitration Forums Inc. | Power BI Analytics Developer | 1.8/5 | PDF ❌
+- [x] #408 | https://remotive.com/remote/jobs/data/business-analyst-3765435 | Version 1 | Business Analyst | 3.2/5 | PDF ❌
+- [x] #406 | https://au.linkedin.com/jobs/view/solution-engineer-power-platform-sydney-melbourne-at-microsoft-4331108673 | Microsoft | Solution Engineer - Power Platform (Sydney/Melbourne) | 3.9/5 | PDF ❌
+- [x] #407 | https://www.linkedin.com/jobs/view/4350743510/ | POWER IT SERVICES | Full Stack Engineer (Kuala Lumpur) | 2.8/5 | PDF ❌
 
 - [x] #381 | https://careers.deliveryhero.com/job/data-analyst-fintech-all-genders-in-berlin-germany-jid-3083 | Delivery Hero | Data Analyst - Fintech (all genders) | 3.7/5 | PDF ❌
 - [x] #382 | https://jobs.zalando.com/en/jobs/2723446-Senior-Data-&-Product-Analyst---12-months-contract | Zalando | Senior Data & Product Analyst - 12 months contract | 3.2/5 | PDF ❌
