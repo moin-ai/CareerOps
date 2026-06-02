@@ -4,31 +4,31 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
-- [ ] https://jobs.ashbyhq.com/amboss/b0a32c5d-e3e1-4620-9f24-857fafabc599 | AMBOSS | Junior Data Analyst (Berlin)
-- [ ] https://jobs.ashbyhq.com/roadsurfer.com/83000499-b633-47b6-8159-285feea131ca | Roadsurfer | Senior Data Engineer (Remote Spain/EU)
-- [ ] https://weworkremotely.com/remote-jobs/proxify-ab-senior-data-engineer-aws-python-1 | Proxify AB | Senior Data Engineer (AWS & Python)
-- [ ] https://remotive.com/remote/jobs/data/business-intelligence-analyst-4622494 | Playlist | Business Intelligence Analyst
-- [ ] https://remotive.com/remote/jobs/data/business-intelligence-analyst-4593975 | Mercor | Business Intelligence Analyst
-- [ ] https://remotive.com/remote/jobs/data/senior-data-analyst-4443276 | Invite Only | Senior Data Analyst
-- [ ] https://au.linkedin.com/jobs/view/business-intelligence-analyst-at-mercer-4404031155 | Mercer | Business Intelligence Analyst (Melbourne)
-- [ ] https://www.linkedin.com/jobs/view/senior-data-analyst-google-analytics-360-at-epam-systems-4413685274 | EPAM Systems | Senior Data Analyst (Google Analytics 360)
-- [ ] https://job-boards.eu.greenhouse.io/decathlontechnology/jobs/4795083101 | Decathlon Digital | Analytics Engineer
-- [ ] https://job-boards.greenhouse.io/map/jobs/8543421002 | VML MAP | Data Engineer
-- [ ] https://remotive.com/remote/jobs/software-development/full-stack-developer-3779470 | Nexer Group | Full-Stack Developer
-- [ ] https://remotive.com/remote/jobs/software-development/full-stack-developer-4305483 | Uni Systems | Full-Stack Developer
-- [ ] https://weworkremotely.com/remote-jobs/mmdsmart-ltd-senior-full-stack-developer-go-react | Mmdsmart Ltd | Senior Full Stack Developer (Go/React)
-- [ ] https://remotive.com/remote/jobs/data/business-intelligence-analyst-4561371 | 24-MAG | Business Intelligence Analyst
-- [ ] https://weworkremotely.com/remote-jobs/proxify-ab-senior-microsoft-power-bi-developer-4 | Proxify AB | Senior Microsoft Power BI Developer
-- [ ] https://weworkremotely.com/remote-jobs/proxify-ab-senior-data-engineer-azure | Proxify AB | Senior Data Engineer (Azure)
-- [ ] https://weworkremotely.com/remote-jobs/proxify-ab-senior-ms-power-platform-developer | Proxify AB | Senior MS Power Platform Developer
-- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4673224005 | dbt Labs | Senior Data Engineer
-- [ ] https://weworkremotely.com/remote-jobs/elite-software-automation-business-analyst-1 | Elite Software Automation | Business Analyst
-- [ ] https://weworkremotely.com/remote-jobs/sanctuary-computer-llm-data-engineer | Sanctuary Computer | LLM Data Engineer
-- [ ] https://remotive.com/remote/jobs/data/data-migration-engineer-data-analyst-2455815 | EUROPEAN DYNAMICS | Data Migration Engineer / Data Analyst
-- [ ] https://remotive.com/remote/jobs/data/data-analyst-4435408 | Globaldev Group | Data Analyst
-- [ ] https://www.linkedin.com/jobs/view/senior-data-engineer-at-epam-systems-4413686268 | EPAM Systems | Senior Data Engineer
-- [ ] https://remotive.com/remote/jobs/data/bi-business-analyst-4327791 | PCC Talent Acquisition | BI Business Analyst
-- [ ] https://remotive.com/remote/jobs/data/business-intelligence-analyst-4214748 | RadNet | Business Intelligence Analyst
+- [x] #409 | https://jobs.ashbyhq.com/amboss/b0a32c5d-e3e1-4620-9f24-857fafabc599 | AMBOSS | Junior Data Analyst (Berlin) | 3.5/5 | PDF ❌
+- [x] #300 (re-eval #410) | https://jobs.ashbyhq.com/roadsurfer.com/83000499-b633-47b6-8159-285feea131ca | Roadsurfer | Senior Data Engineer (Remote Spain/EU) | 2.8/5 | PDF ❌
+- [x] #411 | https://weworkremotely.com/remote-jobs/proxify-ab-senior-data-engineer-aws-python-1 | Proxify AB | Senior Data Engineer (AWS & Python) | 3.0/5 | PDF ❌
+- [x] #412 | https://remotive.com/remote/jobs/data/business-intelligence-analyst-4622494 | Playlist | Business Intelligence Analyst | 3.2/5 | PDF ❌
+- [x] #413 | https://remotive.com/remote/jobs/data/business-intelligence-analyst-4593975 | Mercor | Business Intelligence Analyst | 3.8/5 | PDF ❌
+- [x] #414 | https://remotive.com/remote/jobs/data/senior-data-analyst-4443276 | Invite Only | Senior Data Analyst | 2.7/5 | PDF ❌
+- [x] #415 | https://au.linkedin.com/jobs/view/business-intelligence-analyst-at-mercer-4404031155 | Mercer | Business Intelligence Analyst (Melbourne) | 3.5/5 | PDF ❌
+- [x] #416 | https://www.linkedin.com/jobs/view/senior-data-analyst-google-analytics-360-at-epam-systems-4413685274 | EPAM Systems | Senior Data Analyst (Google Analytics 360) | 2.8/5 | PDF ❌
+- [x] #417 | https://job-boards.eu.greenhouse.io/decathlontechnology/jobs/4795083101 | Decathlon Digital | Analytics Engineer | 3.2/5 | PDF ❌
+- [x] #418 | https://job-boards.greenhouse.io/map/jobs/8543421002 | VML MAP | Data Engineer | 3.0/5 | PDF ❌
+- [x] #419 | https://remotive.com/remote/jobs/software-development/full-stack-developer-3779470 | Nexer Group | Full-Stack Developer | 2.5/5 | PDF ❌
+- [x] #420 | https://remotive.com/remote/jobs/software-development/full-stack-developer-4305483 | Uni Systems | Full-Stack Developer | 2.5/5 | PDF ❌
+- [x] #421 | https://weworkremotely.com/remote-jobs/mmdsmart-ltd-senior-full-stack-developer-go-react | Mmdsmart Ltd | Senior Full Stack Developer (Go/React) | 2.3/5 | PDF ❌
+- [x] #434 | https://remotive.com/remote/jobs/data/business-intelligence-analyst-4561371 | 24-MAG | Business Intelligence Analyst | 3.2/5 | PDF ❌
+- [x] #423 | https://weworkremotely.com/remote-jobs/proxify-ab-senior-microsoft-power-bi-developer-4 | Proxify AB | Senior Microsoft Power BI Developer | 3.8/5 | PDF ❌
+- [x] #424 | https://weworkremotely.com/remote-jobs/proxify-ab-senior-data-engineer-azure | Proxify AB | Senior Data Engineer (Azure) | 3.5/5 | PDF ❌
+- [x] #425 | https://weworkremotely.com/remote-jobs/proxify-ab-senior-ms-power-platform-developer | Proxify AB | Senior MS Power Platform Developer | 4.0/5 | PDF ❌
+- [x] #426 | https://job-boards.greenhouse.io/dbtlabsinc/jobs/4673224005 | dbt Labs | Senior Data Engineer | 2.3/5 | PDF ❌
+- [x] #427 | https://weworkremotely.com/remote-jobs/elite-software-automation-business-analyst-1 | Elite Software Automation | Business Analyst | 4.0/5 | PDF ❌
+- [x] #428 | https://weworkremotely.com/remote-jobs/sanctuary-computer-llm-data-engineer | Sanctuary Computer | LLM Data Engineer | 2.8/5 | PDF ❌
+- [x] #429 | https://remotive.com/remote/jobs/data/data-migration-engineer-data-analyst-2455815 | EUROPEAN DYNAMICS | Data Migration Engineer / Data Analyst | 3.0/5 | PDF ❌
+- [x] #430 | https://remotive.com/remote/jobs/data/data-analyst-4435408 | Globaldev Group | Data Analyst | 3.2/5 | PDF ❌
+- [x] #431 | https://www.linkedin.com/jobs/view/senior-data-engineer-at-epam-systems-4413686268 | EPAM Systems | Senior Data Engineer | 3.0/5 | PDF ❌
+- [x] #432 | https://remotive.com/remote/jobs/data/bi-business-analyst-4327791 | PCC Talent Acquisition | BI Business Analyst | 3.5/5 | PDF ❌
+- [x] #433 | https://remotive.com/remote/jobs/data/business-intelligence-analyst-4214748 | RadNet | Business Intelligence Analyst | 2.5/5 | PDF ❌
 
 - [x] #392 | https://jobs.zalando.com/en/jobs/2720381-Senior-Data-Analyst---Size-%26-Fit-(all-genders)-AS | Zalando | Senior Data Analyst - Size & Fit (all genders) | 2.8/5 | PDF ❌
 - [x] #393 | https://careers.deliveryhero.com/job/senior-data-scientist-choice-logistics-all-genders-in-berlin-germany-jid-2780 | Delivery Hero | Senior Data Scientist - Choice, Logistics (all genders) | 1.9/5 | PDF ❌
