@@ -4,6 +4,20 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [ ] https://jobs.ashbyhq.com/amboss/b0a32c5d-e3e1-4620-9f24-857fafabc599 | AMBOSS | Junior Data Analyst (Berlin)
+- [ ] https://jobs.ashbyhq.com/roadsurfer.com/83000499-b633-47b6-8159-285feea131ca | Roadsurfer | Senior Data Engineer (Remote Spain/EU)
+- [ ] https://weworkremotely.com/remote-jobs/proxify-ab-senior-data-engineer-aws-python-1 | Proxify AB | Senior Data Engineer (AWS & Python)
+- [ ] https://remotive.com/remote/jobs/data/business-intelligence-analyst-4622494 | Playlist | Business Intelligence Analyst
+- [ ] https://remotive.com/remote/jobs/data/business-intelligence-analyst-4593975 | Mercor | Business Intelligence Analyst
+- [ ] https://remotive.com/remote/jobs/data/senior-data-analyst-4443276 | Invite Only | Senior Data Analyst
+- [ ] https://au.linkedin.com/jobs/view/business-intelligence-analyst-at-mercer-4404031155 | Mercer | Business Intelligence Analyst (Melbourne)
+- [ ] https://www.linkedin.com/jobs/view/senior-data-analyst-google-analytics-360-at-epam-systems-4413685274 | EPAM Systems | Senior Data Analyst (Google Analytics 360)
+- [ ] https://job-boards.eu.greenhouse.io/decathlontechnology/jobs/4795083101 | Decathlon Digital | Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/map/jobs/8543421002 | VML MAP | Data Engineer
+- [ ] https://remotive.com/remote/jobs/software-development/full-stack-developer-3779470 | Nexer Group | Full-Stack Developer
+- [ ] https://remotive.com/remote/jobs/software-development/full-stack-developer-4305483 | Uni Systems | Full-Stack Developer
+- [ ] https://weworkremotely.com/remote-jobs/mmdsmart-ltd-senior-full-stack-developer-go-react | Mmdsmart Ltd | Senior Full Stack Developer (Go/React)
+- [ ] https://remotive.com/remote/jobs/data/business-intelligence-analyst-4561371 | 24-MAG | Business Intelligence Analyst
 - [ ] https://weworkremotely.com/remote-jobs/proxify-ab-senior-microsoft-power-bi-developer-4 | Proxify AB | Senior Microsoft Power BI Developer
 - [ ] https://weworkremotely.com/remote-jobs/proxify-ab-senior-data-engineer-azure | Proxify AB | Senior Data Engineer (Azure)
 - [ ] https://weworkremotely.com/remote-jobs/proxify-ab-senior-ms-power-platform-developer | Proxify AB | Senior MS Power Platform Developer
