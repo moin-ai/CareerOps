@@ -4,6 +4,25 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [x] #435 | https://job-boards.greenhouse.io/contentful/jobs/7576686 | Contentful | Senior Business Intelligence Analyst | 2.0/5 | PDF ❌
+- [x] #108 (re-eval #436) | https://job-boards.greenhouse.io/eucalyptus/jobs/4654489005 | Eucalyptus | Senior Business Intelligence Analyst (Remote AU) | 2.0/5 | PDF ❌
+- [x] #437 | https://job-boards.greenhouse.io/topsort/jobs/4829841008 | Topsort | Data Analyst | 3.0/5 | PDF ❌
+- [x] #438 | https://job-boards.greenhouse.io/taketwo/jobs/7402353 | Take-Two Interactive | Data Analyst | 2.0/5 | PDF ❌
+- [x] #439 | https://jobs.ashbyhq.com/block-labs/06e721f0-df84-4eab-a4f3-be0c1614d458 | Block Labs | Business Intelligence Analyst | 2.5/5 | PDF ❌
+- [x] #440 | https://jobs.ashbyhq.com/andela/4b04f6f7-d1db-4096-9db0-53c31f1195c9 | Andela | Data Analyst | 2.5/5 | PDF ❌
+- [x] #441 | https://jobs.ashbyhq.com/cohere/9baccd88-c051-474f-bfe8-6867fca54cee | Cohere | Data Engineer, Data Foundations | 3.0/5 | PDF ❌
+- [x] #54 (re-eval #442) | https://jobs.ashbyhq.com/the-global-talent-co/8c15ec39-c56b-4392-afa6-e9ab14583cc8 | The Global Talent Co. | Senior Data Analyst (LatAm) | 1.5/5 | PDF ❌
+- [x] #443 | https://weworkremotely.com/remote-jobs/airalo-staff-data-analyst-product | Airalo | Staff Data Analyst, Product | 3.5/5 | PDF ❌
+- [x] #444 | https://weworkremotely.com/remote-jobs/clickguard-inc-senior-full-stack-developer-react-js-node-js | ClickGUARD | Senior Full Stack Developer | 3.5/5 | PDF ❌
+- [x] #445 | https://weworkremotely.com/remote-jobs/xsolla-full-stack-developer | Xsolla | Full Stack Developer | 3.0/5 | PDF ❌
+- [x] #446 | https://remotive.com/remote/jobs/data/power-bi-developer-4227033 | Sourcefit | Power BI Developer | 3.5/5 | PDF ❌
+- [x] #447 | https://remotive.com/remote/jobs/data/power-bi-developer-3625954 | Livestock Information | Power BI Developer | 2.5/5 | PDF ❌
+- [x] #448 | https://remotive.com/remote/jobs/data/power-bi-developer-3768515 | Workana | Power BI Developer | 2.5/5 | PDF ❌
+- [x] #453 | https://remotive.com/remote/jobs/data/business-intelligence-analyst-4729571 | 2020 Companies | Business Intelligence Analyst | 2.0/5 | PDF ❌
+- [x] #450 | https://my.linkedin.com/jobs/view/ms-power-bi-at-delaware-malaysia-4329905295 | delaware Malaysia | MS Power BI (Kuala Lumpur) | 3.5/5 | PDF ❌
+- [x] #451 | https://au.linkedin.com/jobs/view/data-analyst-at-um-australia-4368056920 | UM Australia | Data Analyst (Sydney) | 3.5/5 | PDF ❌
+- [x] #452 | https://uk.linkedin.com/jobs/view/senior-lead-data-engineer-databricks-sydney-melbourne-based-relocation-provided-at-mantel-4422597606 | Mantel | Senior/Lead Data Engineer - Databricks (Sydney/Melbourne) | 4.0/5 | PDF ❌
+
 - [x] #409 | https://jobs.ashbyhq.com/amboss/b0a32c5d-e3e1-4620-9f24-857fafabc599 | AMBOSS | Junior Data Analyst (Berlin) | 3.5/5 | PDF ❌
 - [x] #300 (re-eval #410) | https://jobs.ashbyhq.com/roadsurfer.com/83000499-b633-47b6-8159-285feea131ca | Roadsurfer | Senior Data Engineer (Remote Spain/EU) | 2.8/5 | PDF ❌
 - [x] #411 | https://weworkremotely.com/remote-jobs/proxify-ab-senior-data-engineer-aws-python-1 | Proxify AB | Senior Data Engineer (AWS & Python) | 3.0/5 | PDF ❌
