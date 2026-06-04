@@ -2,6 +2,25 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 454 | 2026-06-04 | metafinanz Informationssysteme GmbH | Developer SharePoint Microsoft 365 with Power Platform focus | 3.8/5 | Evaluated | ❌ | [454](reports/454-metafinanz-sharepoint-power-platform-2026-06-04.md) | German consultancy, Power Platform/SharePoint, strong skills match — apply, German B2 gap risk |
+| 455 | 2026-06-04 | Scaleup | AI & Business Analyst / Consultant | 2.5/5 | Evaluated | ❌ | [455](reports/455-scaleup-ai-business-analyst-consultant-2026-06-04.md) | Likely internship/program, below career level, comp unknown — skip |
+| 456 | 2026-06-04 | Proxify AB | Senior SharePoint Developer | 3.2/5 | Evaluated | ❌ | [456](reports/456-proxify-senior-sharepoint-developer-2026-06-04.md) | SPFx/.NET gaps, contractor model, no visa pathway — skip |
+| 457 | 2026-06-04 | ATS FAMILY | Power Platform Consultant | 2.2/5 | Evaluated | ❌ | [457](reports/457-ats-family-power-platform-consultant-2026-06-04.md) | Entry-level framing, US only, no visa pathway — skip |
+| 458 | 2026-06-04 | Control Risks | Specialist/Tech & Functional SME - Power Platform & SharePoint | 3.5/5 | Evaluated | ❌ | [458](reports/458-control-risks-power-platform-sharepoint-sme-2026-06-04.md) | Strong skills match, India hours/geo risk, enterprise brand — apply if truly remote |
+| 459 | 2026-06-04 | General Dynamics Information Technology | Senior Power Apps Developer | 2.8/5 | Evaluated | ❌ | [459](reports/459-gdit-senior-power-apps-developer-2026-06-04.md) | 9-12 yrs required, US federal contractor, no visa pathway — skip |
+| 460 | 2026-06-04 | Improvix Technologies | Power Platform / Dynamics 365 Developer | 3.5/5 | Evaluated | ❌ | [460](reports/460-improvix-power-platform-dynamics-365-2026-06-04.md) | Good Power Platform match, D365 gap, US federal context — verify remote before applying |
+| 461 | 2026-06-04 | AIS (Applied Information Sciences) | Power Platform Architect | 2.5/5 | Evaluated | ❌ | [461](reports/461-ais-power-platform-architect-2026-06-04.md) | Architect seniority requires 5+ yrs, US federal, no visa pathway — skip |
+| 462 | 2026-06-04 | The White Team | Senior Data & Analytics Engineer | 2.8/5 | Evaluated | ❌ | [462](reports/462-the-white-team-senior-data-analytics-engineer-2026-06-04.md) | Master's degree required, 5-7 yrs, Spain EU remote positive — skip due to degree gate |
+| 463 | 2026-06-04 | Vattenfall | Data Engineer | 3.0/5 | Evaluated | ❌ | [463](reports/463-vattenfall-data-engineer-2026-06-04.md) | European enterprise, good Databricks cert fit, Kafka/IaC gaps — skip |
+| 464 | 2026-06-04 | Opiniion Inc. | Senior Analytics Engineer | 2.0/5 | Evaluated | ❌ | [464](reports/464-opiniion-senior-analytics-engineer-2026-06-04.md) | US only, Looker/dbt vs Power BI, no geo advancement — skip |
+| 465 | 2026-06-04 | E Source | Databricks Data Engineer | 3.3/5 | Evaluated | ❌ | [465](reports/465-e-source-databricks-data-engineer-2026-06-04.md) | Databricks cert strong match, AWS gap, US only — skip |
+| 466 | 2026-06-04 | Valtech | Data Engineer | 2.8/5 | Evaluated | ❌ | [466](reports/466-valtech-data-engineer-2026-06-04.md) | Portuguese language hard blocker, LATAM focus — skip |
+| 467 | 2026-06-04 | Globaldev Group | Senior Data Engineer | 3.5/5 | Evaluated | ❌ | [467](reports/467-globaldev-senior-data-engineer-2026-06-04.md) | Best Azure Databricks match in DE batch, EU remote, cert differentiator — apply |
+| 468 | 2026-06-04 | Visa | Staff Data Engineer | 2.3/5 | Evaluated | ❌ | [468](reports/468-visa-staff-data-engineer-2026-06-04.md) | Staff level far above current stage, 5+ yrs Databricks required — skip |
+| 469 | 2026-06-04 | Dropbox | Data Engineer - Analytics Data Engineering | 2.5/5 | Evaluated | ❌ | [469](reports/469-dropbox-data-engineer-analytics-2026-06-04.md) | Non-Azure cloud, platform architect seniority, no geo pathway — skip |
+| 470 | 2026-06-04 | Mitre Media | Tech Lead Databricks Data Engineer | 3.2/5 | Evaluated | ❌ | [470](reports/470-mitre-media-tech-lead-databricks-2026-06-04.md) | Databricks cert relevant, Tech Lead seniority gap, Scala/DBT missing, ET timezone conflict — skip |
+| 471 | 2026-06-04 | Anteriad | Data Engineer | 3.5/5 | Evaluated | ❌ | [471](reports/471-anteriad-data-engineer-2026-06-04.md) | Azure Databricks + SQL Server + medallion match, US only — apply if intl remote confirmed |
+| 473 | 2026-06-04 | PlanetArt | Business Intelligence Analyst | 3.0/5 | Evaluated | ❌ | [473](reports/473-planetart-business-intelligence-analyst-2026-06-04.md) | BI skills match, but PHP salary ~$27K/yr and PST hours — skip |
 | 435 | 2026-06-03 | Contentful | Senior Business Intelligence Analyst | 2.0/5 | Evaluated | ❌ | [435](reports/435-contentful-bi-analyst-2026-06-03.md) | US-only (NYC), 6-8+ yrs FP&A required, no visa path — skip |
 | 437 | 2026-06-03 | Topsort | Data Analyst | 3.0/5 | Evaluated | ❌ | [437](reports/437-topsort-data-analyst-2026-06-03.md) | Remote, SQL/stakeholder match, startup risk, Metabase not core stack, visa uncertain — apply with caveats |
 | 438 | 2026-06-03 | Take-Two Interactive | Data Analyst | 2.0/5 | Evaluated | ❌ | [438](reports/438-take-two-data-analyst-2026-06-03.md) | US-only (NYC), gaming domain, no visa path — skip |
@@ -78,7 +97,7 @@
 | 358 | 2026-05-28 | Evolute CX GmbH | Full-Stack Developer (React/Node.js/TypeScript) | 2.9/5 | SKIP | ❌ | [358](reports/358-evolute-cx-gmbh-full-stack-developer-2026-05-28.md) | Germany HQ but React Native + Node.js gap |
 | 359 | 2026-05-28 | Input Logic | Full Stack Developer (React/Python) | 2.9/5 | SKIP | ❌ | [359](reports/359-input-logic-full-stack-react-python-2026-05-28.md) | React gap; archetype mismatch; no EU Blue Card path |
 | 360 | 2026-05-28 | Blueprint | Business Intelligence Analyst | 2.1/5 | SKIP | ❌ | [360](reports/360-blueprint-bi-analyst-2026-05-28.md) | USA remote; Sigma Computing tool; no work auth |
-| 361 | 2026-05-28 | Binance | Business Intelligence/Data Analyst | 2.0/5 | SKIP | ❌ | [361](reports/361-binance-bi-data-analyst-2026-05-28.md) | Crypto; MENA/Asia; 4-6yr req; regulatory risk |
+| 361 | 2026-06-04 | Binance | Business Intelligence Data Analyst | 2.8/5 | SKIP | ❌ | [472](reports/472-binance-bi-data-analyst-2026-06-04.md) | Re-eval 2026-06-04 (2→2.8). Tableau/Java/R not in stack, regulatory risk, 4-6 yrs required — skip |
 | 362 | 2026-05-28 | DaCodes | Business Intelligence Analyst | 1.8/5 | SKIP | ❌ | [362](reports/362-dacodes-bi-analyst-2026-05-28.md) | LATAM employer; wrong geography; low comp |
 | 363 | 2026-05-28 | Alvys | Senior Data Engineer | 2.2/5 | SKIP | ❌ | [363](reports/363-alvys-senior-data-engineer-2026-05-28.md) | USA remote; Snowflake gap; senior req; no work auth |
 | 364 | 2026-05-28 | Archie Labs | Power BI Developer | 1.5/5 | SKIP | ❌ | [364](reports/364-archie-labs-power-bi-developer-2026-05-28.md) | LATAM only; $40/day BYOD; ineligible geography |

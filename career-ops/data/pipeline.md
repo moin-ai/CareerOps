@@ -4,26 +4,26 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
-- [ ] https://remotive.com/remote/jobs/software-dev/developer-sharepoint-microsoft-365-with-a-focus-on-power-platform-2684760 | metafinanz Informationssysteme GmbH | Developer SharePoint Microsoft 365 with Power Platform focus
-- [ ] https://remotive.com/remote/jobs/data/ai-business-analyst-consultant-4606155 | Scaleup | AI & Business Analyst / Consultant
-- [ ] https://weworkremotely.com/remote-jobs/proxify-ab-senior-sharepoint-developer-4 | Proxify AB | Senior SharePoint Developer
-- [ ] https://remotive.com/remote/jobs/software-development/power-platform-consultant-3954742 | ATS FAMILY | Power Platform Consultant
-- [ ] https://remotive.com/remote/jobs/software-development/specialist-tech-functional-sme-power-platform-sharepoint-focus-4365110 | Control Risks | Specialist/Tech & Functional SME — Power Platform & SharePoint
-- [ ] https://remotive.com/remote/jobs/software-development/senior-power-apps-developer-4639502 | (unknown) | Senior Power Apps Developer
-- [ ] https://remotive.com/remote/jobs/software-development/power-platform-dynamics-365-developer-4598881 | Improvix Technologies | Power Platform / Dynamics 365 Developer
-- [ ] https://remotive.com/remote/jobs/software-development/power-platform-architect-4753125 | AIS | Power Platform Architect
-- [ ] https://remotive.com/remote-jobs/data/senior-data-analytics-engineer-2071206 | The White Team | Senior Data & Analytics Engineer
-- [ ] https://remotive.com/remote/jobs/data/data-engineer-4499898 | Vattenfall | Data Engineer
-- [ ] https://remotive.com/remote/jobs/data/senior-analytics-engineer-4298370 | Opiniion Inc. | Senior Analytics Engineer
-- [ ] https://remotive.com/remote/jobs/data/databricks-data-engineer-4501441 | E Source | Databricks Data Engineer
-- [ ] https://remotive.com/remote/jobs/software-development/data-engineer-3753539 | Valtech | Data Engineer
-- [ ] https://remotive.com/remote/jobs/software-development/senior-data-engineer-4224538 | Globaldev Group | Senior Data Engineer
-- [ ] https://remotive.com/remote/jobs/software-development/staff-data-engineer-4297517 | Visa | Staff Data Engineer
-- [ ] https://remotive.com/remote/jobs/software-development/data-engineer-analytics-data-engineering-4188585 | (unknown) | Data Engineer - Analytics Data Engineering
-- [ ] https://remotive.com/remote-jobs/software-development/tech-lead-databricks-data-engineer-2069747 | Mitre Media | Tech Lead Databricks Data Engineer
-- [ ] https://remotive.com/remote/jobs/data/data-engineer-4470404 | Anteriad | Data Engineer
-- [ ] https://remotive.com/remote/jobs/data/business-intelligence-data-analyst-4173433 | Binance | Business Intelligence Data Analyst
-- [ ] https://remotive.com/remote/jobs/data/business-intelligence-analyst-3775498 | PlanetArt | Business Intelligence Analyst
+- [x] #454 | https://remotive.com/remote/jobs/software-dev/developer-sharepoint-microsoft-365-with-a-focus-on-power-platform-2684760 | metafinanz Informationssysteme GmbH | Developer SharePoint Microsoft 365 with Power Platform focus | 3.8/5 | PDF ❌
+- [x] #455 | https://remotive.com/remote/jobs/data/ai-business-analyst-consultant-4606155 | Scaleup | AI & Business Analyst / Consultant | 2.5/5 | PDF ❌
+- [x] #456 | https://weworkremotely.com/remote-jobs/proxify-ab-senior-sharepoint-developer-4 | Proxify AB | Senior SharePoint Developer | 3.2/5 | PDF ❌
+- [x] #457 | https://remotive.com/remote/jobs/software-development/power-platform-consultant-3954742 | ATS FAMILY | Power Platform Consultant | 2.2/5 | PDF ❌
+- [x] #458 | https://remotive.com/remote/jobs/software-development/specialist-tech-functional-sme-power-platform-sharepoint-focus-4365110 | Control Risks | Specialist/Tech & Functional SME — Power Platform & SharePoint | 3.5/5 | PDF ❌
+- [x] #459 | https://remotive.com/remote/jobs/software-development/senior-power-apps-developer-4639502 | General Dynamics Information Technology | Senior Power Apps Developer | 2.8/5 | PDF ❌
+- [x] #460 | https://remotive.com/remote/jobs/software-development/power-platform-dynamics-365-developer-4598881 | Improvix Technologies | Power Platform / Dynamics 365 Developer | 3.5/5 | PDF ❌
+- [x] #461 | https://remotive.com/remote/jobs/software-development/power-platform-architect-4753125 | AIS (Applied Information Sciences) | Power Platform Architect | 2.5/5 | PDF ❌
+- [x] #462 | https://remotive.com/remote-jobs/data/senior-data-analytics-engineer-2071206 | The White Team | Senior Data & Analytics Engineer | 2.8/5 | PDF ❌
+- [x] #463 | https://remotive.com/remote/jobs/data/data-engineer-4499898 | Vattenfall | Data Engineer | 3.0/5 | PDF ❌
+- [x] #464 | https://remotive.com/remote/jobs/data/senior-analytics-engineer-4298370 | Opiniion Inc. | Senior Analytics Engineer | 2.0/5 | PDF ❌
+- [x] #465 | https://remotive.com/remote/jobs/data/databricks-data-engineer-4501441 | E Source | Databricks Data Engineer | 3.3/5 | PDF ❌
+- [x] #466 | https://remotive.com/remote/jobs/software-development/data-engineer-3753539 | Valtech | Data Engineer | 2.8/5 | PDF ❌
+- [x] #467 | https://remotive.com/remote/jobs/software-development/senior-data-engineer-4224538 | Globaldev Group | Senior Data Engineer | 3.5/5 | PDF ❌
+- [x] #468 | https://remotive.com/remote/jobs/software-development/staff-data-engineer-4297517 | Visa | Staff Data Engineer | 2.3/5 | PDF ❌
+- [x] #469 | https://remotive.com/remote/jobs/software-development/data-engineer-analytics-data-engineering-4188585 | Dropbox | Data Engineer - Analytics Data Engineering | 2.5/5 | PDF ❌
+- [x] #470 | https://remotive.com/remote-jobs/software-development/tech-lead-databricks-data-engineer-2069747 | Mitre Media | Tech Lead Databricks Data Engineer | 3.2/5 | PDF ❌
+- [x] #471 | https://remotive.com/remote/jobs/data/data-engineer-4470404 | Anteriad | Data Engineer | 3.5/5 | PDF ❌
+- [x] #472 | https://remotive.com/remote/jobs/data/business-intelligence-data-analyst-4173433 | Binance | Business Intelligence Data Analyst | 2.8/5 | PDF ❌
+- [x] #473 | https://remotive.com/remote/jobs/data/business-intelligence-analyst-3775498 | PlanetArt | Business Intelligence Analyst | 3.0/5 | PDF ❌
 
 - [x] #435 | https://job-boards.greenhouse.io/contentful/jobs/7576686 | Contentful | Senior Business Intelligence Analyst | 2.0/5 | PDF ❌
 - [x] #108 (re-eval #436) | https://job-boards.greenhouse.io/eucalyptus/jobs/4654489005 | Eucalyptus | Senior Business Intelligence Analyst (Remote AU) | 2.0/5 | PDF ❌
