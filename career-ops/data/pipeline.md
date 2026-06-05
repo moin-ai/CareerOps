@@ -4,24 +4,24 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
-- [ ] https://job-boards.greenhouse.io/braze/jobs/7811359 | Braze | Lead Business Analyst I
-- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5613711004 | Hightouch | Analytics Engineer
-- [ ] https://job-boards.greenhouse.io/xai/jobs/5120884007 | xAI | Data Engineer
-- [ ] https://jobs.ashbyhq.com/cuesta-partners/42b3866c-2c48-4c33-b6dd-93db50521e5d | Cuesta Partners | Databricks Architect
-- [ ] https://jobs.ashbyhq.com/happyrobot.ai/ec481bf2-e7fb-4efa-9d64-65c1634004c5 | Happyrobot | Analytics Data Engineer
-- [ ] https://jobs.ashbyhq.com/perplexity/fed8d2c4-9c82-43ad-a168-434146c759ff | Perplexity | Analytics Engineer
-- [ ] https://weworkremotely.com/remote-jobs/silverorange-full-stack-python-web-developer | silverorange | Full-Stack Python Web Developer
-- [ ] https://weworkremotely.com/remote-jobs/peeksta-ltd-full-stack-web-developer | Peeksta LTD | Full-Stack Web Developer
-- [ ] https://weworkremotely.com/remote-jobs/lemon-io-full-stack-python-developer-3 | Lemon.io | Full-stack Python Developer
-- [ ] https://weworkremotely.com/remote-jobs/all-european-careers-senior-business-analyst-hcm-full-remote-contractor-in-usd | All European Careers | Senior Business Analyst (HCM) - Full Remote
-- [ ] https://weworkremotely.com/remote-jobs/redolent-frontend-full-stack-engineer | Redolent | Frontend Full Stack Engineer
-- [ ] https://remotive.com/remote/jobs/data/business-analyst-4539363 | BigStep Technologies | Business Analyst
-- [ ] https://remotive.com/remote/jobs/data/business-analyst-4220856 | Releady | Business Analyst
-- [ ] https://remotive.com/remote/jobs/data/data-analyst-3963677 | lemlist | Data Analyst
-- [ ] https://remotive.com/remote/jobs/data/it-data-analyst-4776715 | Allied Benefit Systems | IT Data Analyst
-- [ ] https://job-boards.greenhouse.io/engine/jobs/7664315003 | Engine | Staff Data Analyst, Growth
-- [ ] https://job-boards.greenhouse.io/buildkite/jobs/5237220008 | Buildkite | Data Analyst
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5125387008 | Anthropic | Analytics Data Engineering Manager, Product
+- [x] #474 | https://job-boards.greenhouse.io/braze/jobs/7811359 | Braze | Lead Business Analyst I | 2.8/5 | PDF ❌
+- [x] #475 | https://job-boards.greenhouse.io/hightouch/jobs/5613711004 | Hightouch | Analytics Engineer | 2.5/5 | PDF ❌
+- [x] #476 | https://job-boards.greenhouse.io/xai/jobs/5120884007 | xAI | Data Engineer | 2.3/5 | PDF ❌
+- [x] #477 | https://jobs.ashbyhq.com/cuesta-partners/42b3866c-2c48-4c33-b6dd-93db50521e5d | Cuesta Partners | Databricks Architect | 3.2/5 | PDF ❌
+- [x] #478 | https://jobs.ashbyhq.com/happyrobot.ai/ec481bf2-e7fb-4efa-9d64-65c1634004c5 | Happyrobot | Analytics Data Engineer | 2.8/5 | PDF ❌
+- [x] #479 | https://jobs.ashbyhq.com/perplexity/fed8d2c4-9c82-43ad-a168-434146c759ff | Perplexity | Analytics Engineer | 2.5/5 | PDF ❌
+- [x] #480 | https://weworkremotely.com/remote-jobs/silverorange-full-stack-python-web-developer | silverorange | Full-Stack Python Web Developer | 3.0/5 | PDF ❌
+- [x] #481 | https://weworkremotely.com/remote-jobs/peeksta-ltd-full-stack-web-developer | Peeksta LTD | Full-Stack Web Developer | 2.8/5 | PDF ❌
+- [x] #482 | https://weworkremotely.com/remote-jobs/lemon-io-full-stack-python-developer-3 | Lemon.io | Full-stack Python Developer | 3.3/5 | PDF ❌
+- [x] #483 | https://weworkremotely.com/remote-jobs/all-european-careers-senior-business-analyst-hcm-full-remote-contractor-in-usd | All European Careers | Senior Business Analyst (HCM) - Full Remote | 2.5/5 | PDF ❌
+- [x] #484 | https://weworkremotely.com/remote-jobs/redolent-frontend-full-stack-engineer | Redolent | Frontend Full Stack Engineer | 2.3/5 | PDF ❌
+- [x] #485 | https://remotive.com/remote/jobs/data/business-analyst-4539363 | BigStep Technologies | Business Analyst | 3.8/5 | PDF ❌
+- [x] #486 | https://remotive.com/remote/jobs/data/business-analyst-4220856 | Releady | Business Analyst | 3.0/5 | PDF ❌
+- [x] #487 | https://remotive.com/remote/jobs/data/data-analyst-3963677 | lemlist | Data Analyst | 3.0/5 | PDF ❌
+- [x] #488 | https://remotive.com/remote/jobs/data/it-data-analyst-4776715 | Allied Benefit Systems | IT Data Analyst | 2.0/5 | PDF ❌
+- [x] #489 | https://job-boards.greenhouse.io/engine/jobs/7664315003 | Engine | Staff Data Analyst, Growth | 2.3/5 | PDF ❌
+- [x] #490 | https://job-boards.greenhouse.io/buildkite/jobs/5237220008 | Buildkite | Data Analyst | 3.3/5 | PDF ❌
+- [x] #491 | https://job-boards.greenhouse.io/anthropic/jobs/5125387008 | Anthropic | Analytics Data Engineering Manager, Product | 2.0/5 | PDF ❌
 
 - [x] #454 | https://remotive.com/remote/jobs/software-dev/developer-sharepoint-microsoft-365-with-a-focus-on-power-platform-2684760 | metafinanz Informationssysteme GmbH | Developer SharePoint Microsoft 365 with Power Platform focus | 3.8/5 | PDF ❌
 - [x] #455 | https://remotive.com/remote/jobs/data/ai-business-analyst-consultant-4606155 | Scaleup | AI & Business Analyst / Consultant | 2.5/5 | PDF ❌
