@@ -4,6 +4,16 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [x] #492 | https://job-boards.greenhouse.io/nubank/jobs/7239382 | Nubank | Lead/Staff Business Analyst | 2.0/5 | PDF ❌
+- [x] #493 | https://remotive.com/remote/jobs/data/data-analyst-growth-marketing-4426425 | Monzo | Data Analyst, Growth & Marketing | 2.5/5 | PDF ❌
+- [x] #494 | https://weworkremotely.com/remote-jobs/shotstack-full-stack-engineer | Shotstack | Full-Stack Engineer | 2.0/5 | PDF ❌
+- [!] https://weworkremotely.com/remote-jobs/walter-full-stack-engineering-lead | WALTER | Full-Stack Engineering Lead — expired (deadline June 5, 2026)
+- [x] #495 | https://weworkremotely.com/remote-jobs/electe-s-r-l-full-stack-developer | ELECTE S.R.L. | Full-Stack Developer | 2.5/5 | PDF ❌
+- [x] #496 | https://euremotejobs.com/job/junior-data-analyst/ | OBRIO | Junior Data Analyst | 1.8/5 | PDF ❌
+- [x] #497 | https://euremotejobs.com/job/fraud-data-analyst/ | Patrianna | Fraud Data Analyst | 2.2/5 | PDF ❌
+- [x] #498 | https://euremotejobs.com/job/data-engineer-digital-marketing-sphere/ | Sphere | Data Engineer (Digital Marketing) | 2.5/5 | PDF ❌
+- [x] #499 | https://remotive.com/remote/jobs/data/data-analyst-3777895 | Precision AQ | Data Analyst | 2.5/5 | PDF ❌
+
 - [x] #474 | https://job-boards.greenhouse.io/braze/jobs/7811359 | Braze | Lead Business Analyst I | 2.8/5 | PDF ❌
 - [x] #475 | https://job-boards.greenhouse.io/hightouch/jobs/5613711004 | Hightouch | Analytics Engineer | 2.5/5 | PDF ❌
 - [x] #476 | https://job-boards.greenhouse.io/xai/jobs/5120884007 | xAI | Data Engineer | 2.3/5 | PDF ❌

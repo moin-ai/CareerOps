@@ -2,6 +2,14 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 492 | 2026-06-06 | Nubank | Lead/Staff Business Analyst | 2.0/5 | SKIP | ❌ | [492](reports/492-nubank-lead-staff-business-analyst-2026-06-06.md) | Brazil market, wrong geography, Lead/Staff seniority gap |
+| 493 | 2026-06-06 | Monzo | Data Analyst, Growth & Marketing | 2.5/5 | SKIP | ❌ | [493](reports/493-monzo-data-analyst-growth-marketing-2026-06-06.md) | UK only, work auth required, not in target markets |
+| 494 | 2026-06-06 | Shotstack | Full-Stack Engineer | 2.0/5 | SKIP | ❌ | [494](reports/494-shotstack-full-stack-engineer-2026-06-06.md) | AU work auth required, no visa sponsorship offered |
+| 495 | 2026-06-06 | ELECTE S.R.L. | Full-Stack Developer | 2.5/5 | SKIP | ❌ | [495](reports/495-electe-full-stack-developer-2026-06-06.md) | Comp €30-42k, below €50k minimum |
+| 496 | 2026-06-06 | OBRIO | Junior Data Analyst | 1.8/5 | SKIP | ❌ | [496](reports/496-obrio-junior-data-analyst-2026-06-06.md) | Ukraine/Poland only, wrong market, junior level |
+| 497 | 2026-06-06 | Patrianna | Fraud Data Analyst | 2.2/5 | SKIP | ❌ | [497](reports/497-patrianna-fraud-data-analyst-2026-06-06.md) | iGaming fraud niche, domain mismatch |
+| 498 | 2026-06-06 | Sphere | Data Engineer (Digital Marketing) | 2.5/5 | SKIP | ❌ | [498](reports/498-sphere-data-engineer-digital-marketing-2026-06-06.md) | Unknown company, seniority gap, domain mismatch |
+| 499 | 2026-06-06 | Precision AQ | Data Analyst | 2.5/5 | SKIP | ❌ | [499](reports/499-precision-aq-data-analyst-2026-06-06.md) | India-based posting, pharma niche, entry-level comp |
 | 474 | 2026-06-05 | Braze | Lead Business Analyst I | 2.8/5 | Evaluated | ❌ | [474](reports/474-braze-lead-business-analyst-2026-06-05.md) | Canada-only + no visa sponsorship + dbt expertise gap — skip |
 | 475 | 2026-06-05 | Hightouch | Analytics Engineer | 2.5/5 | Evaluated | ❌ | [475](reports/475-hightouch-analytics-engineer-2026-06-05.md) | 6-month stale posting + dbt gap + likely US-only — skip |
 | 476 | 2026-06-05 | xAI | Data Engineer | 2.3/5 | Evaluated | ❌ | [476](reports/476-xai-data-engineer-2026-06-05.md) | US on-site + ML depth gap + intense culture — skip |
