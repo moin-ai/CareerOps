@@ -4,6 +4,29 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [x] #501 | https://job-boards.greenhouse.io/freenow/jobs/6275855 | FREENOW | Senior Product Data Analyst - Pricing | 2.2/5 | PDF ❌
+- [x] #505 | https://job-boards.greenhouse.io/launchdarkly/jobs/7534107003 | LaunchDarkly | Data Analyst | 1.5/5 | PDF ❌
+- [x] #502 | https://job-boards.eu.greenhouse.io/think-cell/jobs/4551502101 | think-cell | (Senior) Full Stack Developer - Web (Berlin) | 3.3/5 | PDF ❌
+- [x] #506 | https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4811574101 | think-cell Software | Senior Full Stack Developer (Berlin) | 3.0/5 | PDF ❌
+- [x] #507 | https://job-boards.greenhouse.io/terraquantum/jobs/4549664101 | Terra Quantum | Full Stack Software Engineer (Germany) | 2.3/5 | PDF ❌
+- [x] #508 | https://job-boards.greenhouse.io/openenergytransition/jobs/4769628101 | Open Energy Transition | Senior Full-Stack Engineer (Global Remote) | 2.2/5 | PDF ❌
+- [x] #509 | https://job-boards.greenhouse.io/allbooked/jobs/5027753007 | AllBooked | Software Engineer - Full-Stack (Remote Europe) | 2.3/5 | PDF ❌
+- [x] #500 | https://jobs.ashbyhq.com/joko/44f24632-f6b8-4220-9d9b-e78c4aca01d1 | Joko | Data Analyst | 3.0/5 | PDF ❌
+- [x] #510 | https://jobs.ashbyhq.com/magentic/11b21163-227c-4599-9dbc-9d5b30a11441 | Magentic | Data Analyst / BI Engineer | 2.8/5 | PDF ❌
+- [x] #511 | https://jobs.ashbyhq.com/optro/e00bdc9f-4428-435e-b8af-dff829ba2ab5 | Optro | Business Intelligence Analyst (Remote) | 2.3/5 | PDF ❌
+- [x] #512 | https://jobs.ashbyhq.com/ironcladhq/92c4c68b-e18d-4f87-bb3b-fcac248fdd51 | Ironclad | Senior Analytics Engineer | 1.8/5 | PDF ❌
+- [x] #513 | https://jobs.ashbyhq.com/tem/1d3dac5d-4b57-482b-ac2e-ef123d8003e9 | tem | Senior Analytics Engineer | 2.5/5 | PDF ❌
+- [x] #504 | https://remotive.com/remote/jobs/data/senior-power-bi-developer-1142646 | LITIT | Senior Power BI Developer | 2.3/5 | PDF ❌
+- [x] #514 | https://remotive.com/remote/jobs/data/business-analyst-data-products-1258589 | ATD Portugal | Business Analyst - Data Products | 3.0/5 | PDF ❌
+- [x] #515 | https://remotive.com/remote-jobs/data/senior-data-engineer-1066937 | Pennylane | Senior Data Engineer | 3.0/5 | PDF ❌
+- [x] #516 | https://remotive.com/remote/jobs/data/data-engineer-4538382 | Public Cloud Group | Data Engineer (Germany remote) | 3.0/5 | PDF ❌
+- [x] #503 | https://remotive.com/remote/jobs/software-development/data-engineer-3599504 | XING | Data Engineer (Germany) | 2.5/5 | PDF ❌
+- [x] #517 | https://remotive.com/remote/jobs/software-development/full-stack-software-engineer-3856443 | exmox GmbH | Full Stack Software Engineer (Germany) | 2.3/5 | PDF ❌
+- [x] #518 | https://remotive.com/remote/jobs/software-development/full-stack-developer-3380048 | Deutsche Telekom IT Solutions | Full-Stack Developer | 2.1/5 | PDF ❌
+- [x] #519 | https://remotive.com/remote/jobs/software-development/full-stack-software-engineer-backend-frontend-adtech-saas-startup-4466370 | DatAds | Full-Stack Software Engineer (Germany) | 3.3/5 | PDF ❌
+- [x] #520 | https://remotive.com/remote/jobs/software-development/full-stack-ai-developer-engineer-3994588 | salesHAX Consulting GmbH | Full-Stack AI Developer (Germany) | 2.3/5 | PDF ❌
+- [x] #521 | https://weworkremotely.com/remote-jobs/proxify-ab-senior-microsoft-power-bi-developer-5 | Proxify AB | Senior Microsoft Power BI Developer | 2.3/5 | PDF ❌
+
 - [x] #492 | https://job-boards.greenhouse.io/nubank/jobs/7239382 | Nubank | Lead/Staff Business Analyst | 2.0/5 | PDF ❌
 - [x] #493 | https://remotive.com/remote/jobs/data/data-analyst-growth-marketing-4426425 | Monzo | Data Analyst, Growth & Marketing | 2.5/5 | PDF ❌
 - [x] #494 | https://weworkremotely.com/remote-jobs/shotstack-full-stack-engineer | Shotstack | Full-Stack Engineer | 2.0/5 | PDF ❌
