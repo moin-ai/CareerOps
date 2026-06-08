@@ -4,6 +4,36 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [ ] https://job-boards.greenhouse.io/jetbrains/jobs/4695522101 | JetBrains | Full Stack Engineer (New Product)
+- [ ] https://job-boards.greenhouse.io/soundcloud71/jobs/8487916002 | SoundCloud | Senior Full Stack Engineer, Insights (Berlin)
+- [ ] https://job-boards.greenhouse.io/appnovation/jobs/8522912002 | Appnovation Technologies | Senior Full-Stack Developer - Python, Node.js, React
+- [ ] https://jobs.zalando.com/en/jobs/2719711-Senior-CRM-Data-Engineer-(all-genders) | Zalando | Senior CRM Data Engineer
+- [ ] https://jobs.zalando.com/en/jobs/2724020-Software-Engineer---Marketing-Platform | Zalando | Software Engineer - Marketing Platform
+- [ ] https://jobs.zalando.com/en/jobs/2718762 | Zalando | Software Engineer - Zalando Logistics Technology
+- [ ] https://jobs.zalando.com/en/jobs/2717217-Senior-Software-Engineer-(Java)---ZEOS | Zalando | Senior Software Engineer (Java) - ZEOS
+- [ ] https://careers.hellofresh.com/global/en/job/7471978/Data-Analyst-Growth | HelloFresh | Data Analyst, Growth (Toronto)
+- [ ] https://careers.hellofresh.com/global/en/job/7496898/Data-Analyst | HelloFresh | Data Analyst
+- [ ] https://www.sumup.com/careers/positions/berlin-germany/data-engineerscientist/senior-analytics-engineer-risk-analytics/8498279002/ | SumUp | Senior Analytics Engineer - Risk Analytics (Berlin)
+- [ ] https://careers.deliveryhero.com/job/associate-data-scientist-2026-tech-grad-program-in-berlin-germany-jid-8142 | Delivery Hero | Associate Data Scientist (2026 Tech Grad Program)
+- [ ] https://careers.deliveryhero.com/job/data-scientist-consumer-global-discovery-in-berlin-germany-jid-3354 | Delivery Hero | Data Scientist - Consumer (Global Discovery)
+- [ ] https://careers.deliveryhero.com/job/data-scientist-marketing-in-berlin-germany-jid-4426 | Delivery Hero | Data Scientist - Marketing
+- [ ] https://careers.deliveryhero.com/job/data-scientist-global-ranking-in-berlin-germany-jid-4494 | Delivery Hero | Data Scientist (Global Ranking)
+- [ ] https://jobs.ashbyhq.com/meter/11d53376-ce03-4184-a881-244fc90d796e | Meter | Data Analyst
+- [ ] https://jobs.ashbyhq.com/onhires/a5651d57-560e-4bb9-b58a-e5dc93d1dfe7 | OnHires | Data Analyst
+- [ ] https://jobs.ashbyhq.com/goody/df70c3ea-1233-463c-8a7f-70e4ebe3342d | Goody | Data Analyst
+- [ ] https://jobs.ashbyhq.com/careerstrengo/5d1fc08d-7ec7-4fca-bf56-18bcfe924f11 | Trengo | Data Analyst
+- [ ] https://jobs.ashbyhq.com/pencil/50dc5d2c-b630-4c9f-b90d-ba01380ea7ab | Pencil | Data Analyst - Contract
+- [ ] https://remotive.com/remote/jobs/software-development/microsoft-power-apps-developer-4226850 | Guidehouse | Microsoft Power Apps Developer
+- [ ] https://remotive.com/remote/jobs/software-development/microsoft-power-platform-developer-3788043 | T-Rex Solutions | Microsoft Power Platform Developer
+- [ ] https://remotive.com/remote/jobs/software-development/power-platform-specialist-4099648 | Bonapolia | Power Platform Specialist
+- [ ] https://remotive.com/remote/jobs/software-development/microsoft-platform-and-power-bi-developer-2748774 | Qualco | Microsoft Platform and Power BI Developer
+- [ ] https://remotive.com/remote/jobs/software-dev/power-platform-consultant-1596322 | Talan | Power Platform Consultant
+- [ ] https://job-boards.greenhouse.io/itd/jobs/4139262009 | itD Tech | Data Analyst III
+- [ ] https://job-boards.greenhouse.io/podium81/jobs/7905172 | Podium | Analytics Engineer
+- [ ] https://remotive.com/remote/jobs/data/senior-data-analyst-4385142 | MeisterLabs Software GmbH | Senior Data Analyst
+- [ ] https://job-boards.greenhouse.io/shopltk/jobs/7671051003 | LTK USA | Data Analyst
+- [ ] https://job-boards.greenhouse.io/khanacademy/jobs/7818434 | Khan Academy | Data Analyst I, Analytics Reporting
+
 - [x] #501 | https://job-boards.greenhouse.io/freenow/jobs/6275855 | FREENOW | Senior Product Data Analyst - Pricing | 2.2/5 | PDF ❌
 - [x] #505 | https://job-boards.greenhouse.io/launchdarkly/jobs/7534107003 | LaunchDarkly | Data Analyst | 1.5/5 | PDF ❌
 - [x] #502 | https://job-boards.eu.greenhouse.io/think-cell/jobs/4551502101 | think-cell | (Senior) Full Stack Developer - Web (Berlin) | 3.3/5 | PDF ❌
