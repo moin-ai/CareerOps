@@ -4,6 +4,15 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [ ] https://job-boards.eu.greenhouse.io/flaconi/jobs/4823639101 | flaconi | Full Stack Software Engineer (all genders) (Berlin)
+- [ ] https://job-boards.eu.greenhouse.io/jetbrains/jobs/4695330101 | JetBrains | FullStack ML Developer
+- [ ] https://weworkremotely.com/remote-jobs/jiga-full-stack-product-engineer | Jiga | Full Stack Product Engineer (Remote)
+- [ ] https://weworkremotely.com/remote-jobs/codekeeper-full-stack-developer-javascript | Codekeeper | Full Stack Developer (Javascript) (Remote)
+- [ ] https://uk.linkedin.com/jobs/view/senior-data-analyst-remote-emea-at-komoot-3819953721 | komoot | Senior Data Analyst - Remote EMEA
+- [ ] https://jobs.ashbyhq.com/subsets/e1ea3b6c-d03c-4e82-9f58-4b3fb60c58c0 | Subsets | Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/sift/13e923fe-8267-45b1-875e-876113362be4 | Sift | Data Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/satispay/891d2905-4cf2-432e-9644-f3c0c6500a4f | Satispay | Data Analyst - Analytics Engineering
+- [ ] https://jobs.ashbyhq.com/maximustribe/c1e7b39d-e9aa-4c71-b1fa-c4f9a26dff37 | Maximus Health | Senior Product & Marketing Data Analyst (Remote)
 - [ ] https://job-boards.greenhouse.io/jetbrains/jobs/4695522101 | JetBrains | Full Stack Engineer (New Product)
 - [ ] https://job-boards.greenhouse.io/soundcloud71/jobs/8487916002 | SoundCloud | Senior Full Stack Engineer, Insights (Berlin)
 - [ ] https://job-boards.greenhouse.io/appnovation/jobs/8522912002 | Appnovation Technologies | Senior Full-Stack Developer - Python, Node.js, React
