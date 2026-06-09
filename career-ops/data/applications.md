@@ -2,6 +2,12 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 530 | 2026-06-09 | Guidehouse | Microsoft Power Apps Developer | 1.8/5 | SKIP | ❌ | [530](reports/530-guidehouse-microsoft-power-apps-developer-2026-06-09.md) | US citizenship + federal clearance required — hard disqualifier |
+| 555 | 2026-06-09 | Maximus Health | Senior Product & Marketing Data Analyst | 2.8/5 | Evaluated | ❌ | [555](reports/555-maximus-health-senior-product-marketing-data-analyst-2026-06-09.md) | US/Canada remote only; no visa sponsorship; 5+ yr seniority gap; healthcare domain required |
+| 556 | 2026-06-09 | itD Tech | Data Analyst III | 2.2/5 | Evaluated | ❌ | [556](reports/556-itd-tech-data-analyst-iii-2026-06-09.md) | Explicit no visa sponsorship; W2 US-only; 5+ yr required; ETL depth gap |
+| 557 | 2026-06-09 | Podium | Analytics Engineer | 2.5/5 | Evaluated | ❌ | [557](reports/557-podium-analytics-engineer-2026-06-09.md) | US-centric; no visa sponsorship signals; dbt core requirement missing from stack |
+| 558 | 2026-06-09 | LTK USA | Data Analyst | 2.0/5 | Evaluated | ❌ | [558](reports/558-ltk-usa-data-analyst-2026-06-09.md) | Explicit no visa sponsorship; US work authorization required; hard disqualifier |
+| 559 | 2026-06-09 | Khan Academy | Data Analyst I, Analytics Reporting | 2.3/5 | Evaluated | ❌ | [559](reports/559-khan-academy-data-analyst-i-analytics-reporting-2026-06-09.md) | US/Canada only; no visa sponsorship; 24-month fixed-term; bookmark if geography resolved |
 | 500 | 2026-06-07 | Joko | Data Analyst | 3.0/5 | Evaluated | ❌ | [500](reports/500-joko-data-analyst-2026-06-07.md) | Level fit (1-3yr) + SQL/Python match; France not Germany, no salary listed, product analytics gap |
 | 501 | 2026-06-07 | FREENOW | Senior Product Data Analyst - Pricing | 2.2/5 | SKIP | ❌ | [501](reports/501-freenow-senior-product-data-analyst-pricing-2026-06-07.md) | Seniority mismatch; pricing domain + A/B testing gap; mentoring req — do not apply |
 | 502 | 2026-06-07 | think-cell | (Senior) Full Stack Developer - Web | 3.3/5 | Evaluated | ❌ | [502](reports/502-think-cell-full-stack-developer-berlin-2026-06-07.md) | PHP/Laravel + JS stack match; profitable Berlin company; apply with honest mid-level framing |
