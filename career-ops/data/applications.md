@@ -3,7 +3,7 @@
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
 | 560 | 2026-06-09 | komoot | Senior Data Analyst (Remote EMEA) | 3.8/5 | Evaluated | ❌ | [522](reports/522-komoot-senior-data-analyst-2026-06-09.md) | Stretch apply; strong remote culture but UTC+6 outside UTC-1/+3 band and Senior level requires deeper product analytics track |
-| 561 | 2026-06-09 | Satispay | Data Analyst - Analytics Engineering | 2.8/5 | Evaluated | ❌ | [523](reports/523-satispay-data-analyst-analytics-engineering-2026-06-09.md) | Skip; Italian language fluency required (hard blocker), Milan on-site hybrid, salary below target |
+| 561 | 2026-06-10 | Jobgether | Analytics Engineer | 3.0/5 | Evaluated | ❌ | [561](reports/561-jobgether-analytics-engineer-2026-06-10.md) | Re-eval 2026-06-10 (2.8→3). EU remote; €80-100k good comp but dbt+blockchain gaps, ambiguous actual employer, visa not mentioned -0.5 |
 | 562 | 2026-06-09 | OnHires | Data Analyst | 3.5/5 | Evaluated | ❌ | [525](reports/525-onhires-data-analyst-2026-06-09.md) | Conditional; verify company legitimacy and comp first; niche ontology/search-matching role diverges from core skills |
 | 563 | 2026-06-09 | Meter | Data Analyst | 2.3/5 | Evaluated | ❌ | [526](reports/526-meter-data-analyst-2026-06-09.md) | Skip; US-based SF role, dbt mastery required, GTM/RevOps specialization, no international hiring signals |
 | 564 | 2026-06-09 | Goody | Data Analyst | 2.4/5 | Evaluated | ❌ | [527](reports/527-goody-data-analyst-2026-06-09.md) | Skip; US-only remote, dbt required, Growth analytics domain not well aligned, no international hiring signals |

@@ -4,10 +4,10 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
-- [ ] https://remotive.com/remote/jobs/data/data-analytics-engineer-4100991 | Semble | Data Analytics Engineer
-- [ ] https://remotive.com/remote/jobs/data/analytics-engineer-3772193 | Jobgether | Analytics Engineer
-- [ ] https://weworkremotely.com/remote-jobs/clouddevs-data-engineer | CloudDevs | Data Engineer
-- [ ] https://careers.deliveryhero.com/job/staff-data-scientist-quick-commerce-all-genders-in-berlin-germany-jid-735 | Delivery Hero | Staff Data Scientist - Quick Commerce (Berlin)
+- [x] #560 | https://remotive.com/remote/jobs/data/data-analytics-engineer-4100991 | Semble | Data Analytics Engineer | 3.4/5 | PDF ❌
+- [x] #561 | https://remotive.com/remote/jobs/data/analytics-engineer-3772193 | Jobgether | Analytics Engineer | 3.0/5 | PDF ❌
+- [x] #562 | https://weworkremotely.com/remote-jobs/clouddevs-data-engineer | CloudDevs | Data Engineer | 3.0/5 | PDF ❌
+- [x] #563 | https://careers.deliveryhero.com/job/staff-data-scientist-quick-commerce-all-genders-in-berlin-germany-jid-735 | Delivery Hero | Staff Data Scientist - Quick Commerce (Berlin) | 2.2/5 | PDF ❌
 - [ ] https://job-boards.greenhouse.io/dept/jobs/7982146 | DEPT® | Business Intelligence Consultant
 - [ ] https://job-boards.greenhouse.io/stackadapt/jobs/4273943009 | StackAdapt | Data Analyst, Business Intelligence
 - [ ] https://job-boards.greenhouse.io/merceradvisors/jobs/5046203008 | Mercer Advisors | Senior Business Intelligence Analyst
