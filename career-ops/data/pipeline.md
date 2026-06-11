@@ -8,24 +8,32 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 - [x] #561 | https://remotive.com/remote/jobs/data/analytics-engineer-3772193 | Jobgether | Analytics Engineer | 3.0/5 | PDF ❌
 - [x] #562 | https://weworkremotely.com/remote-jobs/clouddevs-data-engineer | CloudDevs | Data Engineer | 3.0/5 | PDF ❌
 - [x] #563 | https://careers.deliveryhero.com/job/staff-data-scientist-quick-commerce-all-genders-in-berlin-germany-jid-735 | Delivery Hero | Staff Data Scientist - Quick Commerce (Berlin) | 2.2/5 | PDF ❌
-- [ ] https://job-boards.greenhouse.io/dept/jobs/7982146 | DEPT® | Business Intelligence Consultant
-- [ ] https://job-boards.greenhouse.io/stackadapt/jobs/4273943009 | StackAdapt | Data Analyst, Business Intelligence
-- [ ] https://job-boards.greenhouse.io/merceradvisors/jobs/5046203008 | Mercer Advisors | Senior Business Intelligence Analyst
-- [ ] https://job-boards.greenhouse.io/bluefishai/jobs/5217308008 | Bluefish AI | Senior Data Engineer
-- [ ] https://job-boards.greenhouse.io/wizinc/jobs/4682244006 | Wiz | Senior GTM Data Analyst
-- [ ] https://job-boards.eu.greenhouse.io/prolific/jobs/4815535101 | Prolific | Data Analyst
-- [ ] https://job-boards.eu.greenhouse.io/proton/jobs/4631301101 | Proton | Data Analyst
-- [ ] https://jobs.ashbyhq.com/synthesia/46650970-494a-4d4b-ab4b-75c2a3b06daf | Synthesia | Senior Data Engineer
-- [ ] https://jobs.ashbyhq.com/zeal-network/09079834-0844-4c2b-8d88-4586c110ae5a | Zeal Network | Senior Data Engineer
-- [ ] https://jobs.ashbyhq.com/notion/a1216dba-e175-4a3d-b712-401c9fbdcd92 | Notion | Data Engineer, People Analytics
-- [ ] https://remotive.com/remote/jobs/data/business-intelligence-engineer-data-scientist-4208027 | Datafin IT Recruitment | Business Intelligence Engineer/Data Scientist
-- [ ] https://remotive.com/remote-jobs/data/business-intelligence-data-analyst-2042976 | SimplePractice | Business Intelligence Data Analyst
-- [ ] https://job-boards.greenhouse.io/celonis/jobs/5964641003 | Celonis | Full Stack Software Engineer
-- [ ] https://job-boards.greenhouse.io/dataiku/jobs/5420293004 | Dataiku | Fullstack Software Engineer - Core
-- [ ] https://weworkremotely.com/remote-jobs/easypractice-senior-full-stack-developer | EasyPractice | Senior Full Stack Developer
-- [ ] https://weworkremotely.com/remote-jobs/learning-tapestry-senior-full-stack-engineer | Learning Tapestry | Senior Full Stack Engineer
-- [ ] https://weworkremotely.com/remote-jobs/equips-full-stack-engineer | Equips | Full Stack Engineer
-- [ ] https://weworkremotely.com/remote-jobs/feedr-full-stack-developer | Feedr | Full Stack Developer
+- [x] #564 | https://job-boards.greenhouse.io/dept/jobs/7982146 | DEPT® | Business Intelligence Consultant | 4.0/5 | PDF ❌
+- [x] #565 | https://job-boards.greenhouse.io/stackadapt/jobs/4273943009 | StackAdapt | Data Analyst, Business Intelligence | 3.0/5 | PDF ❌
+- [x] #566 | https://job-boards.greenhouse.io/merceradvisors/jobs/5046203008 | Mercer Advisors | Senior Business Intelligence Analyst | 2.8/5 | PDF ❌
+- [x] #569 | https://job-boards.greenhouse.io/bluefishai/jobs/5217308008 | Bluefish AI | Senior Data Engineer | 3.4/5 | PDF ❌
+- [x] #574 | https://job-boards.greenhouse.io/wizinc/jobs/4682244006 | Wiz | Senior GTM Data Analyst | 2.5/5 | PDF ❌
+- [x] #567 | https://job-boards.eu.greenhouse.io/prolific/jobs/4815535101 | Prolific | Data Analyst | 3.8/5 | PDF ❌
+- [x] #568 | https://job-boards.eu.greenhouse.io/proton/jobs/4631301101 | Proton | Data Analyst | 4.0/5 | PDF ❌
+- [x] #570 | https://jobs.ashbyhq.com/synthesia/46650970-494a-4d4b-ab4b-75c2a3b06daf | Synthesia | Senior Data Engineer | 3.2/5 | PDF ❌
+- [x] #571 | https://jobs.ashbyhq.com/zeal-network/09079834-0844-4c2b-8d88-4586c110ae5a | Zeal Network | Senior Data Engineer | 3.3/5 | PDF ❌
+- [x] #572 | https://jobs.ashbyhq.com/notion/a1216dba-e175-4a3d-b712-401c9fbdcd92 | Notion | Data Engineer, People Analytics | 2.8/5 | PDF ❌
+- [x] #575 | https://remotive.com/remote/jobs/data/business-intelligence-engineer-data-scientist-4208027 | Datafin IT Recruitment | Business Intelligence Engineer/Data Scientist | 3.2/5 | PDF ❌
+- [x] #576 | https://remotive.com/remote-jobs/data/business-intelligence-data-analyst-2042976 | SimplePractice | Business Intelligence Data Analyst | 2.8/5 | PDF ❌
+- [x] #580 | https://job-boards.greenhouse.io/celonis/jobs/5964641003 | Celonis | Full Stack Software Engineer | 3.3/5 | PDF ❌
+- [x] #581 | https://job-boards.greenhouse.io/dataiku/jobs/5420293004 | Dataiku | Fullstack Software Engineer - Core | 3.6/5 | PDF ❌
+- [x] #582 | https://weworkremotely.com/remote-jobs/easypractice-senior-full-stack-developer | EasyPractice | Senior Full Stack Developer | 3.8/5 | PDF ❌
+- [x] #583 | https://weworkremotely.com/remote-jobs/learning-tapestry-senior-full-stack-engineer | Learning Tapestry | Senior Full Stack Engineer | 2.8/5 | PDF ❌
+- [x] #584 | https://weworkremotely.com/remote-jobs/equips-full-stack-engineer | Equips | Full Stack Engineer | 2.6/5 | PDF ❌
+- [x] #585 | https://weworkremotely.com/remote-jobs/feedr-full-stack-developer | Feedr | Full Stack Developer | 2.9/5 | PDF ❌
+- [x] #573 | https://jobs.ashbyhq.com/plain/71874633-5f69-4b13-aac4-33b505f9305a | Plain | Founding Data Engineer | 3.7/5 | PDF ❌
+- [x] #577 | https://job-boards.greenhouse.io/eucalyptus/jobs/4600960005 | Eucalyptus | Data Analyst - DE (Australia) | 3.6/5 | PDF ❌
+- [x] #586 | https://weworkremotely.com/remote-jobs/comparis-ch-full-stack-software-developer-80-100-f-m-x | comparis.ch | Full Stack Software Developer | 3.2/5 | PDF ❌
+- [x] #587 | https://weworkremotely.com/remote-jobs/anthill-senior-full-stack-developer | Anthill | Senior Full Stack Developer | 3.3/5 | PDF ❌
+- [x] #588 | https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-symfony-developer | Lemon.io | Senior Full-stack Symfony Developer | 3.0/5 | PDF ❌
+- [x] #579 | https://job-boards.greenhouse.io/khanacademy/jobs/7966745 | Khan Academy | Data Analyst I (24 months fixed-term) | 2.8/5 | PDF ❌
+- [x] #578 | https://job-boards.greenhouse.io/fleetio/jobs/5054939007 | Fleetio | Senior Analytics Engineer | 3.0/5 | PDF ❌
+- [x] #589 | https://weworkremotely.com/remote-jobs/meta-craft-full-stack-software-engineer | Meta Craft | Full Stack Software Engineer | 3.5/5 | PDF ❌
 
 - [x] #538 | https://job-boards.eu.greenhouse.io/flaconi/jobs/4823639101 | flaconi | Full Stack Software Engineer (all genders) (Berlin) | 3.6/5 | PDF ❌
 - [x] #539 | https://job-boards.eu.greenhouse.io/jetbrains/jobs/4695330101 | JetBrains | FullStack ML Developer | 3.2/5 | PDF ❌
