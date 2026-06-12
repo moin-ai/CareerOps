@@ -4,6 +4,16 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [x] #590 | https://weworkremotely.com/remote-jobs/cafemedia-business-intelligence-analyst | CafeMedia | Business Intelligence Analyst | 2.2/5 | PDF ❌
+- [x] #591 | https://weworkremotely.com/remote-jobs/ahu-technologies-business-analyst-chicago-il | AHU Technologies | Business Analyst | 1.8/5 | PDF ❌
+- [x] #592 | https://weworkremotely.com/remote-jobs/dentology-full-stack-product-engineer | Dentology | Full Stack Product Engineer | 3.6/5 | PDF ❌
+- [x] #593 | https://jobs.ashbyhq.com/relay/35144fbc-7808-42bb-a9d1-911dcbbb1414 | Relay Technologies | Data Analyst - Pitstops | 3.2/5 | PDF ❌
+- [x] #594 | https://jobs.ashbyhq.com/cerve/4ff0c970-88b5-4afa-ac0d-a371d3c59d56 | Cerve | Data Engineer | 2.0/5 | PDF ❌
+- [x] #595 | https://jobs.ashbyhq.com/talentsafari/31a9c33c-7a42-4fa1-9403-09af49bcdffe | Talent Safari | Data Engineer | 3.2/5 | PDF ❌
+- [x] #596 | https://jobs.ashbyhq.com/expressable/0e0a08a6-b914-439c-8257-8c536cfb9263 | Expressable | AI Data Analyst / Data Engineer | 1.8/5 | PDF ❌
+- [x] #597 | https://euremotejobs.com/job/full-stack-software-engineer-f-m-d/ | Awin | Full-Stack Software Engineer (f/m/d) | 2.8/5 | PDF ❌
+- [!] https://euremotejobs.com/job/financial-data-analyst-6-month-fixed-term-contract/ | Auctane | Financial Data Analyst (6 month) — expired (posting dated August 2022)
+
 - [x] #560 | https://remotive.com/remote/jobs/data/data-analytics-engineer-4100991 | Semble | Data Analytics Engineer | 3.4/5 | PDF ❌
 - [x] #561 | https://remotive.com/remote/jobs/data/analytics-engineer-3772193 | Jobgether | Analytics Engineer | 3.0/5 | PDF ❌
 - [x] #562 | https://weworkremotely.com/remote-jobs/clouddevs-data-engineer | CloudDevs | Data Engineer | 3.0/5 | PDF ❌

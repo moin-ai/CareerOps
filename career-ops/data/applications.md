@@ -2,6 +2,13 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 590 | 2026-06-12 | CafeMedia | Business Intelligence Analyst | 2.2/5 | Evaluated | ❌ | [590](reports/590-cafemedia-business-intelligence-analyst-2026-06-12.md) | US-only remote; location veto — skip |
+| 591 | 2026-06-12 | AHU Technologies | Business Analyst | 1.8/5 | Evaluated | ❌ | [591](reports/591-ahu-technologies-business-analyst-2026-06-12.md) | US-only (Chicago, IL); small company; skip |
+| 592 | 2026-06-12 | Dentology | Full Stack Product Engineer | 3.6/5 | Evaluated | ❌ | [592](reports/592-dentology-full-stack-product-engineer-2026-06-12.md) | UK/EU remote £40-50k; React match, TS gap; visa via EOR; apply if contractor-remote OK |
+| 594 | 2026-06-12 | Cerve | Data Engineer | 2.0/5 | Evaluated | ❌ | [594](reports/594-cerve-data-engineer-2026-06-12.md) | 6+ yrs required; Go/GCP stack; skip — revisit in 3-4 years |
+| 595 | 2026-06-12 | Talent Safari | Data Engineer | 3.2/5 | Evaluated | ❌ | [595](reports/595-talent-safari-data-engineer-2026-06-12.md) | Remote-first; Databricks cert helps; Kafka streaming gap; unclear if direct employer |
+| 596 | 2026-06-12 | Expressable | AI Data Analyst / Data Engineer | 1.8/5 | Evaluated | ❌ | [596](reports/596-expressable-ai-data-analyst-data-engineer-2026-06-12.md) | US-only (USD 100-120K); location veto — skip |
+| 597 | 2026-06-12 | Awin | Full-Stack Software Engineer (f/m/d) | 2.8/5 | Evaluated | ❌ | [597](reports/597-awin-full-stack-software-engineer-2026-06-12.md) | Berlin/EU remote; Java+Angular stack mismatch; strong company — apply if willing to bridge Java gap |
 | 584 | 2026-06-11 | Equips | Full Stack Engineer | 2.6/5 | Evaluated | ❌ | [584](reports/584-equips-full-stack-engineer-2026-06-11.md) | Stale posting (~2020), AWS serverless gap, likely US-only, limited company profile — Skip |
 | 585 | 2026-06-11 | Feedr | Full Stack Developer | 2.9/5 | Evaluated | ❌ | [585](reports/585-feedr-full-stack-developer-2026-06-11.md) | Dead posting — Feedr acquired by Compass Group 2022; React/Node stack was a good match but role no longer exists |
 | 587 | 2026-06-11 | Anthill | Senior Full Stack Developer | 3.3/5 | Evaluated | ❌ | [587](reports/587-anthill-senior-full-stack-developer-2026-06-11.md) | Indirect employment via Anthill for CCC; Bulgaria location uncertainty; Python web gap; verify before applying |
@@ -291,7 +298,7 @@
 | 239 | 2026-05-19 | HashKey Group | Business Data Analyst (KL) | 2.0/5 | Evaluated | ❌ | [239](reports/239-hashkey-business-data-analyst-2026-05-19.md) | Crypto domain = core filter hit. KL location positive but Web3/digital asset employer disqualifies despite valid analyst title. Do not apply. |
 | 218 | 2026-05-18 | ONE Campaign | Data Engineer | 3.2/5 | Evaluated | ❌ | [218](reports/218-onecampaign-data-engineer-2026-05-18.md) | NGO/non-profit, 5+ yrs gap, knowledge graph domain missing, hybrid London/DC |
 | 219 | 2026-05-18 | FREENOW | Junior Data Scientist, Marketplace | 2.8/5 | Evaluated | ❌ | [219](reports/219-freenow-junior-data-scientist-2026-05-18.md) | ML/data science gap vs Moin's BI profile; €45-65k Berlin; BMW/Merc parent |
-| 220 | 2026-05-18 | Relay Technologies | Senior Data Analyst - End Customer | 3.0/5 | Evaluated | ❌ | [220](reports/220-relay-senior-data-analyst-2026-05-18.md) | London hybrid, 5+ yrs required, UK visa not confirmed, logistics domain gap |
+| 220 | 2026-06-12 | Relay Technologies | Data Analyst - Pitstops | 3.2/5 | Evaluated | ❌ | [593](reports/593-relay-technologies-data-analyst-pitstops-2026-06-12.md) | Re-eval 2026-06-12 (3→3.2). UK logistics Series A; London hybrid likely; apply only if EU-remote confirmed |
 | 221 | 2026-05-18 | Infinite Lambda | Senior Analytics Engineer (Contractor) | 3.0/5 | Evaluated | ❌ | [221](reports/221-infinite-lambda-analytics-engineer-contractor-2026-05-18.md) | B2B contractor, dbt expert required (gap), remote EU; Moinfinity could invoice |
 | 222 | 2026-05-18 | lemlist | Data Analyst | 3.2/5 | Evaluated | ❌ | [222](reports/222-lemlist-data-analyst-2026-05-18.md) | French language hard requirement; remote; good DA fit otherwise |
 | 223 | 2026-05-18 | Kraken | Data Analyst, Regulatory Analytics and Reporting | 2.8/5 | Evaluated | ❌ | [223](reports/223-kraken-data-analyst-regulatory-2026-05-18.md) | AML/KYC domain gap, 5+ yrs, dbt required, USD remote US-focused |
