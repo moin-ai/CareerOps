@@ -4,6 +4,19 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [x] #598 | https://job-boards.greenhouse.io/n26/jobs/7522593 | N26 | Senior Marketing Data Analyst | 2.8/5 | PDF ❌
+- [x] #599 | https://job-boards.eu.greenhouse.io/ultratendency/jobs/4888567101 | Ultra Tendency | Senior Data Engineer - Databricks | 2.7/5 | PDF ❌
+- [x] #600 | https://job-boards.greenhouse.io/encora10/jobs/5112104007 | Encora | Business Analyst | 3.2/5 | PDF ❌
+- [x] #601 | https://job-boards.greenhouse.io/innovior/jobs/4732567007 | Innovior | Business Analyst | 3.5/5 | PDF ❌
+- [x] #602 | https://job-boards.greenhouse.io/fleetio/jobs/5070772007 | Fleetio | Senior Analytics Engineer | 1.8/5 | PDF ❌
+- [x] #603 | https://job-boards.greenhouse.io/nift/jobs/4991268007 | Nift | Senior Data Analytics / Business Analyst | 2.8/5 | PDF ❌
+- [x] #604 | https://job-boards.greenhouse.io/onboardmeetings/jobs/5799430004 | OnBoard | Data Analyst, Revenue Operations | 2.2/5 | PDF ❌
+- [x] #605 | https://job-boards.greenhouse.io/garnerhealth/jobs/5815551004 | Garner Health | Data Analyst II | 3.0/5 | PDF ❌
+- [x] #606 | https://jobs.ashbyhq.com/almedia/524a1269-44e0-415a-99d8-7cf83a2368d2 | Almedia | Analytics Engineer | 3.5/5 | PDF ❌
+- [x] #607 | https://jobs.ashbyhq.com/gradera/c74d7975-2a54-401d-ac81-14729ff41bf2 | Gradera | Data Engineer | 2.5/5 | PDF ❌
+- [x] #608 | https://weworkremotely.com/remote-jobs/abstract-full-stack-web-developer-remote-contractor | Abstract | Full Stack Web Developer | 2.5/5 | PDF ❌
+- [x] #609 | https://de.linkedin.com/jobs/view/lead-business-analyst-m-f-d-at-epam-systems-4225315481 | EPAM Systems | Lead Business Analyst (m/f/d) | 3.5/5 | PDF ❌
+
 - [x] #590 | https://weworkremotely.com/remote-jobs/cafemedia-business-intelligence-analyst | CafeMedia | Business Intelligence Analyst | 2.2/5 | PDF ❌
 - [x] #591 | https://weworkremotely.com/remote-jobs/ahu-technologies-business-analyst-chicago-il | AHU Technologies | Business Analyst | 1.8/5 | PDF ❌
 - [x] #592 | https://weworkremotely.com/remote-jobs/dentology-full-stack-product-engineer | Dentology | Full Stack Product Engineer | 3.6/5 | PDF ❌

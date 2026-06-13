@@ -2,6 +2,17 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 598 | 2026-06-13 | N26 | Senior Marketing Data Analyst | 2.8/5 | Evaluated | ❌ | [598](reports/598-n26-senior-marketing-data-analyst-2026-06-13.md) | Berlin neobank; marketing analytics domain mismatch; 5+ yrs required; monitor |
+| 599 | 2026-06-13 | Ultra Tendency | Senior Data Engineer - Databricks | 2.7/5 | Evaluated | ❌ | [599](reports/599-ultra-tendency-senior-data-engineer-databricks-2026-06-13.md) | Databricks cert relevant but no production project evidence; missing Scala/Terraform/Airflow |
+| 600 | 2026-06-13 | Encora | Business Analyst | 3.2/5 | Evaluated | ❌ | [600](reports/600-encora-business-analyst-2026-06-13.md) | Strong BA match; GRC domain gap; EST timezone constraint from Bangladesh is key blocker |
+| 601 | 2026-06-13 | Innovior | Business Analyst | 3.5/5 | Evaluated | ❌ | [601](reports/601-innovior-business-analyst-2026-06-13.md) | Australia boutique DT consultancy; near-perfect archetype fit; verify visa sponsorship first |
+| 602 | 2026-06-13 | Fleetio | Senior Analytics Engineer | 1.8/5 | Evaluated | ❌ | [602](reports/602-fleetio-senior-analytics-engineer-2026-06-13.md) | Major skills gap: no dbt/Snowflake/Airflow; not a match; do not apply |
+| 603 | 2026-06-13 | Nift | Senior Data Analytics / Business Analyst | 2.8/5 | Evaluated | ❌ | [603](reports/603-nift-senior-data-analytics-business-analyst-2026-06-13.md) | Hybrid DA/BA role but auction/pricing domain too niche; US company; monitor |
+| 604 | 2026-06-13 | OnBoard | Data Analyst, Revenue Operations | 2.2/5 | Evaluated | ❌ | [604](reports/604-onboard-data-analyst-revenue-operations-2026-06-13.md) | Indianapolis hybrid; RevOps domain gap; below-target comp; not target market — skip |
+| 605 | 2026-06-13 | Garner Health | Data Analyst II | 3.0/5 | Evaluated | ❌ | [605](reports/605-garner-health-data-analyst-ii-2026-06-13.md) | Exceptional comp ($130-155K NYC) but US non-target market; no US visa strategy — bookmark |
+| 607 | 2026-06-13 | Gradera | Data Engineer | 2.5/5 | Evaluated | ❌ | [607](reports/607-gradera-data-engineer-2026-06-13.md) | Insufficient company/JD info; suspicious legitimacy; verify before applying |
+| 608 | 2026-06-13 | Abstract | Full Stack Web Developer | 2.5/5 | Evaluated | ❌ | [608](reports/608-abstract-full-stack-web-developer-2026-06-13.md) | Remote contractor; JD inaccessible; adjacent archetype; contractor logistics from Bangladesh |
+| 609 | 2026-06-13 | EPAM Systems | Lead Business Analyst (m/f/d) | 3.5/5 | Evaluated | ❌ | [609](reports/609-epam-systems-lead-business-analyst-2026-06-13.md) | Germany BA role; near-ideal strategy fit; verify visa sponsorship; Lead level may be a stretch |
 | 590 | 2026-06-12 | CafeMedia | Business Intelligence Analyst | 2.2/5 | Evaluated | ❌ | [590](reports/590-cafemedia-business-intelligence-analyst-2026-06-12.md) | US-only remote; location veto — skip |
 | 591 | 2026-06-12 | AHU Technologies | Business Analyst | 1.8/5 | Evaluated | ❌ | [591](reports/591-ahu-technologies-business-analyst-2026-06-12.md) | US-only (Chicago, IL); small company; skip |
 | 592 | 2026-06-12 | Dentology | Full Stack Product Engineer | 3.6/5 | Evaluated | ❌ | [592](reports/592-dentology-full-stack-product-engineer-2026-06-12.md) | UK/EU remote £40-50k; React match, TS gap; visa via EOR; apply if contractor-remote OK |
@@ -431,7 +442,7 @@
 | 32 | 2026-05-07 | Starship Technologies | Senior Data Analyst (Germany, Remote) | 3.8/5 | Evaluated | ❌ | [032](reports/032-starship-2026-05-07.md) | Top priority: Germany remote + 2-4yr experience requirement + DA archetype — apply immediately |
 | 33 | 2026-05-07 | Fingerprint | Data Analyst | 3.3/5 | Evaluated | ❌ | [033](reports/033-fingerprint-2026-05-07.md) | Expired posting, no visa sponsorship — skip |
 | 34 | 2026-05-07 | AHU Technologies | Data Analyst | 2.0/5 | Evaluated | ❌ | [034](reports/034-ahu-technologies-2026-05-07.md) | US healthcare staffing firm, 8yr experience required, wrong domain — skip |
-| 40 | 2026-05-07 | Almedia | Analytics Engineer | 3.3/5 | Evaluated | ❌ | [040](reports/040-almedia-2026-05-07.md) | Posting removed Jul 2025, office-first Berlin, check for fresh opening first |
+| 40 | 2026-06-13 | Almedia | Analytics Engineer | 3.5/5 | Evaluated | ❌ | [606](reports/606-almedia-analytics-engineer-2026-06-13.md) | Re-eval 2026-06-13 (3.3→3.5). Berlin startup €90-140K; learn dbt first then apply; verify visa sponsorship |
 | 41 | 2026-05-07 | SoSafe | Senior Data Analytics Engineer (Remote) | 3.6/5 | Evaluated | ❌ | [041](reports/041-sosafe-2026-05-07.md) | Strong archetype fit but geo restriction UK/IE/PT — confirm before applying |
 | 42 | 2026-05-07 | GetYourGuide | Senior Analytics Manager, Supply | 2.0/5 | Evaluated | ❌ | [004](reports/004-getyourguide-2-2026-05-07.md) | Hard skip — people management role requiring 6-8 yrs + team leadership; premature for Moin's career stage |
 | 43 | 2026-05-07 | abra | Data Engineer (Remote) | 2.5/5 | Evaluated | ❌ | [042](reports/042-abra-2026-05-07.md) | Expired Sep 2025, 5yr experience required — skip |
