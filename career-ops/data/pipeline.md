@@ -4,6 +4,22 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [x] #610 | https://jobs.ashbyhq.com/backmarket/fe6813e8-2acf-45d3-949c-9a297a8fa9af | Back Market | Senior/Staff Data Analyst – Care Analytics | 2.8/5 | PDF ❌
+- [x] #611 | https://jobs.ashbyhq.com/atlan/a0a20ce7-26b1-4681-959e-0cc8446db790 | Atlan | Analytics Engineer | 2.8/5 | PDF ❌
+- [x] #612 | https://jobs.ashbyhq.com/hackerone/247c515a-e5a6-45ff-86c3-cc0f7483f295 | HackerOne | Senior Data Engineer | 2.5/5 | PDF ❌
+- [x] #613 | https://remotive.com/remote/jobs/data/data-analyst-4600270 | Dominion National | Data Analyst | 2.0/5 | PDF ❌
+- [x] #614 | https://remotive.com/remote/jobs/data/business-data-analyst-4309238 | GP Strategies | Business Data Analyst | 2.8/5 | PDF ❌
+- [x] #615 | https://remotive.com/remote/jobs/data/data-and-reporting-analyst-4619221 | CES Power | Data and Reporting Analyst | 2.5/5 | PDF ❌
+- [x] #616 | https://remotive.com/remote/jobs/data/data-and-analytics-engineer-4407055 | Arcadian Infracom | Data and Analytics Engineer | 2.8/5 | PDF ❌
+- [x] #617 | https://remotive.com/remote/jobs/data/analytics-engineer-iv-4862669 | ACV | Analytics Engineer IV | 1.8/5 | PDF ❌
+- [x] #618 | https://remotive.com/remote/jobs/data/data-engineer-4668053 | Cotulla Education | Data Engineer | 2.2/5 | PDF ❌
+- [x] #619 | https://remotive.com/remote/jobs/data/lead-data-engineer-4718445 | Reprise Financial | Lead Data Engineer | 2.5/5 | PDF ❌
+- [x] #620 | https://remotive.com/remote/jobs/data/senior-analytics-engineer-4927148 | Dadoteca | Senior Analytics Engineer | 2.0/5 | PDF ❌
+- [x] #621 | https://weworkremotely.com/remote-jobs/leadsimple-inc-product-data-analyst | LeadSimple | Product Data Analyst | 2.5/5 | PDF ❌
+- [x] #622 | https://weworkremotely.com/remote-jobs/hubspot-lead-data-analyst | HubSpot | Lead Data Analyst | 2.8/5 | PDF ❌
+- [x] #623 | https://job-boards.greenhouse.io/anteriad/jobs/4806727004 | Anteriad | Marketing Data Analyst | 1.5/5 | PDF ❌
+- [x] #624 | https://job-boards.greenhouse.io/evolutioniq/jobs/5810746004 | EvolutionIQ | Senior Business Analyst | 1.8/5 | PDF ❌
+- [x] #625 | https://job-boards.greenhouse.io/nubank/jobs/7402432 | Nubank | Staff Business Analyst | 2.0/5 | PDF ❌
 - [x] #598 | https://job-boards.greenhouse.io/n26/jobs/7522593 | N26 | Senior Marketing Data Analyst | 2.8/5 | PDF ❌
 - [x] #599 | https://job-boards.eu.greenhouse.io/ultratendency/jobs/4888567101 | Ultra Tendency | Senior Data Engineer - Databricks | 2.7/5 | PDF ❌
 - [x] #600 | https://job-boards.greenhouse.io/encora10/jobs/5112104007 | Encora | Business Analyst | 3.2/5 | PDF ❌
