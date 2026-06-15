@@ -4,6 +4,13 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [ ] https://jobs.lever.co/jobgether/af8bf3b9-95ca-4a30-8bc3-cd23700e80a2 | Jobgether | Data Engineer (Remote Germany)
+- [ ] https://jobs.lever.co/jobgether/fd8de3d1-8da9-48c1-9cce-4173f31b8d2f | Jobgether | Senior Business Analyst Data Analytics & AI
+- [ ] https://jobs.lever.co/jobgether/1449717d-a107-4a48-a0ab-415af40be731 | Jobgether | Senior Data Engineer
+- [ ] https://jobs.lever.co/equativ/fd4b7e99-ad05-4e7b-afb7-ff245d13718a | Equativ | Sr Business Data Analyst
+- [ ] https://jobs.lever.co/mistral/6f28da96-76f9-44bb-9b85-4e3519fde6d4 | Mistral AI | Data Engineer
+- [ ] https://jobs.lever.co/aircall/d9fc4c01-a12b-402e-94ee-9c3984a1fe79 | Aircall | Senior Data Engineer - Real time analytics
+
 - [x] #610 | https://jobs.ashbyhq.com/backmarket/fe6813e8-2acf-45d3-949c-9a297a8fa9af | Back Market | Senior/Staff Data Analyst – Care Analytics | 2.8/5 | PDF ❌
 - [x] #611 | https://jobs.ashbyhq.com/atlan/a0a20ce7-26b1-4681-959e-0cc8446db790 | Atlan | Analytics Engineer | 2.8/5 | PDF ❌
 - [x] #612 | https://jobs.ashbyhq.com/hackerone/247c515a-e5a6-45ff-86c3-cc0f7483f295 | HackerOne | Senior Data Engineer | 2.5/5 | PDF ❌
