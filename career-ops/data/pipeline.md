@@ -4,12 +4,26 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
-- [ ] https://jobs.lever.co/jobgether/af8bf3b9-95ca-4a30-8bc3-cd23700e80a2 | Jobgether | Data Engineer (Remote Germany)
-- [ ] https://jobs.lever.co/jobgether/fd8de3d1-8da9-48c1-9cce-4173f31b8d2f | Jobgether | Senior Business Analyst Data Analytics & AI
-- [ ] https://jobs.lever.co/jobgether/1449717d-a107-4a48-a0ab-415af40be731 | Jobgether | Senior Data Engineer
-- [ ] https://jobs.lever.co/equativ/fd4b7e99-ad05-4e7b-afb7-ff245d13718a | Equativ | Sr Business Data Analyst
-- [ ] https://jobs.lever.co/mistral/6f28da96-76f9-44bb-9b85-4e3519fde6d4 | Mistral AI | Data Engineer
-- [ ] https://jobs.lever.co/aircall/d9fc4c01-a12b-402e-94ee-9c3984a1fe79 | Aircall | Senior Data Engineer - Real time analytics
+- [ ] https://jobs.ashbyhq.com/payabli/d67d3d94-ae6c-45f3-ab8a-791f45062262 | Payabli | Staff Data Engineer
+- [ ] https://jobs.ashbyhq.com/pebl/1ac97de2-14ef-4bb8-8fe3-2693aa752afa | Pebl | Senior Fullstack Software Engineer A.I.
+- [ ] https://jobs.ashbyhq.com/enpal/73642bc4-b51b-4350-8d94-0154c192e7c7 | Enpal | Mid-Level Fullstack Software Engineer
+- [ ] https://jobs.ashbyhq.com/block-labs/e09a679f-3eeb-410d-b055-8f4bab4b4436 | Block Labs | Senior Software Engineer (Full-stack) - Payments
+- [ ] https://jobs.ashbyhq.com/finvari/ac8cd6cc-dd91-4ae0-aa00-d81687203bbc | Finvari | Frontend / Full-Stack Engineer (Senior or Staff)
+- [ ] https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-curam | AHU Technologies | Data Analyst/Curam
+- [ ] https://weworkremotely.com/remote-jobs/mammoth-growth-data-engineer | Mammoth Growth | Data Engineer
+- [ ] https://weworkremotely.com/remote-jobs/hyr-global-source-inc-azure-data-engineer-durham-nc-w2-candidates | HYR Global Source | Azure Data Engineer (Durham NC, W2)
+- [ ] https://weworkremotely.com/remote-jobs/trinca-senior-data-engineering | Trinca | Senior Data Engineer
+- [ ] https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-3 | Proxify AB | Senior Fullstack Developer (Python)
+- [ ] https://weworkremotely.com/remote-jobs/mindrift-freelance-full-stack-web-app-developer | Mindrift | Freelance Full-Stack Web App Developer
+- [ ] https://www.gdit.com/careers/job/22803340b/powerapps-developer-remote/ | GDIT | PowerApps Developer (Remote)
+- [ ] https://job-boards.greenhouse.io/autoscout24/jobs/7629457003 | AutoScout24 | Senior Software Engineer / AI Enabler (m/f/d)
+
+- [x] #626 | https://jobs.lever.co/jobgether/af8bf3b9-95ca-4a30-8bc3-cd23700e80a2 | Jobgether | Data Engineer (Remote Germany) | 2.6/5 | PDF ❌
+- [x] #627 | https://jobs.lever.co/jobgether/fd8de3d1-8da9-48c1-9cce-4173f31b8d2f | Jobgether | Senior Business Analyst Data Analytics & AI | 1.8/5 | PDF ❌
+- [x] #628 | https://jobs.lever.co/jobgether/1449717d-a107-4a48-a0ab-415af40be731 | Jobgether | Senior Data Engineer | 2.1/5 | PDF ❌
+- [x] #629 | https://jobs.lever.co/equativ/fd4b7e99-ad05-4e7b-afb7-ff245d13718a | Equativ | Sr Business Data Analyst | 2.5/5 | PDF ❌
+- [x] #630 | https://jobs.lever.co/mistral/6f28da96-76f9-44bb-9b85-4e3519fde6d4 | Mistral AI | Data Engineer | 2.5/5 | PDF ❌
+- [x] #631 | https://jobs.lever.co/aircall/d9fc4c01-a12b-402e-94ee-9c3984a1fe79 | Aircall | Senior Data Engineer - Real time analytics | 1.7/5 | PDF ❌
 
 - [x] #610 | https://jobs.ashbyhq.com/backmarket/fe6813e8-2acf-45d3-949c-9a297a8fa9af | Back Market | Senior/Staff Data Analyst – Care Analytics | 2.8/5 | PDF ❌
 - [x] #611 | https://jobs.ashbyhq.com/atlan/a0a20ce7-26b1-4681-959e-0cc8446db790 | Atlan | Analytics Engineer | 2.8/5 | PDF ❌

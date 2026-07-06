@@ -2,6 +2,11 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 626 | 2026-07-06 | Jobgether | Data Engineer (Remote Germany) | 2.6/5 | Evaluated | ❌ | [626](reports/626-jobgether-data-engineer-2026-07-06.md) | AWS-native DE role (Kinesis/Glue/Terraform); Python/PySpark match but Azure vs AWS gap and undisclosed employer; visa not mentioned; conditional hold pending employer ID |
+| 628 | 2026-07-06 | Jobgether | Senior Data Engineer | 2.1/5 | Evaluated | ❌ | [628](reports/628-jobgether-senior-data-engineer-2026-07-06.md) | Seniority gap + dbt-core absent + anonymous employer; DE secondary archetype; Germany location match but do not apply |
+| 629 | 2026-07-06 | Equativ | Sr Business Data Analyst | 2.5/5 | Evaluated | ❌ | [629](reports/629-equativ-sr-business-data-analyst-2026-07-06.md) | Paris hybrid only, not Germany target; Tableau not Power BI, no Snowflake/dbt, no visa sponsorship mentioned |
+| 630 | 2026-07-06 | Mistral AI | Data Engineer | 2.5/5 | Evaluated | ❌ | [630](reports/630-mistral-ai-data-engineer-2026-07-06.md) | Paris on-site, Kafka/Flink gap, ML pipeline gap; skip unless open to France relocation |
+| 631 | 2026-07-06 | Aircall | Senior Data Engineer - Real time analytics | 1.7/5 | Evaluated | ❌ | [631](reports/631-aircall-senior-data-engineer-real-time-2026-07-06.md) | SKIP — no Kafka/Flink/Pinot/AWS; full streaming stack absent; Azure vs AWS mismatch; Senior gap; visa not mentioned |
 | 610 | 2026-06-14 | Back Market | Senior/Staff Data Analyst – Care Analytics | 2.8/5 | Evaluated | ❌ | [610](reports/610-back-market-senior-data-analyst-care-analytics-2026-06-14.md) | France/Paris role; unicorn recommerce; strong skills match; not target market (France not Germany/AU/MY); confirm remote-from-Germany viability before applying |
 | 611 | 2026-06-14 | Atlan | Analytics Engineer | 2.8/5 | Evaluated | ❌ | [611](reports/611-atlan-analytics-engineer-2026-06-14.md) | India-based data catalog startup; dbt/Snowflake gap; India salary likely below EU Blue Card threshold; only pursue if international pay offered |
 | 612 | 2026-06-14 | HackerOne | Senior Data Engineer | 2.5/5 | Evaluated | ❌ | [612](reports/612-hackerone-senior-data-engineer-2026-06-14.md) | US cybersecurity; 2023 layoffs; US-centric remote; 5+ yrs required; seniority gap |
