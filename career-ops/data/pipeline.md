@@ -4,38 +4,38 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
-- [ ] https://jobs.ashbyhq.com/payabli/d67d3d94-ae6c-45f3-ab8a-791f45062262 | Payabli | Staff Data Engineer
-- [ ] https://jobs.ashbyhq.com/pebl/1ac97de2-14ef-4bb8-8fe3-2693aa752afa | Pebl | Senior Fullstack Software Engineer A.I.
-- [ ] https://jobs.ashbyhq.com/enpal/73642bc4-b51b-4350-8d94-0154c192e7c7 | Enpal | Mid-Level Fullstack Software Engineer
-- [ ] https://jobs.ashbyhq.com/block-labs/e09a679f-3eeb-410d-b055-8f4bab4b4436 | Block Labs | Senior Software Engineer (Full-stack) - Payments
-- [ ] https://jobs.ashbyhq.com/finvari/ac8cd6cc-dd91-4ae0-aa00-d81687203bbc | Finvari | Frontend / Full-Stack Engineer (Senior or Staff)
-- [ ] https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-curam | AHU Technologies | Data Analyst/Curam
-- [ ] https://weworkremotely.com/remote-jobs/mammoth-growth-data-engineer | Mammoth Growth | Data Engineer
-- [ ] https://weworkremotely.com/remote-jobs/hyr-global-source-inc-azure-data-engineer-durham-nc-w2-candidates | HYR Global Source | Azure Data Engineer (Durham NC, W2)
-- [ ] https://weworkremotely.com/remote-jobs/trinca-senior-data-engineering | Trinca | Senior Data Engineer
-- [ ] https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-3 | Proxify AB | Senior Fullstack Developer (Python)
-- [ ] https://weworkremotely.com/remote-jobs/mindrift-freelance-full-stack-web-app-developer | Mindrift | Freelance Full-Stack Web App Developer
-- [ ] https://www.gdit.com/careers/job/22803340b/powerapps-developer-remote/ | GDIT | PowerApps Developer (Remote)
-- [ ] https://job-boards.greenhouse.io/autoscout24/jobs/7629457003 | AutoScout24 | Senior Software Engineer / AI Enabler (m/f/d)
-- [ ] https://job-boards.greenhouse.io/jetbrains/jobs/4768486101 | JetBrains | Senior Business Analyst (HR Technology)
-- [ ] https://job-boards.greenhouse.io/typeform/jobs/7850909 | Typeform | Senior Data Platform Engineer
-- [ ] https://job-boards.greenhouse.io/dept/jobs/7030458 | DEPT® | Senior Data Engineer
-- [ ] https://job-boards.greenhouse.io/awetomaton/jobs/5203676008 | Awetomaton | Analytics Engineer / Data Scientist (Full Stack)
-- [ ] https://jobs.ashbyhq.com/supabase/e7e19db2-8735-428b-bf22-c7109a3e336a | Supabase | Staff Data Analyst, GTM
-- [ ] https://jobs.ashbyhq.com/tremendous/9d5857e2-704a-4bf5-b134-e4ae2839178f | Tremendous | Senior Data Analyst
-- [ ] https://jobs.ashbyhq.com/junior/2df59b99-4938-44be-8041-7f9be23e6a34 | Junior AI | Data Analyst
-- [ ] https://jobs.ashbyhq.com/rula/40282e98-90c8-4d3d-8918-57ef3d06c36f | Rula | Sr Analytics Engineer
-- [ ] https://jobs.ashbyhq.com/people-data-labs/0de90399-96ce-40dc-ba63-8b954b44ebca | People Data Labs | Senior Software Engineer Full Stack
-- [ ] https://jobs.ashbyhq.com/sunday/beb5ce14-e740-40c8-a4df-795f9eda75e5 | Sunday | Full Stack Software Engineer, Data Operations Tooling
-- [ ] https://weworkremotely.com/remote-jobs/elite-software-automation-business-analyst-2 | Elite Software Automation | Business Analyst
-- [ ] https://weworkremotely.com/remote-jobs/soltech-mdm-data-engineer | Soltech | MDM Data Engineer
-- [ ] https://weworkremotely.com/remote-jobs/lodgify-senior-data-engineer | Lodgify | Senior Data Engineer
-- [ ] https://weworkremotely.com/remote-jobs/toggl-analytics-engineer-1 | Toggl | Analytics Engineer
-- [ ] https://weworkremotely.com/remote-jobs/base-com-full-stack-developer-react-aws | Base.com | Full-Stack Developer (React + AWS)
-- [ ] https://remotive.com/remote/jobs/data/senior-data-analytics-engineer-5151643 | Digistore24 | Senior Data Analytics Engineer
-- [ ] https://remotive.com/remote/jobs/data/data-platform-engineer-5166931 | Tucows | Data Platform Engineer
-- [ ] https://remotive.com/remote/jobs/data/data-engineer-ml-ai-data-platform-5100874 | FEI Systems | Data Engineer — ML/AI Data Platform
-- [ ] https://remotive.com/remote/jobs/data/data-business-analyst-migration-and-integration-analyst-5097440 | FEI Systems | Data Business Analyst — Migration and Integration
+- [x] #663 | https://remotive.com/remote/jobs/data/data-business-analyst-migration-and-integration-analyst-5097440 | FEI Systems | Data Business Analyst — Migration and Integration | 1.5/5 | PDF ❌
+- [x] #662 | https://remotive.com/remote/jobs/data/data-engineer-ml-ai-data-platform-5100874 | FEI Systems | Data Engineer — ML/AI Data Platform | 1.0/5 | PDF ❌
+- [x] #661 | https://remotive.com/remote/jobs/data/data-platform-engineer-5166931 | Tucows | Data Platform Engineer | 2.8/5 | PDF ❌
+- [x] #660 | https://remotive.com/remote/jobs/data/senior-data-analytics-engineer-5151643 | Digistore24 | Senior Data Analytics Engineer | 2.3/5 | PDF ❌
+- [x] #659 | https://weworkremotely.com/remote-jobs/base-com-full-stack-developer-react-aws | Base.com | Full-Stack Developer (React + AWS) | 2.3/5 | PDF ❌
+- [x] #658 | https://weworkremotely.com/remote-jobs/toggl-analytics-engineer-1 | Toggl | Analytics Engineer | 2.4/5 | PDF ❌
+- [x] #657 | https://weworkremotely.com/remote-jobs/lodgify-senior-data-engineer | Lodgify | Senior Data Engineer | 2.0/5 | PDF ❌
+- [x] #656 | https://weworkremotely.com/remote-jobs/soltech-mdm-data-engineer | Soltech | MDM Data Engineer | 1.5/5 | PDF ❌
+- [x] #655 | https://weworkremotely.com/remote-jobs/elite-software-automation-business-analyst-2 | Elite Software Automation | Business Analyst | 3.7/5 | PDF ❌
+- [x] #654 | https://jobs.ashbyhq.com/sunday/beb5ce14-e740-40c8-a4df-795f9eda75e5 | Sunday | Full Stack Software Engineer, Data Operations Tooling | 2.3/5 | PDF ❌
+- [x] #653 | https://jobs.ashbyhq.com/people-data-labs/0de90399-96ce-40dc-ba63-8b954b44ebca | People Data Labs | Senior Software Engineer Full Stack | 2.0/5 | PDF ❌
+- [x] #652 | https://jobs.ashbyhq.com/rula/40282e98-90c8-4d3d-8918-57ef3d06c36f | Rula | Sr Analytics Engineer | 2.1/5 | PDF ❌
+- [x] #651 | https://jobs.ashbyhq.com/junior/2df59b99-4938-44be-8041-7f9be23e6a34 | Junior AI | Data Analyst | 3.0/5 | PDF ❌
+- [x] #650 | https://jobs.ashbyhq.com/tremendous/9d5857e2-704a-4bf5-b134-e4ae2839178f | Tremendous | Senior Data Analyst | 2.9/5 | PDF ❌
+- [x] #649 | https://jobs.ashbyhq.com/supabase/e7e19db2-8735-428b-bf22-c7109a3e336a | Supabase | Staff Data Analyst, GTM | 3.2/5 | PDF ❌
+- [x] #648 | https://job-boards.greenhouse.io/awetomaton/jobs/5203676008 | Awetomaton | Analytics Engineer / Data Scientist (Full Stack) | 2.3/5 | PDF ❌
+- [x] #647 | https://job-boards.greenhouse.io/dept/jobs/7030458 | DEPT® | Senior Data Engineer | 2.6/5 | PDF ❌
+- [x] #646 | https://job-boards.greenhouse.io/typeform/jobs/7850909 | Typeform | Senior Data Platform Engineer | 2.0/5 | PDF ❌
+- [x] #645 | https://job-boards.greenhouse.io/jetbrains/jobs/4768486101 | JetBrains | Senior Business Analyst (HR Technology) | 2.9/5 | PDF ❌
+- [x] #644 | https://job-boards.greenhouse.io/autoscout24/jobs/7629457003 | AutoScout24 | Senior Software Engineer / AI Enabler (m/f/d) | 2.1/5 | PDF ❌
+- [x] #643 | https://www.gdit.com/careers/job/22803340b/powerapps-developer-remote/ | GDIT | PowerApps Developer (Remote) | 1.0/5 | PDF ❌
+- [x] #642 | https://weworkremotely.com/remote-jobs/mindrift-freelance-full-stack-web-app-developer | Mindrift | Freelance Full-Stack Web App Developer | 2.1/5 | PDF ❌
+- [x] #641 | https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-3 | Proxify AB | Senior Fullstack Developer (Python) | 1.4/5 | PDF ❌
+- [x] #640 | https://weworkremotely.com/remote-jobs/trinca-senior-data-engineering | Trinca | Senior Data Engineer | 3.0/5 | PDF ❌
+- [x] #639 | https://weworkremotely.com/remote-jobs/hyr-global-source-inc-azure-data-engineer-durham-nc-w2-candidates | HYR Global Source | Azure Data Engineer (Durham NC, W2) | 1.0/5 | PDF ❌
+- [x] #638 | https://weworkremotely.com/remote-jobs/mammoth-growth-data-engineer | Mammoth Growth | Data Engineer | 2.6/5 | PDF ❌
+- [x] #637 | https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-curam | AHU Technologies | Data Analyst/Curam | 1.2/5 | PDF ❌
+- [x] #636 | https://jobs.ashbyhq.com/finvari/ac8cd6cc-dd91-4ae0-aa00-d81687203bbc | Finvari | Frontend / Full-Stack Engineer (Senior or Staff) | 1.8/5 | PDF ❌
+- [x] #635 | https://jobs.ashbyhq.com/block-labs/e09a679f-3eeb-410d-b055-8f4bab4b4436 | Block Labs | Senior Software Engineer (Full-stack) - Payments | 1.7/5 | PDF ❌
+- [x] #634 | https://jobs.ashbyhq.com/enpal/73642bc4-b51b-4350-8d94-0154c192e7c7 | Enpal | Mid-Level Fullstack Software Engineer | 3.0/5 | PDF ❌
+- [x] #633 | https://jobs.ashbyhq.com/pebl/1ac97de2-14ef-4bb8-8fe3-2693aa752afa | Pebl | Senior Fullstack Software Engineer A.I. | 1.8/5 | PDF ❌
+- [x] #632 | https://jobs.ashbyhq.com/payabli/d67d3d94-ae6c-45f3-ab8a-791f45062262 | Payabli | Staff Data Engineer | 1.7/5 | PDF ❌
 
 - [x] #626 | https://jobs.lever.co/jobgether/af8bf3b9-95ca-4a30-8bc3-cd23700e80a2 | Jobgether | Data Engineer (Remote Germany) | 2.6/5 | PDF ❌
 - [x] #627 | https://jobs.lever.co/jobgether/fd8de3d1-8da9-48c1-9cce-4173f31b8d2f | Jobgether | Senior Business Analyst Data Analytics & AI | 1.8/5 | PDF ❌
