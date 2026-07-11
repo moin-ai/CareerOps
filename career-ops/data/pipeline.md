@@ -4,25 +4,25 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
-- [ ] https://job-boards.greenhouse.io/berlinbrands/jobs/5843103004 | Berlin Brands Group | BI Data Analyst
-- [ ] https://jobs.ashbyhq.com/hostinger/7e22c963-6033-43e1-a0ad-f107256d2069 | Hostinger | Product Data Analyst
-- [ ] https://jobs.ashbyhq.com/elliptic/16326830-98ec-4dff-9d02-8a105c936873 | Elliptic | Data Engineer
-- [ ] https://www.linkedin.com/jobs/view/microsoft-dynamics-powerapps-power-bi-developer-at-htp-consulting-services-4431441265 | HTP Consulting Services | Microsoft Dynamics, PowerApps & Power BI Developer
-- [ ] https://careers.deliveryhero.com/job/data-engineer-l-2026-tech-grad-program-in-berlin-germany-jid-8006 | Delivery Hero | Data Engineer I (2026 Tech Grad Program)
-- [ ] https://careers.deliveryhero.com/job/staff-data-analyst-in-berlin-germany-jid-9809 | Delivery Hero | Staff Data Analyst
-- [ ] https://jobs.ashbyhq.com/deel/4b862c9b-c284-48a3-a47b-0327f80e44ad | Deel | Data Analyst
-- [ ] https://jobs.ashbyhq.com/tapcheck/fcaa9d72-f379-44ca-964a-86616be61b03 | Tapcheck | Data Analyst
-- [ ] https://weworkremotely.com/remote-jobs/toptal-full-stack-developer | Toptal | Full Stack Developer
-- [ ] https://weworkremotely.com/remote-jobs/casae-senior-full-stack-developer-founding-engineer | Casae | Senior Full Stack Developer (Founding Engineer)
-- [ ] https://weworkremotely.com/remote-jobs/million-view-club-full-stack-developer-youtube-education-platform | Million View Club | Full Stack Developer
-- [ ] https://weworkremotely.com/remote-jobs/stack-influence-senior-full-stack-javascript-engineer-remote-4-day-week | Stack Influence | Senior Full Stack Javascript Engineer
-- [ ] https://remotive.com/remote/jobs/software-development/data-engineering-analyst-4284665 | World Business Lenders | Data Engineering Analyst
-- [ ] https://remotive.com/remote/jobs/data/senior-data-analyst-4305080 | Future | Senior Data Analyst
-- [ ] https://remotive.com/remote/jobs/software-development/ai-data-analyst-data-engineer-4168066 | Expressable | AI Data Analyst / Data Engineer
-- [ ] https://jobs.zalando.com/en/jobs/2724125 | Zalando | Senior Software Frontend Engineer / Lounge by Zalando
-- [ ] https://ch.linkedin.com/jobs/view/expert-power-bi-at-bapm-4256473242 | BAPM | Expert Power BI
-- [ ] https://at.linkedin.com/jobs/view/power-bi-specialist-m-w-d-at-join-com-4197573904 | JOIN | Power BI Specialist (m/w/d)
-- [ ] https://my.linkedin.com/jobs/view/business-intelligence-lead-at-cbre-3824553585 | CBRE | Business Intelligence Lead
+- [x] #664 | https://job-boards.greenhouse.io/berlinbrands/jobs/5843103004 | Berlin Brands Group | BI Data Analyst | 1.8/5 | PDF ❌
+- [x] #665 | https://jobs.ashbyhq.com/hostinger/7e22c963-6033-43e1-a0ad-f107256d2069 | Hostinger | Product Data Analyst | 3.0/5 | PDF ❌
+- [x] #666 | https://jobs.ashbyhq.com/elliptic/16326830-98ec-4dff-9d02-8a105c936873 | Elliptic | Data Engineer | 2.5/5 | PDF ❌
+- [x] #667 | https://www.linkedin.com/jobs/view/microsoft-dynamics-powerapps-power-bi-developer-at-htp-consulting-services-4431441265 | HTP Consulting Services | Microsoft Dynamics, PowerApps & Power BI Developer | 3.2/5 | PDF ❌
+- [x] #668 | https://careers.deliveryhero.com/job/data-engineer-l-2026-tech-grad-program-in-berlin-germany-jid-8006 | Delivery Hero | Data Engineer I (2026 Tech Grad Program) | 1.3/5 | PDF ❌
+- [x] #669 | https://careers.deliveryhero.com/job/staff-data-analyst-in-berlin-germany-jid-9809 | Delivery Hero | Staff Data Analyst | 2.5/5 | PDF ❌
+- [x] #670 | https://jobs.ashbyhq.com/deel/4b862c9b-c284-48a3-a47b-0327f80e44ad | Deel | Data Analyst | 3.0/5 | PDF ❌
+- [x] #671 | https://jobs.ashbyhq.com/tapcheck/fcaa9d72-f379-44ca-964a-86616be61b03 | Tapcheck | Data Analyst | 1.8/5 | PDF ❌
+- [x] #672 | https://weworkremotely.com/remote-jobs/toptal-full-stack-developer | Toptal | Full Stack Developer | 3.0/5 | PDF ❌
+- [x] #673 | https://weworkremotely.com/remote-jobs/casae-senior-full-stack-developer-founding-engineer | Casae | Senior Full Stack Developer (Founding Engineer) | 2.2/5 | PDF ❌
+- [x] #674 | https://weworkremotely.com/remote-jobs/million-view-club-full-stack-developer-youtube-education-platform | Million View Club | Full Stack Developer | 2.3/5 | PDF ❌
+- [x] #675 | https://weworkremotely.com/remote-jobs/stack-influence-senior-full-stack-javascript-engineer-remote-4-day-week | Stack Influence | Senior Full Stack Javascript Engineer | 2.8/5 | PDF ❌
+- [x] #676 | https://remotive.com/remote/jobs/software-development/data-engineering-analyst-4284665 | World Business Lenders | Data Engineering Analyst | 2.5/5 | PDF ❌
+- [x] #677 | https://remotive.com/remote/jobs/data/senior-data-analyst-4305080 | Future | Senior Data Analyst | 2.1/5 | PDF ❌
+- [x] #678 | https://remotive.com/remote/jobs/software-development/ai-data-analyst-data-engineer-4168066 | Expressable | AI Data Analyst / Data Engineer | 1.8/5 | PDF ❌
+- [x] #679 | https://jobs.zalando.com/en/jobs/2724125 | Zalando | Senior Software Frontend Engineer / Lounge by Zalando | 2.0/5 | PDF ❌
+- [x] #680 | https://ch.linkedin.com/jobs/view/expert-power-bi-at-bapm-4256473242 | BAPM | Expert Power BI | 2.5/5 | PDF ❌
+- [x] #681 | https://at.linkedin.com/jobs/view/power-bi-specialist-m-w-d-at-join-com-4197573904 | JOIN | Power BI Specialist (m/w/d) | 3.0/5 | PDF ❌
+- [x] #682 | https://my.linkedin.com/jobs/view/business-intelligence-lead-at-cbre-3824553585 | CBRE | Business Intelligence Lead | 3.5/5 | PDF ❌
 
 - [x] #663 | https://remotive.com/remote/jobs/data/data-business-analyst-migration-and-integration-analyst-5097440 | FEI Systems | Data Business Analyst — Migration and Integration | 1.5/5 | PDF ❌
 - [x] #662 | https://remotive.com/remote/jobs/data/data-engineer-ml-ai-data-platform-5100874 | FEI Systems | Data Engineer — ML/AI Data Platform | 1.0/5 | PDF ❌
