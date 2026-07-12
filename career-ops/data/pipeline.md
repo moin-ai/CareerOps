@@ -4,6 +4,33 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [ ] https://job-boards.greenhouse.io/sumup/jobs/8559467002 | SumUp | Data Analyst – Consumer Bank
+- [ ] https://job-boards.greenhouse.io/shopfully/jobs/7535197 | Shopfully | Senior Data Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/amboss/cf467e1e-09a6-4ad0-9094-4f87e88ffe6a | AMBOSS | Junior Data Engineer
+- [ ] https://jobs.ashbyhq.com/zeal-network/b0f1da9a-e6e3-4989-b043-5d4e7ce9a54e | Zeal Network | Senior Data Engineer (f/m/d)
+- [ ] https://jobs.ashbyhq.com/cortea/971b9f39-3b65-4687-8bc8-243b9924d468 | Cortea AI | Software Engineer, Data & AI Platform
+- [ ] https://remotive.com/remote/jobs/data/senior-business-intelligence-analyst-5146073 | Elephant Insurance | Senior BI Analyst
+- [ ] https://remotive.com/remote/jobs/data/business-intelligence-analyst-4553901 | Veeam Software | Business Intelligence Analyst
+- [ ] https://remotive.com/remote/jobs/data/business-intelligence-analyst-5081479 | Waystar | Business Intelligence Analyst
+- [ ] https://remotive.com/remote/jobs/data/data-analyst-4957014 | The Providencia Group | Data Analyst
+- [ ] https://remotive.com/remote/jobs/data/middle-data-engineer-4776406 | Miratech | Middle Data Engineer
+- [ ] https://remotive.com/remote/jobs/data/data-engineer-azure-databricks-5063109 | Bridge & Co. | Data Engineer (Azure/Databricks)
+- [ ] https://remotive.com/remote/jobs/data/data-pipeline-analytics-engineering-consultant-4495377 | 24-MAG | Data Pipeline & Analytics Engineering Consultant
+- [ ] https://remotive.com/remote/jobs/data/lead-data-engineer-data-architect-5042726 | Enable Data Incorporated | Lead Data Engineer/Data Architect
+- [ ] https://remotive.com/remote/jobs/software-development/data-engineer-4435947 | V4C.ai | Data Engineer
+- [ ] https://remotive.com/remote/jobs/software-development/full-stack-senior-developer-3758605 | artlogic Staffpool GmbH | Full Stack Senior Developer
+- [ ] https://remotive.com/remote/jobs/software-development/full-stack-developer-3798166 | Powerprozesse | Full-Stack Developer
+- [ ] https://remotive.com/remote-jobs/software-dev/senior-full-stack-software-engineer-2071478 | smartclip Europe GmbH | Senior Full Stack Software Engineer
+- [ ] https://remotive.com/remote/jobs/data/senior-data-analyst-5015792 | Globaldev Group | Senior Data Analyst
+- [ ] https://remotive.com/remote/jobs/data/data-developer-data-analyst-1952907 | univativ GmbH | Data Developer / Data Analyst
+- [ ] https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-developer-8 | Lemon.io | Senior Full-stack Developer
+- [ ] https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-5 | Lemon.io | Senior React Full-stack Developer
+- [ ] https://weworkremotely.com/remote-jobs/pos-full-stack-javascript-engineer-remote-latam-or-europe | POS+ | Full-Stack JavaScript Engineer
+- [ ] https://weworkremotely.com/remote-jobs/coders-brain-technology-full-stack-web-application-engineer-1 | Coders Brain Technology | Full Stack Web Application Engineer
+- [ ] https://de.linkedin.com/jobs/view/data-engineer-power-apps-power-bi-m-w-d-at-avanca-corporation-4401938010 | Avanca Corporation | Data Engineer Power Apps / Power BI
+- [ ] https://uk.linkedin.com/jobs/view/power-bi-consultant-at-stefanini-emea-4409782699 | Stefanini EMEA | Power BI Consultant
+- [ ] https://uk.linkedin.com/jobs/view/power-bi-developer-12-month-ftc-at-as-watson-4408815422 | AS Watson | Power BI Developer
+
 - [x] #664 | https://job-boards.greenhouse.io/berlinbrands/jobs/5843103004 | Berlin Brands Group | BI Data Analyst | 1.8/5 | PDF ❌
 - [x] #665 | https://jobs.ashbyhq.com/hostinger/7e22c963-6033-43e1-a0ad-f107256d2069 | Hostinger | Product Data Analyst | 3.0/5 | PDF ❌
 - [x] #666 | https://jobs.ashbyhq.com/elliptic/16326830-98ec-4dff-9d02-8a105c936873 | Elliptic | Data Engineer | 2.5/5 | PDF ❌
