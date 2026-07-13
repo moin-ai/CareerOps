@@ -4,6 +4,23 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [x] #709 | https://job-boards.eu.greenhouse.io/jetbrains/jobs/4792246101 | JetBrains | Business Intelligence Analyst (m/w/d) | 3.8/5 | PDF ❌
+- [x] #710 | https://job-boards.greenhouse.io/freenow/jobs/7597913 | FREENOW | Business Intelligence Analyst | 3.3/5 | PDF ❌
+- [x] #711 | https://jobs.ashbyhq.com/finmid.com/72a36a5d-0973-4f0d-9f95-167c72639c43 | Finmid | Data Analyst | 3.4/5 | PDF ❌
+- [x] #712 | https://job-boards.greenhouse.io/berlinbrands/jobs/5568132004 | Berlin Brands Group | Finance Business Analyst (f/m/x) | 3.9/5 | PDF ❌
+- [x] #713 | https://au.linkedin.com/jobs/view/senior-bi-developer-power-bi-at-konnexus-4372358886 | Konnexus | Senior BI Developer (Power BI) | 2.2/5 | PDF ❌
+- [x] #714 | https://au.linkedin.com/jobs/view/power-bi-at-itbility-4384218230 | ITbility | Power BI Developer | 2.8/5 | PDF ❌
+- [x] #715 | https://www.linkedin.com/jobs/view/4366112064/ | HashKey Group | Business Data Analyst | 3.4/5 | PDF ❌
+- [x] #716 | https://job-boards.greenhouse.io/vay/jobs/4767962101 | Vay | Senior Data Engineer | 2.8/5 | PDF ❌
+- [x] #717 | https://job-boards.greenhouse.io/dataiku/jobs/5973409004 | Dataiku | Data Engineer I | 3.5/5 | PDF ❌
+- [x] #718 | https://au.linkedin.com/jobs/view/microsoft-azure-fabric-or-power-bi-expert-at-bi-dw-australia-4394772311 | BI & DW Australia | Microsoft Azure Fabric or Power BI Expert | 3.4/5 | PDF ❌
+- [x] #719 | https://jobs.ashbyhq.com/MUBI/b80ac874-252a-4585-9108-bf3e0d2aa38b | MUBI | Data Engineer | 2.8/5 | PDF ❌
+- [x] #720 | https://jobs.ashbyhq.com/bioptimizers/133d2148-e8e0-41fc-b3e3-05fb0c272b9e | BIOptimizers | Strategic Business Intelligence Analyst | 3.4/5 | PDF ❌
+- [x] #721 | https://remotive.com/remote/jobs/data/data-business-analyst-4511610 | TechTorch | Data Business Analyst | 1.5/5 | PDF ❌
+- [x] #722 | https://job-boards.greenhouse.io/eucalyptus/jobs/4571643005 | Eucalyptus | Business Intelligence Analyst | 2.0/5 | PDF ❌
+- [x] #723 | https://jobs.ashbyhq.com/anyone-ai/fa468b95-3816-4cf2-ad2d-2579d9d86c1c | Anyone AI | Full-Stack Developer AI Trainer | 2.8/5 | PDF ❌
+- [x] #724 | https://job-boards.greenhouse.io/bluefishai/jobs/5013817008 | Bluefish AI | Senior Full-Stack Engineer | 3.0/5 | PDF ❌
+
 - [x] #683 | https://job-boards.greenhouse.io/sumup/jobs/8559467002 | SumUp | Data Analyst – Consumer Bank | 3.5/5 | PDF ❌
 - [x] #684 | https://job-boards.greenhouse.io/shopfully/jobs/7535197 | Shopfully | Senior Data Analytics Engineer | 2.8/5 | PDF ❌
 - [x] #685 | https://jobs.ashbyhq.com/amboss/cf467e1e-09a6-4ad0-9094-4f87e88ffe6a | AMBOSS | Junior Data Engineer | 3.0/5 | PDF ❌
