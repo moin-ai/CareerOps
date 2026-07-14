@@ -4,6 +4,17 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [x] #725 | https://job-boards.greenhouse.io/wppmedia/jobs/5290934008 | WPP Media | Supervisor Business Intelligence | 2.5/5 | PDF ❌
+- [x] #726 | https://job-boards.greenhouse.io/awin/jobs/7709658003 | Awin | Data Engineer - AI/ML | 3.5/5 | PDF ❌
+- [x] #727 | https://job-boards.greenhouse.io/freenow/jobs/7300094 | FREENOW | Analytics Engineer | 3.5/5 | PDF ❌
+- [x] #728 | https://job-boards.greenhouse.io/eucalyptus/jobs/4712110005 | Eucalyptus | Senior Analytics Engineer | 2.5/5 | PDF ❌
+- [x] #729 | https://job-boards.greenhouse.io/thequalitygroupgmbh2/jobs/4909114101 | The Quality Group | (Senior) Data Engineer | 3.5/5 | PDF ❌
+- [x] #730 | https://job-boards.greenhouse.io/mitratech/jobs/7812294 | Mitratech | Business Intelligence Analyst | 3.0/5 | PDF ❌
+- [x] #731 | https://remotive.com/remote/jobs/data/data-analyst-4539587 | E. Breuninger | Data Analyst | 3.0/5 | PDF ❌
+- [x] #732 | https://remotive.com/remote/jobs/data/senior-data-analyst-4877700 | VYDA | Senior Data Analyst | 3.5/5 | PDF ❌
+- [x] #733 | https://remotive.com/remote/jobs/data/junior-bi-analyst-5078300 | AI Digital | Junior BI Analyst | 3.0/5 | PDF ❌
+- [x] #734 | https://remotive.com/remote/jobs/data/business-intelligence-analyst-5194501 | Curana Health | Business Intelligence Analyst | 2.5/5 | PDF ❌
+
 - [x] #709 | https://job-boards.eu.greenhouse.io/jetbrains/jobs/4792246101 | JetBrains | Business Intelligence Analyst (m/w/d) | 3.8/5 | PDF ❌
 - [x] #710 | https://job-boards.greenhouse.io/freenow/jobs/7597913 | FREENOW | Business Intelligence Analyst | 3.3/5 | PDF ❌
 - [x] #711 | https://jobs.ashbyhq.com/finmid.com/72a36a5d-0973-4f0d-9f95-167c72639c43 | Finmid | Data Analyst | 3.4/5 | PDF ❌

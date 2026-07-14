@@ -2,6 +2,16 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 725 | 2026-07-14 | WPP Media | Supervisor Business Intelligence | 2.5/5 | Evaluated | ❌ | [725](reports/725-wppmedia-2026-07-14.md) | UK location + media domain + seniority gap — skip; not EU Blue Card route |
+| 726 | 2026-07-14 | Awin | Data Engineer - AI/ML (f/m/d) | 3.5/5 | Evaluated | ❌ | [726](reports/726-awin-2026-07-14.md) | Berlin, DE — Databricks cert is differentiator; 2+ yrs AI/ML gap manageable |
+| 727 | 2026-07-14 | FREENOW | Analytics Engineer (m/f/d) | 3.5/5 | Evaluated | ❌ | [727](reports/727-freenow-2026-07-14.md) | Hamburg, DE — Lyft subsidiary, data mesh, Databricks cert applies; AWS/Kafka gap |
+| 728 | 2026-07-14 | Eucalyptus | Senior Analytics Engineer | 2.5/5 | Evaluated | ❌ | [728](reports/728-eucalyptus-2026-07-14.md) | AU — 6+ yrs + BigQuery + Hims&Hers acquisition uncertainty — skip |
+| 729 | 2026-07-14 | The Quality Group | (Senior) Data Engineer | 3.5/5 | Evaluated | ❌ | [729](reports/729-thequalitygroup-2026-07-14.md) | Germany, remote-async — Databricks cert matches; dbt + AWS gap; mid-level OK |
+| 730 | 2026-07-14 | Mitratech | Business Intelligence Analyst | 3.0/5 | Evaluated | ❌ | [730](reports/730-mitratech-2026-07-14.md) | US company — BA+BI perfect skill match; apply only if confirmed globally remote |
+| 731 | 2026-07-14 | E. Breuninger | Data Analyst (m/w/d) | 3.0/5 | Evaluated | ❌ | [731](reports/731-breuninger-2026-07-14.md) | Stuttgart, DE hybrid — e-commerce web analytics domain gap; lower retail comp |
+| 732 | 2026-07-14 | VYDA | Senior Data Analyst (m/f/d) | 3.5/5 | Evaluated | ❌ | [732](reports/732-vyda-2026-07-14.md) | Germany — best Azure/Power BI/MSSQL stack match in batch; Senior 5yr stretch |
+| 733 | 2026-07-14 | AI Digital | Junior BI Analyst | 3.0/5 | Evaluated | ❌ | [733](reports/733-aidigital-2026-07-14.md) | Serbia remote — overqualified, low comp (EUR ~20K), no EU Blue Card pathway |
+| 734 | 2026-07-14 | Curana Health | Business Intelligence Analyst | 2.5/5 | Evaluated | ❌ | [734](reports/734-curanahealth-2026-07-14.md) | US remote only — work auth barrier; skill match excellent but inaccessible |
 | 713 | 2026-07-13 | Konnexus | Senior BI Developer (Power BI) | 2.2/5 | SKIP | ❌ | [713](reports/713-konnexus-2026-07-13.md) | 5+ years required vs ~2yr actual; contract in Australia; no visa sponsorship path |
 | 714 | 2026-07-13 | ITbility | Power BI Developer | 2.8/5 | SKIP | ❌ | [714](reports/714-itbility-2026-07-13.md) | Unknown recruitment agency; JD inaccessible; no visa sponsorship confirmed; Melbourne |
 | 716 | 2026-07-13 | Vay | Senior Data Engineer | 2.8/5 | SKIP | ❌ | [716](reports/716-vay-2026-07-13.md) | Berlin autonomous vehicles; Senior + Golang + Snowflake/dbt/Kafka gaps; bookmark for future |
