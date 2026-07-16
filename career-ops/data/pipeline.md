@@ -4,6 +4,28 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [ ] https://job-boards.greenhouse.io/stackadapt/jobs/4297633009 | StackAdapt | Senior Data Analyst, Business Intelligence
+- [ ] https://job-boards.eu.greenhouse.io/convera/jobs/4796228101 | Convera | Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/calendly/jobs/8414932002 | Calendly | Senior Data Analyst, Product
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5153261007 | Encora | Senior Data Analyst
+- [ ] https://jobs.ashbyhq.com/pearlyplan/c4861327-30bd-4c3b-b993-ebffb5a69065 | Pearly | Senior Software Engineer - Full Stack
+- [ ] https://jobs.ashbyhq.com/zeal-network/2513ec18-f75f-4e8e-90ae-20ccaf40620c | Zeal Network | (Senior) Full Stack Next.js Developer (f/m/d)
+- [ ] https://jobs.ashbyhq.com/applied/81ecc9b1-5b46-40c1-b69e-ffc20a4a53f9 | Applied Intuition | Senior Frontend Engineer (Full-Stack)
+- [ ] https://jobs.ashbyhq.com/loki/f40cb259-7e5e-4d54-a97a-a01af9f3cdaf | Loki Robotics | Fullstack Software Engineer (Zürich)
+- [ ] https://remotive.com/remote/jobs/data/senior-business-intelligence-analyst-5011343 | Technology Credit Union | Senior Business Intelligence Analyst
+- [ ] https://remotive.com/remote/jobs/data/senior-data-engineer-5147986 | Clubessential Holdings | Senior Data Engineer
+- [ ] https://remotive.com/remote/jobs/data/gaming-data-engineer-5166432 | Blueprint Technologies | Gaming Data Engineer
+- [ ] https://remotive.com/remote/jobs/data/senior-data-platform-engineer-5083112 | Truelogic | Senior Data & Platform Engineer
+- [ ] https://remotive.com/remote/jobs/data/data-engineer-4758297 | The Providencia Group | Data Engineer
+- [ ] https://remotive.com/remote/jobs/software-development/software-engineer-ii-data-platform-5111125 | Pantheon Systems | Software Engineer II - Data Platform
+- [ ] https://remotive.com/remote/jobs/software-development/powerapps-developer-2653860 | Avenir Digital Inc | PowerApps Developer
+- [ ] https://remotive.com/remote/jobs/software-development/power-apps-developer-4488299 | General Dynamics IT | Power Apps Developer
+- [ ] https://remotive.com/remote/jobs/data/data-analyst-ii-4360302 | ITA International | Data Analyst II
+- [ ] https://remotive.com/remote/jobs/data/junior-data-analyst-4285075 | pureIntegration | Junior Data Analyst
+- [ ] https://remotive.com/remote/jobs/data/senior-manager-data-platform-4659434 | mSupply | Senior Manager, Data Platform
+- [ ] https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-1 | Proxify AB | Senior Fullstack Developer (React.js & Node.js)
+- [ ] https://jobs.ashbyhq.com/munich-electrification/436a3e5d-0ca1-4bba-a720-56525f68a8e7 | Munich Electrification | Senior Software Engineer (Rust/Python)
+
 - [x] #725 | https://job-boards.greenhouse.io/wppmedia/jobs/5290934008 | WPP Media | Supervisor Business Intelligence | 2.5/5 | PDF ❌
 - [x] #726 | https://job-boards.greenhouse.io/awin/jobs/7709658003 | Awin | Data Engineer - AI/ML | 3.5/5 | PDF ❌
 - [x] #727 | https://job-boards.greenhouse.io/freenow/jobs/7300094 | FREENOW | Analytics Engineer | 3.5/5 | PDF ❌
