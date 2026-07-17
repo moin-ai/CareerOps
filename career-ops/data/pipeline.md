@@ -4,6 +4,28 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [ ] https://jobs.ashbyhq.com/n8n/48bc9f74-5ec3-41f9-bfdf-ade6b3be7ecc | n8n | Data Analyst PLG (Remote Europe)
+- [ ] https://job-boards.eu.greenhouse.io/jetbrains/jobs/4698787101 | JetBrains | Data Analyst (JetBrains AI)
+- [ ] https://job-boards.greenhouse.io/adahealth/jobs/8086622002 | Ada Health GmbH | Senior Data Engineer (Berlin)
+- [ ] https://job-boards.greenhouse.io/eurowingsdigital/jobs/6597406003 | Eurowings Digital | Senior Data Engineer (Remote Germany)
+- [ ] https://www.linkedin.com/jobs/view/4357596833 | Michael Bailey Associates | Data Analyst / Data Engineer Power BI Azure (Remote Europe)
+- [ ] https://jobs.ashbyhq.com/onhires/f747b8e0-7135-4ea6-9749-b0c283f45b75 | OnHires | Lead Data Engineer (Remote Europe, Berlin team)
+- [ ] https://jobs.ashbyhq.com/jimdo.com/19955aa3-0b86-4a62-9062-57cdcaf3b6f4 | Jimdo | Data Engineer (Hamburg)
+- [ ] https://job-boards.greenhouse.io/simplesurance/jobs/7112727 | simplesurance | Business Analyst (all genders) - Berlin
+- [ ] https://remotive.com/remote/jobs/software-development/power-platform-system-owner-4415953 | Worldwiders | Power Platform System Owner
+- [ ] https://jobs.ashbyhq.com/swans/770ebec9-ade2-4b3f-bf69-09152646d40c | Swans | Business Intelligence Analyst
+- [ ] https://job-boards.eu.greenhouse.io/saasgroup/jobs/4653079101 | saas.group | Data Engineer (German-speaking, 9mo FTC)
+- [ ] https://remotive.com/remote/jobs/data/analyst-business-intelligence-data-insights-fall-2026-4169262 | CBIZ | BI & Data Insights Analyst (Fall 2026)
+- [ ] https://remotive.com/remote/jobs/data/data-analyst-4163394 | Lumin Digital | Data Analyst
+- [ ] https://remotive.com/remote/jobs/data/business-intelligence-data-analyst-ii-4257883 | Advarra | BI Data Analyst II
+- [ ] https://remotive.com/remote/jobs/data/senior-analytics-databricks-engineer-4502521 | UnityPoint Health | Senior Analytics/Databricks Engineer
+- [ ] https://remotive.com/remote/jobs/software-development/microsoft-power-platform-dynamics-365-developer-4462115 | Heinsohn Business Technology | Microsoft Power Platform & Dynamics 365 Developer
+- [ ] https://remotive.com/remote/jobs/software-development/full-stack-engineering-consultant-5213063 | 24-MAG | Full-Stack Engineering Consultant
+- [ ] https://remotive.com/remote/jobs/software-development/global-full-stack-software-engineer-5179532 | Goodway Group | Global Full Stack Software Engineer
+- [ ] https://jobs.ashbyhq.com/permitflow/7948310d-15a4-4034-ae09-30d69990cf32 | PermitFlow | Analytics Engineer
+- [ ] https://weworkremotely.com/remote-jobs/capital-one-senior-data-engineer-capital-one-software-remote | Capital One | Senior Data Engineer
+- [ ] https://weworkremotely.com/remote-jobs/tech-guys-who-get-marketing-data-engineer | Tech Guys Who Get Marketing | Data Engineer
+
 - [x] #735 | https://job-boards.greenhouse.io/stackadapt/jobs/4297633009 | StackAdapt | Senior Data Analyst, Business Intelligence | 3.3/5 | PDF ❌
 - [x] #736 | https://job-boards.eu.greenhouse.io/convera/jobs/4796228101 | Convera | Analytics Engineer | 2.7/5 | PDF ❌
 - [x] #737 | https://job-boards.greenhouse.io/calendly/jobs/8414932002 | Calendly | Senior Data Analyst, Product | 2.5/5 | PDF ❌
