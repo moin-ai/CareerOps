@@ -2,6 +2,12 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 778 | 2026-07-18 | ECI Software Solutions | Business Analyst, AI Workflows | 1.5/5 | SKIP | ❌ | [778](reports/778-eci-software-2026-07-18.md) | US remote only — work auth blocker; Salesforce gap; 5yr req |
+| 779 | 2026-07-18 | Inspira Financial | Senior Business Analyst | 1.5/5 | SKIP | ❌ | [779](reports/779-inspira-financial-2026-07-18.md) | US only, 7yr req, fintech domain — triple hard blocker |
+| 781 | 2026-07-18 | EUROPEAN DYNAMICS | Full Stack Developer | 1.5/5 | SKIP | ❌ | [781](reports/781-european-dynamics-2026-07-18.md) | .NET/Angular likely req — hard mismatch; EU residency barrier; B2G contracting |
+| 782 | 2026-07-18 | Nooxit GmbH | Full Stack Engineer | 2.5/5 | SKIP | ❌ | [782](reports/782-nooxit-2026-07-18.md) | AI observability focus (major gap), Docker/TS/K8s absent, visa unconfirmed; German co worth monitoring |
+| 784 | 2026-07-18 | Patronus Group | BI & Data Analyst | 3.0/5 | Evaluated | ❌ | [784](reports/784-patronus-group-2026-07-18.md) | Best Germany fit in batch; verify liveness (Oct 2025 posting); Snowflake/dbt gap; hybrid Berlin req |
+| 785 | 2026-07-18 | Innovaccer Analytics | Data Analyst | 1.5/5 | SKIP | ❌ | [785](reports/785-innovaccer-2026-07-18.md) | US E-Verify employer — work auth blocker; healthcare domain gap |
 | 762 | 2026-07-17 | Jimdo | Data Engineer | 1.3/5 | Evaluated | ❌ | [762](reports/762-jimdo-2026-07-17.md) | Snowflake/dbt/Airflow/AWS stack is full ecosystem mismatch with candidate's Azure/Databricks background; salary below target. |
 | 764 | 2026-07-17 | Worldwiders | Power Platform System Owner | 3.2/5 | Evaluated | ❌ | [764](reports/764-worldwiders-2026-07-17.md) | Apply with caveats — worldwide remote (no visa needed); strong Power Apps/Automate match; D365 F&O integration gap; seniority stretch |
 | 767 | 2026-07-17 | CBIZ | BI & Data Insights Analyst (Fall 2026) | 3.1/5 | Evaluated | ❌ | [767](reports/767-cbiz-2026-07-17.md) | Apply with caveats — strong Power BI/SQL match; $50-90K USD; confirm H1B sponsorship willingness before applying; US-only remote |

@@ -4,15 +4,15 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
-- [ ] https://remotive.com/remote/jobs/data/analytics-engineer-4961064 | InPost | Analytics Engineer
-- [ ] https://remotive.com/remote/jobs/data/business-analyst-ai-workflows-5210122 | ECI Software Solutions | Business Analyst, AI Workflows
-- [ ] https://remotive.com/remote/jobs/data/senior-business-analyst-5206382 | Inspira Financial | Senior Business Analyst
-- [ ] https://jobs.ashbyhq.com/gratia/30be614f-ffa3-43a1-949c-a514b07c5ab8 | Gratia | Business Analyst
-- [ ] https://remotive.com/remote/jobs/software-development/full-stack-developer-4457058 | EUROPEAN DYNAMICS | Full Stack Developer
-- [ ] https://remotive.com/remote/jobs/software-development/full-stack-engineer-5189034 | Nooxit GmbH | Full Stack Engineer
-- [ ] https://job-boards.greenhouse.io/awin/jobs/7710046003 | Awin | Senior Software Engineer
-- [ ] https://de.linkedin.com/jobs/view/bi-data-analyst-m-f-d-berlin-at-patronus-group-4334322988 | Patronus Group | BI & Data Analyst (m/f/d) — Berlin
-- [ ] https://remotive.com/remote/jobs/data/data-analyst-4926361 | Innovaccer Analytics | Data Analyst
+- [x] #777 | https://remotive.com/remote/jobs/data/analytics-engineer-4961064 | InPost | Analytics Engineer | 2.0/5 | PDF ❌
+- [x] #778 | https://remotive.com/remote/jobs/data/business-analyst-ai-workflows-5210122 | ECI Software Solutions | Business Analyst, AI Workflows | 1.5/5 | PDF ❌
+- [x] #779 | https://remotive.com/remote/jobs/data/senior-business-analyst-5206382 | Inspira Financial | Senior Business Analyst | 1.5/5 | PDF ❌
+- [x] #780 | https://jobs.ashbyhq.com/gratia/30be614f-ffa3-43a1-949c-a514b07c5ab8 | Gratia | Business Analyst | 2.0/5 | PDF ❌
+- [x] #781 | https://remotive.com/remote/jobs/software-development/full-stack-developer-4457058 | EUROPEAN DYNAMICS | Full Stack Developer | 1.5/5 | PDF ❌
+- [x] #782 | https://remotive.com/remote/jobs/software-development/full-stack-engineer-5189034 | Nooxit GmbH | Full Stack Engineer | 2.5/5 | PDF ❌
+- [x] #783 | https://job-boards.greenhouse.io/awin/jobs/7710046003 | Awin | Senior Software Engineer | 1.5/5 | PDF ❌
+- [x] #784 | https://de.linkedin.com/jobs/view/bi-data-analyst-m-f-d-berlin-at-patronus-group-4334322988 | Patronus Group | BI & Data Analyst (m/f/d) — Berlin | 3.0/5 | PDF ❌
+- [x] #785 | https://remotive.com/remote/jobs/data/data-analyst-4926361 | Innovaccer Analytics | Data Analyst | 1.5/5 | PDF ❌
 
 - [x] #756 | https://jobs.ashbyhq.com/n8n/48bc9f74-5ec3-41f9-bfdf-ade6b3be7ecc | n8n | Data Analyst PLG | 2.0/5 | PDF ❌
 - [x] #757 | https://job-boards.eu.greenhouse.io/jetbrains/jobs/4698787101 | JetBrains | Data Analyst (JetBrains AI) | 3.5/5 | PDF ❌
