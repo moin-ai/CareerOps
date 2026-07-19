@@ -4,6 +4,21 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [ ] https://job-boards.greenhouse.io/abinbev/jobs/8630860002 | AB InBev | Business Intelligence Analyst
+- [ ] https://job-boards.greenhouse.io/moia/jobs/4880620101 | MOIA GmbH | (Senior) Data Platform Engineer (Parental leave cover 12 months)
+- [ ] https://jobs.ashbyhq.com/ndeavour/40ac7fa4-d361-4624-8a5f-93f4bdb02918 | NDEAVOUR Consulting | Senior Data Engineer (Databricks / AWS)
+- [ ] https://weworkremotely.com/remote-jobs/mrioa-web-developer-remote | MRIoA | Web Developer (Remote)
+- [ ] https://remotive.com/remote/jobs/data/senior-business-analyst-ai-data-5205081 | phData | Senior Business Analyst, AI & Data
+- [ ] https://remotive.com/remote/jobs/software-development/data-engineer-4456459 | Funded.club | Data Engineer
+- [ ] https://remotive.com/remote/jobs/software-development/senior-data-engineer-4346424 | Angi | Senior Data Engineer
+- [ ] https://remotive.com/remote/jobs/software-development/data-engineer-4228628 | SemiAnalysis | Data Engineer (Europe-based)
+- [ ] https://remotive.com/remote/jobs/software-development/senior-data-engineer-4428330 | Praxair | Senior Data Engineer
+- [ ] https://remotive.com/remote-jobs/software-development/senior-full-stack-developer-2075915 | Lemon.io | Senior Full-Stack Developer
+- [ ] https://remotive.com/remote/jobs/software-development/software-engineer-fullstack-4500237 | GoTo | Software Engineer - Fullstack
+- [ ] https://remotive.com/remote/jobs/software-development/full-stack-java-developer-5126483 | Dedalus | Full Stack Java Developer (Germany)
+- [ ] https://remotive.com/remote/jobs/software-development/full-stack-developer-3799385 | Melotech | Full-Stack Developer
+- [ ] https://remotive.com/remote/jobs/software-development/senior-full-stack-engineer-4498903 | Coding Partners | Senior Full Stack Engineer (Germany)
+
 - [x] #777 | https://remotive.com/remote/jobs/data/analytics-engineer-4961064 | InPost | Analytics Engineer | 2.0/5 | PDF ❌
 - [x] #778 | https://remotive.com/remote/jobs/data/business-analyst-ai-workflows-5210122 | ECI Software Solutions | Business Analyst, AI Workflows | 1.5/5 | PDF ❌
 - [x] #779 | https://remotive.com/remote/jobs/data/senior-business-analyst-5206382 | Inspira Financial | Senior Business Analyst | 1.5/5 | PDF ❌
