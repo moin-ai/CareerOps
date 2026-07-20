@@ -4,28 +4,28 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
-- [ ] https://jobs.ashbyhq.com/zenjob/cb4a5fc7-ee05-41f0-b07a-0d91403c3d8e | Zenjob | Full-Stack Engineer (Germany)
-- [ ] https://jobs.ashbyhq.com/anyone-ai/d6bb835e-1a3e-4d9d-b84f-ef7c7585cf22 | Anyone AI | Full-Stack Developer (Germany)
-- [ ] https://job-boards.greenhouse.io/typeform/jobs/7942504 | Typeform | Full Stack Developer
-- [ ] https://remotive.com/remote/jobs/data/business-data-analyst-5146636 | GEHA Health | Business Data Analyst
-- [ ] https://remotive.com/remote/jobs/data/business-analyst-marketing-analytics-4133615 | Skillsoft | Business Analyst – Marketing Analytics
-- [ ] https://remotive.com/remote/jobs/data/business-data-analyst-4595260 | Quantrics | Business Data Analyst
-- [ ] https://remotive.com/remote/jobs/data/associate-data-analyst-dx-research-3733492 | Atlassian | Associate Data Analyst, DX Research
-- [ ] https://remotive.com/remote/jobs/data/business-analyst-5167172 | HealthEdge | Business Analyst
-- [ ] https://remotive.com/remote/jobs/data/engineer-analytics-5249822 | Ensemble Health Partners | Engineer, Analytics
-- [ ] https://remotive.com/remote/jobs/data/entry-level-to-senior-level-data-engineers-5223862 | Ruri Software | Entry Level to Senior Level Data Engineers
-- [ ] https://remotive.com/remote/jobs/data/senior-analytics-engineer-4664134 | tem | Senior Analytics Engineer
-- [ ] https://remotive.com/remote/jobs/data/data-engineer-4979895 | IPinfo | Data Engineer
-- [ ] https://remotive.com/remote/jobs/data/senior-data-engineer-5221720 | Berkeley Payment Solutions | Senior Data Engineer
-- [ ] https://remotive.com/remote/jobs/software-development/full-stack-developer-5237799 | Vaniam Group | Full Stack Developer
-- [ ] https://remotive.com/remote/jobs/software-development/full-stack-software-developer-4477011 | Littelfuse | Full-Stack Software Developer
-- [ ] https://remotive.com/remote/jobs/software-development/full-stack-developer-4298732 | Fullpath | Full-Stack Developer
-- [ ] https://remotive.com/remote/jobs/software-development/senior-full-stack-developer-3867627 | easysoftgroup | Senior Full-Stack Developer
-- [ ] https://remotive.com/remote/jobs/software-development/full-stack-developer-5158633 | Emapta | Full-Stack Developer
-- [ ] https://remotive.com/remote/jobs/software-development/full-stack-web-developer-4427508 | VyOS Inc | Full-Stack Web Developer
-- [ ] https://weworkremotely.com/remote-jobs/sowelo-consulting-full-stack-developer | Sowelo Consulting | Full Stack Developer
-- [ ] https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-2 | Proxify AB | Senior Fullstack Developer (React.js / Node.js)
-- [ ] https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3 | Sticker Mule | Software Engineer
+- [x] #800 | https://jobs.ashbyhq.com/zenjob/cb4a5fc7-ee05-41f0-b07a-0d91403c3d8e | Zenjob | Full-Stack Engineer (Germany) | 1.5/5 | PDF ❌
+- [x] #801 | https://jobs.ashbyhq.com/anyone-ai/d6bb835e-1a3e-4d9d-b84f-ef7c7585cf22 | Anyone AI | Full-Stack Developer (Germany) | 1.8/5 | PDF ❌
+- [x] #802 | https://job-boards.greenhouse.io/typeform/jobs/7942504 | Typeform | Full Stack Developer | 2.8/5 | PDF ❌
+- [x] #803 | https://remotive.com/remote/jobs/data/business-data-analyst-5146636 | GEHA Health | Business Data Analyst | 2.3/5 | PDF ❌
+- [x] #804 | https://remotive.com/remote/jobs/data/business-analyst-marketing-analytics-4133615 | Skillsoft | Business Analyst – Marketing Analytics | 2.5/5 | PDF ❌
+- [x] #805 | https://remotive.com/remote/jobs/data/business-data-analyst-4595260 | Quantrics | Business Data Analyst | 2.8/5 | PDF ❌
+- [x] #806 | https://remotive.com/remote/jobs/data/associate-data-analyst-dx-research-3733492 | Atlassian | Associate Data Analyst, DX Research | 1.5/5 | PDF ❌
+- [x] #807 | https://remotive.com/remote/jobs/data/business-analyst-5167172 | HealthEdge | Business Analyst | 1.5/5 | PDF ❌
+- [x] #808 | https://remotive.com/remote/jobs/data/engineer-analytics-5249822 | Ensemble Health Partners | Engineer, Analytics | 1.5/5 | PDF ❌
+- [x] #809 | https://remotive.com/remote/jobs/data/entry-level-to-senior-level-data-engineers-5223862 | Ruri Software | Entry Level to Senior Level Data Engineers | 1.5/5 | PDF ❌
+- [x] #810 | https://remotive.com/remote/jobs/data/senior-analytics-engineer-4664134 | tem | Senior Analytics Engineer | 2.4/5 | PDF ❌
+- [x] #811 | https://remotive.com/remote/jobs/data/data-engineer-4979895 | IPinfo | Data Engineer | 3.0/5 | PDF ❌
+- [x] #812 | https://remotive.com/remote/jobs/data/senior-data-engineer-5221720 | Berkeley Payment Solutions | Senior Data Engineer | 2.0/5 | PDF ❌
+- [x] #813 | https://remotive.com/remote/jobs/software-development/full-stack-developer-5237799 | Vaniam Group | Full Stack Developer | 1.5/5 | PDF ❌
+- [x] #814 | https://remotive.com/remote/jobs/software-development/full-stack-software-developer-4477011 | Littelfuse | Full-Stack Software Developer | 1.6/5 | PDF ❌
+- [x] #815 | https://remotive.com/remote/jobs/software-development/full-stack-developer-4298732 | Fullpath | Full-Stack Developer | 1.5/5 | PDF ❌
+- [x] #816 | https://remotive.com/remote/jobs/software-development/senior-full-stack-developer-3867627 | easysoftgroup | Senior Full-Stack Developer | 2.0/5 | PDF ❌
+- [x] #817 | https://remotive.com/remote/jobs/software-development/full-stack-developer-5158633 | Emapta | Full-Stack Developer | 1.5/5 | PDF ❌
+- [x] #818 | https://remotive.com/remote/jobs/software-development/full-stack-web-developer-4427508 | VyOS Inc | Full-Stack Web Developer | 2.0/5 | PDF ❌
+- [x] #819 | https://weworkremotely.com/remote-jobs/sowelo-consulting-full-stack-developer | Sowelo Consulting | Full Stack Developer | 1.5/5 | PDF ❌
+- [x] #820 | https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-2 | Proxify AB | Senior Fullstack Developer (React.js / Node.js) | 2.0/5 | PDF ❌
+- [x] #821 | https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3 | Sticker Mule | Software Engineer | 2.5/5 | PDF ❌
 
 - [x] #786 | https://job-boards.greenhouse.io/abinbev/jobs/8630860002 | AB InBev | Business Intelligence Analyst | 2.1/5 | PDF ❌
 - [x] #787 | https://job-boards.greenhouse.io/moia/jobs/4880620101 | MOIA GmbH | (Senior) Data Platform Engineer | 2.1/5 | PDF ❌
