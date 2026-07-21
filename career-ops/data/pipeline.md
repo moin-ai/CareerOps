@@ -4,6 +4,22 @@ Add job URLs here for evaluation. Run `/career-ops pipeline` to process them.
 
 ## Pending
 
+- [ ] https://jobs.ashbyhq.com/onhires/591d4421-59f0-4b25-9d06-b1234fb0de04 | OnHires | Founding Data Engineer (Analytics Platform)
+- [ ] https://jobs.ashbyhq.com/regard/45fddbb6-c2cb-418f-98b3-8547595c2c56 | Regard | Senior Data Engineer
+- [ ] https://jobs.ashbyhq.com/parafin/b6fbdb8d-aa25-4216-a0bb-9af06607bd96 | Parafin | Data Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/whatnot/9fd6fef1-619f-48dd-97b0-c91063432df3 | Whatnot | Data Engineer
+- [ ] https://remotive.com/remote/jobs/data/senior-data-analyst-3777859 | Betclic Group | Senior Data Analyst
+- [ ] https://remotive.com/remote/jobs/software-development/full-stack-engineer-data-services-5249013 | Vytalize Health | Full Stack Engineer, Data Services
+- [ ] https://remotive.com/remote/jobs/software-development/data-engineer-4209639 | Weekday AI | Data Engineer
+- [ ] https://weworkremotely.com/remote-jobs/fixd-automotive-senior-engineer-full-stack-ruby-on-rails | FIXD Automotive | Senior Engineer, Full-Stack (Ruby on Rails)
+- [ ] https://job-boards.greenhouse.io/acuitymd/jobs/6111981004 | AcuityMD | Data Analyst, Software Engineering Track
+- [ ] https://job-boards.greenhouse.io/3cloud/jobs/8603382002 | 3Cloud | Senior Data Engineer - Managed Services
+- [ ] https://job-boards.greenhouse.io/audaxgroup/jobs/4649036005 | Audax Group | Data Engineer, Business Solutions Co-Op
+- [ ] https://jobs.ashbyhq.com/tailor/08796053-4fa8-48db-9a73-a977ae2c5434 | Tailor | Full-Stack Software Engineer
+- [ ] https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3 | Netic | Full-Stack Software Engineer (Product) - New Grad 2026-2027
+- [ ] https://job-boards.greenhouse.io/eucalyptus/jobs/4713640005 | Eucalyptus | Data Analyst, Canada
+- [ ] https://euremotejobs.com/job/ai-product-engineer-full-stack-2/ | EURemoteJobs | AI Product Engineer (Full Stack)
+
 - [x] #800 | https://jobs.ashbyhq.com/zenjob/cb4a5fc7-ee05-41f0-b07a-0d91403c3d8e | Zenjob | Full-Stack Engineer (Germany) | 1.5/5 | PDF ❌
 - [x] #801 | https://jobs.ashbyhq.com/anyone-ai/d6bb835e-1a3e-4d9d-b84f-ef7c7585cf22 | Anyone AI | Full-Stack Developer (Germany) | 1.8/5 | PDF ❌
 - [x] #802 | https://job-boards.greenhouse.io/typeform/jobs/7942504 | Typeform | Full Stack Developer | 2.8/5 | PDF ❌
